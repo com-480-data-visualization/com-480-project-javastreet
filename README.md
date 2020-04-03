@@ -11,7 +11,7 @@
 ## Milestone 1 (Friday 3rd April, 5pm)
 
 ### 1. Dataset
-We chose to devote our data visualization project to Android applications. Our data comes from the website [androidrank.org](https://www.androidrank.org), which displays in a very clean manner open information about the 500 most downloaded apps in each category of the Google Play Store. The characteristics provided are the following: number of rating and installs, average rating, price and finally the growth in number of reviews for the last 30 and 60 days. Here is an example of what it looks like :
+We chose to devote our data visualization project to Android applications. Our data comes from the website [androidrank.org](https://www.androidrank.org), which displays in a very clean manner open information about the 500 most downloaded apps in each category of the Google Play Store. The characteristics provided are the following: number of rating and installs, average rating, growth in number of reviews for the last 30 and 60 days and finally price. Here is an example of what it looks like :
 
 
 ![Overview of the data available at androidrank.org](res/overview.PNG)
