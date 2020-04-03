@@ -24,7 +24,7 @@ We will thus try to show what makes an app successful, especially what are the k
 This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone. This idea is more developed in the 4th part, and will be even more explained in the Milestone 2.
 
 ### 3. Exploratory Data Analysis
-We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with some comments that describe the processing.
+We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook [analysis.ipynb](analysis.ipynb) with some comments that describe the processing.
 
 The dataset was generally clean and ready to used. However there were… doublons blabla jsp
 
