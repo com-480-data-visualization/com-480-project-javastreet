@@ -11,7 +11,7 @@
 ## Milestone 1 (Friday 3rd April, 5pm)
 
 ### 1. Dataset
-We chose to devote our data visualization project to Android applications. Our data comes from the website [androidrank.org](https://www.androidrank.org), which displays in a very clean manner open information about the 500 most downloaded apps in each category of the Google Play Store. The characteristics provided are the following: number of rating and installs, average rating, growth in number of reviews for the last 30 and 60 days and finally price. Here is an example of what it looks like :
+We chose to devote our data visualization project to Android applications. Our data comes from the website [androidrank.org](https://www.androidrank.org), which displays in a very clean manner open information about the 500 most downloaded apps in each category of the Google Play Store. The characteristics provided are the following: number of ratings and installs, average rating, growth in number of reviews for the last 30 and 60 days and finally price. Here is an example of what it looks like :
 
 
 ![Overview of the data available at androidrank.org](res/overview.PNG)
@@ -30,9 +30,11 @@ This is moreover something that could be interesting to anyone since nowadays mo
 ### 3. Exploratory Data Analysis
 We started the exploration of the dataset with some basic statistics to have a general idea of what we were dealing with. You can find all the initial analysis on the Python notebook [analysis.ipynb](analysis.ipynb) with comments that describe all the processing.
 
-The used dataset was generally clean and ready to use as explained before but because of a limited number of requests during the parsing, the data had to be acquired in a few steps. The saved dataframes were then merged together, removing the potential duplicates. 
+The used dataset was generally clean and ready to use as explained before, but because of a limited number of requests during the parsing, the data had to be acquired in a few steps. The saved dataframes were then merged together, removing the potential duplicates. 
 
-After that, we starting to analyze the data by proceeding to basic statistics. We could for instance see that only 0.5% of apps in the dataset are paid apps, which was less than we expected. Moreover, we observed that looking at the most installed apps and the most reviewed ones gives two different rankings, which shows that ranking the apps could maybe be done using a balance between the two criteria. Finally, after analyzing the growth of the apps reviews, we saw that some unexpected (according to us) categories had the higher growth such as *Art & Design* or *Video Players*. The growth of the latter may be explained by the containment that led many people to actively watch videos through apps. Let's note that the growth is sometimes not very representative since it's only a percentage and thus going from 0 to 1’000 reviews give a much higher growth than going from 1’000’000 to 1’001’00 reviews. So we will have to also find a balance in order to include this parameter in our analysis.
+After that, we started to analyze the data by proceeding to basic statistics. We could for instance see that only 0.5% of apps in the dataset are paid apps, which was less than we expected. Moreover, we observed that looking at the most installed apps and the most reviewed ones gives two different rankings, which shows that ranking the apps could maybe be done using a balance between the two criteria.
+
+Finally, after analyzing the growth of the apps reviews, we saw that some unexpected (according to us) categories had the higher growth such as *Art & Design* or *Video Players*. The growth of the latter may be explained by the containment that led many people to actively watch videos through apps. Let's note that the growth is sometimes not very representative since it's only a percentage and thus going from 0 to 1’000 reviews give a much higher growth than going from 1’000’000 to 1’001’00 reviews. So we will have to also find a balance in order to include this parameter in our analysis.
 
 ### 4. Related Work
 We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings. This way, we could maybe have a more representative ranking of the apps success.
