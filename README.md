@@ -30,7 +30,7 @@ This is moreover something that could be interesting to anyone since nowadays mo
 ### 3. Exploratory Data Analysis
 We started the exploration of the dataset with some basic statistics to have a general idea of what we were dealing with. You can find all the initial analysis on the Python notebook [analysis2.ipynb](analysis2.ipynb) with comments that describe all the processing.
 
-The used dataset was generally clean and ready to use as explained before, but because of a limited number of requests during the parsing, the data had to be acquired in a few steps. The saved dataframes were then merged together, removing the potential duplicates. 
+The used dataset was generally clean and ready-to-use as explained before, but because of a limited number of requests during the parsing, the data had to be acquired in a few steps. The saved dataframes were then merged together, removing the potential duplicates. 
 
 After that, we started to analyze the data by proceeding to basic statistics. We could for instance see that only 0.5% of apps in the dataset are paid apps, which was less than we expected. Moreover, we observed that looking at the most installed apps and the most reviewed ones gives two different rankings, which shows that ranking the apps could maybe be done using a balance between the two criteria.
 
