@@ -13,9 +13,9 @@
 ### 1. Dataset
 
 ### 2. Problematic
-We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre, target audience…) that have the greater importance in an app’s success.
+We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre…) that have the greater importance in an app’s success. We will also try to visualize the evolution this success during time and compare this evolution for the most successful apps.
 
-This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone, where its apps will give access to the visualized data. It will then be directly related to the content itself and will also make the interface more user-friendly.
+This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone. This idea is more developed in the 4th part, and will be even more explained in the Milestone 2.
 
 ### 3. Exploratory Data Analysis
 We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with some comments that describe the processing.
