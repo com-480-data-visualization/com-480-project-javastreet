@@ -13,7 +13,7 @@
 ### 1. Dataset
 We chose to devote our data visualization project to Android applications. Our data comes from the website [androidrank.org](https://www.androidrank.org), which displays in a very clean manner open information about the 500 most downloaded apps in each category of the Google Play Store. The characteristics provided are the following: number of installs and review, average rating, price and finally the growth in number of reviews for the last 30 and 60 days.
 
-![Overview of the data available at androidrank.org](res/overview.png)
+![Overview of the data available at androidrank.org](res/overview.PNG)
 
 The chosen data will not require much pre-processing as it was already well-structured but did require a certain amount of time of scraping. We chose this solution over the existing dataset [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) available on Kaggle, because there was no indication on how the selection of the 10’000 apps it presents was made, thus hindering the possibility of displaying meaningful informations from it.
 
