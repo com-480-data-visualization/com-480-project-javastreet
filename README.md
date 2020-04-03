@@ -16,6 +16,9 @@
 ### 2. Problematic
 
 ### 3. Exploratory Data Analysis
+We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with some comments that describe the processing.
+
+The dataset was generally clean and ready to used. However there were… doublons blabla jsp
 
 ### 4. Related Work
 We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings or comments. This way, we could maybe have faithful ranking of the apps success.
