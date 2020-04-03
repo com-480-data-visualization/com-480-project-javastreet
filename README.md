@@ -11,6 +11,12 @@
 ## Milestone 1 (Friday 3rd April, 5pm)
 
 ### 1. Dataset
+We chose to devote our data visualization project to Android applications. Our data comes from the website androidrank.org, which displays in a very clean manner open information about the 500 most downloaded apps in each category. The characteristics provided are the following: number of installs and review, average rating, price and finally the growth in number of reviews for the last 30 and 60 days.
+
+The chosen data will not require much pre-processing as it was already well-structured but did require a certain amount of time of scraping. We chose this solution over the existing dataset Google Play Store Apps available on Kaggle, because there was no information on how the selection of the 10’000 apps it presents was made, thus hindering the possibility of deriving meaningful conclusions from it.
+
+Besides, the data provided on androidrank.org are up-to-date, which is a considerable advantage in the context of the ever-changing market that are mobile applications. Finally, an API is provided to get more details about the evolution of a particular application, for instance the dates when the app crossed the different number of installations milestones as well as the evolution of the distribution of ratings. This would allow us to do add a more in-depth visualization for a selected group of apps.
+
 
 ### 2. Problematic
 We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre…) that have the greater importance in an app’s success. We will also try to visualize the evolution this success during time and compare this evolution for the most successful apps.
