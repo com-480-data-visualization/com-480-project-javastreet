@@ -23,14 +23,12 @@ Besides, the data provided on [androidrank.org](https://www.androidrank.org) are
 
 
 ### 2. Problematic
-We will thus try to show what makes an app successful, especially what are the key characteristics of an app (price, genre…) that have the greater importance in an app’s success. We will also try to visualize the evolution of this success during time and compare this evolution for the most successful apps.
+We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre…) that have the greater importance in an app’s success. We will also try to visualize the evolution this success during time and compare this evolution for the most successful apps.
 
 This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone. This idea is more developed in the 4th part, and will be even more explained in the Milestone 2.
 
 ### 3. Exploratory Data Analysis
-We started the exploration of the dataset with some basic statistics to have a general idea of what we were dealing with. You can find all the initial analysis on our Python notebook [analysis.ipynb](analysis.ipynb) with some comments that describe the processing.
-
-The dataset was generally clean and ready to used. However there were… doublons blabla jsp
+We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with comments that describe all the processing.
 
 ### 4. Related Work
 We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings. This way, we could maybe have faithful ranking of the apps success.
