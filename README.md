@@ -10,10 +10,12 @@
 
 ## Milestone 1 (Friday 3rd April, 5pm)
 
-**10% of the final grade**
 ### 1. Dataset
 
 ### 2. Problematic
+We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre, target audience…) that have the greater importance in an app’s success.
+
+This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone, where its apps will give access to the visualized data. It will then be directly related to the content itself and will also make the interface more user-friendly.
 
 ### 3. Exploratory Data Analysis
 We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with some comments that describe the processing.
