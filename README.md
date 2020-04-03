@@ -23,9 +23,9 @@ We started the exploration of the dataset with some basic statistics to have a g
 The dataset was generally clean and ready to used. However there were… doublons blabla jsp
 
 ### 4. Related Work
-We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings or comments. This way, we could maybe have faithful ranking of the apps success.
+We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings. This way, we could maybe have faithful ranking of the apps success.
 
-And what if in addition to that you are building an app and you want to see if it’s likely to reach success on the Google Play Store? This is a question we asked ourselves, which made us wanting to include a small Machine Learning part in our project making our approach original. Indeed, based on the characteristics of the apps that we will consider as successful, we will try to predict the success of a custom app that you will design by choosing its characteristics (price, size, category…). Even if there are not that many categories to deal with, we will try to implement this Machine Learning part and see if some interesting results appear. If so, you would be able to adjust the parameters as you wish, and maybe try to find the secret formula of an app’s success!
+Moreover as explained previously, the data will be displayed in the form of a smartphone where its apps will give access to the visualised results. It will then be directly related to the content itself and will also make the interface more user-friendly. People using the data will find it easy to jump from a result to another since they are used to this kind of interaction with their own smartphone, but the concept will this time be used as data visualization technique.
 
 
 
