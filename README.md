@@ -23,21 +23,21 @@ Besides, the data provided on [androidrank.org](https://www.androidrank.org) are
 
 
 ### 2. Problematic
-We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre…) that have the greater importance in an app’s success. We will also try to visualize the evolution this success during time and compare this evolution for the most successful apps.
+We will thus try to show what makes an app successful, especially what are the key characteristics of an app (prize, genre, etc.) that have the greater importance in an app’s success. For the most successful apps, we will also try to visualize and compare the evolution of this success during time.
 
-This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, which of course has apps in it. This is the reason why we chose to display the results in the form of a smartphone. This idea is more developed in the 4th part, and will be even more explained in the Milestone 2.
+This is moreover something that could be interesting to anyone since nowadays more than 40% of the population owns a smartphone, in which apps hold a very significant place. This is the reason why we chose to display the results in the form of a smartphone. This idea is more developed in the 4th part, and will be even more explained in the Milestone 2.
 
 ### 3. Exploratory Data Analysis
-We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook `analysis.ipynb` with comments that describe all the processing.
+We started the exploration of the dataset with some basic statistics to have a general idea of we were dealing with. You can find all the initial analysis on the Python notebook [analysis.ipynb](analysis.ipynb) with comments that describe all the processing.
 
 The used dataset was generally clean and ready to use as explained before but because of a limited number of requests during the parsing, the data had to be acquired in a few steps. The saved dataframes were then merged together, removing the potential duplicates. 
 
 After that, we starting to analyze the data by proceeding to basic statistics. We could for instance see that only 0.5% of apps in the dataset are paid apps, which was less than we expected. Moreover, we observed that looking at the most installed apps and the most reviewed ones gives two different rankings, which shows that ranking the apps could maybe be done using a balance between the two criteria. Finally, after analyzing the growth of the apps reviews, we saw that some unexpected (according to us) categories had the higher growth such as *Art & Design* or *Video Players*. The growth of the latter may be explained by the containment that led many people to actively watch videos through apps. Let's note that the growth is sometimes not very representative since it's only a percentage and thus going from 0 to 1’000 reviews give a much higher growth than going from 1’000’000 to 1’001’00 reviews. So we will have to also find a balance in order to include this parameter in our analysis.
 
 ### 4. Related Work
-We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings. This way, we could maybe have faithful ranking of the apps success.
+We can easily find a few plots showing the most successful apps on the stores. However most of them are only based on the number of downloads. After starting to explore the dataset (cf. part 3), we started to think of a more complete score, meaning that our ranking of the most successful apps will not only be based on the downloads but also on other criteria such as ratings. This way, we could maybe have a more representative ranking of the apps success.
 
-Moreover as explained previously, the data will be displayed in the form of a smartphone where its apps will give access to the visualised results. It will then be directly related to the content itself and will also make the interface more user-friendly. People using the data will find it easy to jump from a result to another since they are used to this kind of interaction with their own smartphone, but the concept will this time be used as data visualization technique.
+Moreover, as explained previously, the data will be displayed in the form of a smartphone where its apps will give access to the visualised results. It will then be directly related to the content itself and will also make the interface more user-friendly. People using the data will find it easy to jump from a result to another since they are used to this kind of interaction with their own smartphone, but the concept will this time be used as data visualization technique.
 
 
 
