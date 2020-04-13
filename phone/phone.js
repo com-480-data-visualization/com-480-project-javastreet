@@ -23,9 +23,11 @@ class Phone {
     this.height=size;
 		this.margin = margin;
     this.nbCol=nbCol;
-		this.update();
+		this.update(size);
 	}
-	update()
+
+	// Size passed as argument -> see explanation in mouseover function below
+	update(size)
 	{
 		let svg = d3.select('#'+this.container);
 		svg.selectAll('rect')
@@ -38,7 +40,38 @@ class Phone {
                         .attr('ry', 15)
                         .attr('width', this.width)
                         .attr('height', this.height)
-												.style('fill','grey');
+												.style('fill','grey')
+												.on("mouseover", function (d, i) {
+													// if size isn't passed as argument "this.width" should
+													// be used, but if we hover too quickly the transition
+													// doesn't happen and the size doesn't change
+													d3.select(this).transition()
+																				.duration(200)
+																				.attr('width', size * 1.2)
+																				.attr('height', size * 1.2)
+																				.style("fill", "orange");
+												})
+
+            						.on("mouseout", function (d, i) {
+													d3.select(this).transition()
+																				.duration(200)
+																				.attr('width', size)
+																				.attr('height', size)
+																				.style("fill", "gray");
+													this.active = false;
+												})
+
+												.on('click', function (){
+													var active   = this.active ? false : true;
+
+													var newColor = active ? "red" : "orange";
+													// Hide or show the elements
+													d3.select(this).style("fill", newColor);
+													// Update whether or not the elements are active
+													this.active = active;
+												});
+
+
 		svg.append('rect')
 												.attr('x', 0)
 												.attr('y', 0)
@@ -57,5 +90,18 @@ class Phone {
 												.style('stroke', 'grey')
 												.style('stroke-width', 2)
 												.style('fill','none');
+
+
+		/*function handleMouseOver(d, i) {  // Add interactivity
+      // Use D3 to select element, change color and size
+
+      d3.select(this).style("fill", "orange");
+			d3.select(this).attr("width", this.width);
+    }
+
+		function handleMouseOut(d, i) {
+      // Use D3 to select element, change color back to normal
+      d3.select(this).style("fill", "gray");
+    }*/
 	}
 }
