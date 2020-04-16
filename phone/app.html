@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="app.css">
 
 <script src="phone.js"></script>
+<script src="plot.js"></script>
 <script src="d3.min.js"></script>
 
 </head>
@@ -31,7 +32,7 @@
         </ul>
 
       <div class="tab_container">
-				<div id="tabdisplayed">
+				<div id="tabdisp1">
 						<div class="post">
 						 <h3><a href="#">Blabliblote</a></h3>
 						 <span class="postInfo">by <a href="#">Javastreet</a> on April 15th 2020</span>
@@ -41,7 +42,43 @@
 						 <a href="#">26 Likes 42 Comments 69 Shares</a>
 						 <span class="line"></span>
 						 </div>
-				</div>
+
+						 <svg id="plot" viewBox="-10 -10 220 120" width="100%" height="auto" style="background:#666666">
+							<style>
+								.axis {
+									stroke-width: 1;
+									stroke: rgb(200, 200, 200);
+								}
+
+								text {
+									fill: rgb(200, 200, 200);
+									font-size: 4px;
+									text-anchor: middle;
+								}
+
+								circle {
+									fill: white;
+								}
+
+								.cold {
+									fill: rgb(79, 89, 250);
+								}
+
+								.warm {
+									fill: rgb(255, 80, 68);
+								}
+							</style>
+						</svg>
+				</div><!--End Tab3 -->
+
+				<div id="tabdisp2" style="display: none">
+						<h3>About</h3> <span>Ceci is not le tab 2.</span>
+						<p><strong>Force et courage</strong></p>
+				</div><!--End Tab3 -->
+
+				<div id="tabdisp3" style="display: none">
+						<h3>Et</h3> <span>Voilà.</span>
+				</div><!--End Tab3 -->
 
       </div><!--End Tab Container -->
 
@@ -57,15 +94,10 @@
 
 <script>
   function showTab1() {
-    document.getElementById("tabdisplayed").innerHTML = '<div class="post">' +
-		 '<h3><a href="#">Blabliblote</a></h3>'+
-		 '<span class="postInfo">by <a href="#">Javastreet</a> on April 15th 2020</span>'+
-		 '<p>Tab 1 ye azertyuiop test</p>'+
-		 '<a class="more" href="#">Read More</a>'+
-		 '<span class="line"></span>'+
-		 '<a href="#">26 Likes 42 Comments 69 Shares</a>'+
-		 '<span class="line"></span>'+
-		 '</div>';
+		// Change tab content
+		document.getElementById("tabdisp1").style.display = "block"
+		document.getElementById("tabdisp2").style.display = "none"
+		document.getElementById("tabdisp3").style.display = "none"
 
 		// Change tab colors when selected
 		document.getElementById("tab1").style.background = "#BCD2E8";
@@ -76,9 +108,12 @@
 
 <script>
   function showTab2() {
-    document.getElementById("tabdisplayed").innerHTML = '<h3>About</h3> <span>Ceci is not le tab 2.</span>' +
-		'<p><strong>Force et courage</strong></p>';
+		// Change tab content
+		document.getElementById("tabdisp1").style.display = "none"
+		document.getElementById("tabdisp2").style.display = "block"
+		document.getElementById("tabdisp3").style.display = "none"
 
+		// Change tab colors when selected
 		document.getElementById("tab2").style.background = "#BCD2E8";
 		document.getElementById("tab1").style.background = "#f2f2f2";
 		document.getElementById("tab3").style.background = "#f2f2f2";
@@ -87,8 +122,12 @@
 
 <script>
   function showTab3() {
-    document.getElementById("tabdisplayed").innerHTML = '<h3>Et</h3> <span>Voilà.</span>';
+		// Change tab content
+		document.getElementById("tabdisp1").style.display = "none"
+		document.getElementById("tabdisp2").style.display = "none"
+		document.getElementById("tabdisp3").style.display = "block"
 
+		// Change tab colors when selected
 		document.getElementById("tab3").style.background = "#BCD2E8";
 		document.getElementById("tab2").style.background = "#f2f2f2";
 		document.getElementById("tab1").style.background = "#f2f2f2";
