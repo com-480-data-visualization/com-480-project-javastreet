@@ -4,7 +4,6 @@ svg {
 }
 
 /********** FACEBOOK **********/
-
 .wrapper{
 width: 760px;
 height:200px;
@@ -44,7 +43,7 @@ color: #3B5998;
 }
 
 .postInfo{
-display:block; /* Spans are inline element so needs to be changed to block in order for the margin to work */
+display:block;
 color:#808080;
 margin-top:5px;
 margin-bottom:10px;
@@ -110,17 +109,6 @@ ul.tabs li a {
     padding-left:10px;
 
     outline: none;
-}
-ul.tabs li a:hover {
-    background: #fff;
-}
-html ul.tabs li.active, html ul.tabs li.active a:hover  {
-    background: #fff;
-    border-bottom: 1px solid #fff;
-    color:#3B5998;
-}
-ul.tabs li.active a{
-    color:Red;
 }
 
 
