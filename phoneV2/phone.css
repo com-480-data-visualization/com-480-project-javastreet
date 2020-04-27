@@ -38,6 +38,17 @@ html, body {
   fill: none;
 }
 
+.borderHighlight{
+  stroke:grey;
+  stroke-width: 3px;
+  color:grey;
+}
+.borderHighlight:hover{
+  stroke:orange;
+  stroke-width: 4px;
+  color:orange;
+}
+
 
 #content {
   position: absolute;

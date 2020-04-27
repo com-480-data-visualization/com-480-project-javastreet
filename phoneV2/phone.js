@@ -9,8 +9,11 @@ function whenDocumentLoaded(action) {
 
 let iphone;
 whenDocumentLoaded(() => {
-	//Each element will correspond to an app cell  in the phone
-	data = [120, 12, 4, 45, 3, 4];
+	//Each element will correspond to an app cell in the phone
+	data = [ {name:'Rankings', icon:'facebook.png', file:'app'},
+	{name:'Repartition', icon:'whatsapp.png', file:'app_whats'},
+	{}, {}, {}, {} ];
+
 	iphone = new Phone('monTel', data, [14,9]);
 	window.addEventListener("resize", windowUpdate);
 });
@@ -56,6 +59,7 @@ class Phone {
 		}
 		this.offsetX = (this.contWidth-this.width)/2;
 		this.offsetY = (this.contHeight-this.height)/2;
+		this.webpage='';
 
 		this.rescaleContent();
 
@@ -74,134 +78,203 @@ class Phone {
 	}
 
 
-	flip()
+	flipToPhone()
 	{
-		this.empty();
 		let parentDiv = document.getElementById(this.container).parentElement;
-		parentDiv.classList.toggle("phoneFormat");
-		parentDiv.classList.toggle("tabletFormat");
-		//We flip the ratio of the phone as well
-		this.ratio.reverse();
-		this.rescale();
+		if(parentDiv.classList.contains("tabletFormat"))
+		{
+			this.empty();
+			parentDiv.classList.remove("tabletFormat");
+			parentDiv.classList.add("phoneFormat");
+			//We flip the ratio of the phone as well
+			this.ratio.reverse();
+			this.rescale();
+		}
 	}
 
-	//Object passed as argument as this will not be useful in onClick responses
-	update(phone)
+	flipToTablet()
 	{
+		let parentDiv = document.getElementById(this.container).parentElement;
+		if(parentDiv.classList.contains("phoneFormat"))
+		{
+			this.empty();
+			parentDiv.classList.remove("phoneFormat");
+			parentDiv.classList.add("tabletFormat");
+			//We flip the ratio of the phone as well
+			this.ratio.reverse();
+			this.rescale();
+		}
+	}
 
-		//App icons
-		let svg = d3.select('#'+this.container);
-		svg.selectAll('rect')
-		.data(this.data)
-		.enter()
-		.append('rect')
-		.attr('x', (d,i) => this.offsetX + this.margin + (i%this.nbCol)*(this.size+this.margin))
-		.attr('y', (d,i) => this.offsetY + this.margin/2 + Math.floor(i/this.nbCol)*(this.size+this.margin))
-		.attr('rx', 15)
-		.attr('ry', 15)
-		.attr('width', this.size)
-		.attr('height', this.size)
-		.style('fill','grey')
-		.on("mouseover", function (d, i) {
-			// if size isn't passed as argument "this.width" should
-			// be used, but if we hover too quickly the transition
-			// doesn't happen and the size doesn't change
-			d3.select(this).transition()
-			.duration(200)
-			//.attr('width', phone.size * 1.2)
-			//.attr('height', phone.size * 1.2)
-			.style("fill", "orange");
-		})
+	/*flip()
+	{
+	this.empty();
+	let parentDiv = document.getElementById(this.container).parentElement;
+	parentDiv.classList.toggle("phoneFormat");
+	parentDiv.classList.toggle("tabletFormat");
+	//We flip the ratio of the phone as well
+	this.ratio.reverse();
+	this.rescale();
+}*/
 
-		.on("mouseout", function (d, i) {
-			d3.select(this).transition()
-			.duration(200)
-			.attr('width', phone.size)
-			.attr('height', phone.size)
-			.style("fill", "gray");
-			this.active = false;
-		})
+//Object passed as argument as this will not be useful in onClick responses
+update(phone)
+{
 
-		.on('click', function (){
-			var active   = this.active ? false : true;
-			var newColor = active ? "red" : "orange";
-			// Hide or show the elements
-			d3.select(this).style("fill", newColor);
-			// Update whether or not the elements are active
-			this.active = active;
+	//App icons
+	let svg = d3.select('#'+this.container);
 
-			phone.flip();
+	//Appends app icon when new app enters
+	function appendIcon(phone, icon)
+	{
+		if(icon)
+		{
+			svg.append("defs")
+			.append("pattern")
+			.attr("width", 1)
+			.attr("height", 1)
+			.attr("id", 'icon_'+icon)
+			.append("image")
+			.attr("width", phone.size)
+			.attr("height", phone.size)
+			.attr("xlink:href", 'img/'+icon);
+			return 'url(#icon_'+icon+')';
+		}
+		//If no icon file given, we fill in grey
+		return 'grey';
+	}
 
-			let contentDiv = document.getElementById("content");
-			contentDiv.style.display = "inline-block";
-			//contentDiv.innerHTML='<object type="text/html" data="app.html"></object>'
-			contentDiv.innerHTML='<iframe class="frame" src="app.html"></iframe>'
-
-			phone.rescaleContent();
-	});
-
-
-	//Border of phone
-	svg.append('rect')
-	.attr('x', this.offsetX)
-	.attr('y', this.offsetY)
+	//App rectangle
+	svg.selectAll('rect')
+	.data(this.data)
+	.enter()
+	.append('rect')
+	.attr('x', (d,i) => this.offsetX + this.margin + (i%this.nbCol)*(this.size+this.margin))
+	.attr('y', (d,i) => this.offsetY + this.margin/2 + Math.floor(i/this.nbCol)*(this.size+this.margin))
 	.attr('rx', 15)
 	.attr('ry', 15)
-	.attr('width', this.width)
-	.attr('height', this.height)
-	.style('stroke', 'grey')
-	.style('stroke-width', 5)
-	.style('fill','none');
+	.attr('width', this.size)
+	.attr('height', this.size)
+	.attr("fill", (d) => appendIcon(phone, d.icon))
+	.attr('class','borderHighlight')
 
-	//Buttons
-	const spaceBtwButtons = 3/2*this.margin;
-	svg.append('circle')
-	.attr('cx', this.offsetX + this.width/2)
-	.attr('cy', this.offsetY + this.height-this.margin/2)
-	.attr('r', this.size/8)
+
+
+	/*.on("mouseover", function (d, i) {
+	// if size isn't passed as argument "this.width" should
+	// be used, but if we hover too quickly the transition
+	// doesn't happen and the size doesn't change
+	d3.select(this).transition()
+	.duration(200)
+	//.attr('width', phone.size * 1.2)
+	//.attr('height', phone.size * 1.2)
+	.style("fill", "orange");
+})
+
+.on("mouseout", function (d, i) {
+d3.select(this).transition()
+.duration(200)
+.attr('width', phone.size)
+.attr('height', phone.size)
+.style("fill", "gray");
+this.active = false;
+})*/
+
+.on('click', function (d){
+	/*var active   = this.active ? false : true;
+	var newColor = active ? "red" : "orange";
+	// Hide or show the elements
+	d3.select(this).style("fill", newColor);
+	// Update whether or not the elements are active
+	this.active = active;*/
+	if(d.file){
+		phone.flipToTablet();
+		phone.page = d.file;
+		let contentDiv = document.getElementById("content");
+		contentDiv.style.display = "inline-block";
+		//contentDiv.innerHTML='<object type="text/html" data="app.html"></object>'
+		contentDiv.innerHTML='<iframe class="frame" src="'+phone.page+'.html"></iframe>'
+		phone.rescaleContent();
+	}
+});
+
+//Text under
+svg.selectAll('text')
+.data(this.data)
+.enter()
+.append('text')
+.attr('x', (d,i) => this.offsetX + this.margin + (i%this.nbCol)*(this.size+this.margin)
++ this.size/5)
+.attr('y', (d,i) => this.offsetY + this.margin/2 + Math.floor(i/this.nbCol)*(this.size+this.margin) +
+this.size + this.margin/3)
+.text((d,i) => d.name)
+
+
+
+//Border of phone
+svg.append('rect')
+.attr('x', this.offsetX)
+.attr('y', this.offsetY)
+.attr('rx', 15)
+.attr('ry', 15)
+.attr('width', this.width)
+.attr('height', this.height)
+.style('stroke', 'grey')
+.style('stroke-width', 5)
+.style('fill','none');
+
+//Buttons
+
+//Circle button
+const spaceBtwButtons = 3/2*this.margin;
+svg.append('circle')
+.attr('cx', this.offsetX + this.width/2)
+.attr('cy', this.offsetY + this.height-this.margin/2)
+.attr('r', this.size/8)
+.style('stroke', 'grey')
+.style('stroke-width', 2)
+.attr('class','highlight')
+.on('click', function(){ let contentDiv = document.getElementById("content");
+//Empty webpage div display
+contentDiv.innerHTML = '';
+//Make it invisible so that the emptied div does not block click
+contentDiv.style.display = "none";
+phone.flipToPhone();
+});
+
+//Rectangle button
+const rectSize = 3*this.size/16;
+svg.append('rect')
+.attr('x', this.offsetX + this.width/2 + spaceBtwButtons - rectSize/2)
+.attr('y', this.offsetY + this.height - this.margin/2 - rectSize/2)
+.attr('width', rectSize)
+.attr('height', rectSize)
+.style('stroke', 'grey')
+.style('stroke-width', 2)
+.attr('class','highlight');
+
+// Triangle button
+const lineGenerator = d3.line()
+.x(d => d.x)
+.y(d => d.y);
+
+const triWidth =  3*this.size/16;
+const triHeight = this.size/4;
+const triStart = [this.offsetX + this.width/2 - spaceBtwButtons + triWidth/2,
+	this.offsetY + this.height - this.margin/2 - triHeight/2];
+	const triData = [ {"x": triStart[0], "y": triStart[1]},
+	{"x": triStart[0], "y": triStart[1]+triHeight},
+	{"x": triStart[0]-triWidth, "y": triStart[1]+triHeight/2},
+	{"x": triStart[0], "y": triStart[1]}];
+	svg.append("path")
+	.attr("d", lineGenerator(triData))
 	.style('stroke', 'grey')
-	.style('stroke-width', 2)
+	.attr("stroke-width", 2)
 	.attr('class','highlight')
-
-
-
-
-
-	const rectSize = 3*this.size/16;
-	svg.append('rect')
-	.attr('x', this.offsetX + this.width/2 + spaceBtwButtons - rectSize/2)
-	.attr('y', this.offsetY + this.height - this.margin/2 - rectSize/2)
-	.attr('width', rectSize)
-	.attr('height', rectSize)
-	.style('stroke', 'grey')
-	.style('stroke-width', 2)
-	.attr('class','highlight');
-
-
-	const lineGenerator = d3.line()
-	.x(d => d.x)
-	.y(d => d.y);
-
-	const triWidth =  3*this.size/16;
-	const triHeight = this.size/4;
-	const triStart = [this.offsetX + this.width/2 - spaceBtwButtons + triWidth/2,
-		this.offsetY + this.height - this.margin/2 - triHeight/2];
-		const triData = [ {"x": triStart[0], "y": triStart[1]},
-		{"x": triStart[0], "y": triStart[1]+triHeight},
-		{"x": triStart[0]-triWidth, "y": triStart[1]+triHeight/2},
-		{"x": triStart[0], "y": triStart[1]}];
-		svg.append("path")
-		.attr("d", lineGenerator(triData))
-		.style('stroke', 'grey')
-		.attr("stroke-width", 2)
-		.attr('class','highlight')
-		.on('click', function(){ let contentDiv = document.getElementById("content");
-		//Empty it
-		contentDiv.innerHTML = '';
-		//Make it invisible so that the void div does not block click
-		contentDiv.style.display = "none";
-
-		phone.flip();
+	.on('click', function (){
+		let contentDiv = document.getElementById("content");
+		contentDiv.innerHTML='<iframe class="frame" src="'+phone.page+'.html"></iframe>'
+		phone.rescaleContent();
 	});
 
 
