@@ -33,6 +33,7 @@ html, body {
 
 .highlight:hover{
   fill: orange;
+  cursor: pointer;
 }
 .highlight{
   fill: none;
@@ -47,6 +48,7 @@ html, body {
   stroke:orange;
   stroke-width: 4px;
   color:orange;
+  cursor: pointer;
 }
 
 
