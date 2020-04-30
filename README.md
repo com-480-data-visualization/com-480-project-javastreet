@@ -42,46 +42,9 @@ We can easily find a few plots showing the most successful apps on the stores. H
 Moreover, as explained previously, the data will be displayed in the form of a smartphone where its apps will give access to the visualised results. It will then be directly related to the content itself and will also make the interface more user-friendly. People using the data will find it easy to jump from a result to another since they are used to this kind of interaction with their own smartphone, but the concept will this time be used as a data visualization technique.
 
 
-
-
 ## Milestone 2 (Friday 1st May, 5pm)
 
-https://com-480-data-visualization.github.io/2020-project-guidelines/
-
-------
-Two pages describing the project goal
-Sketches of final visualization
-Needed tools from lecture
-Breakdown goal into independent pieces. Minimal viable product required at the end
--------
-
-Sometimes when a website contains a lot of information, the user will find some difficulties to access all the results. This is the reason why we wanted our final project to have a very clear display, with everything being easily accessible without the users having to look too much before finding what they need. Moreover, we wanted the visualization to also be related to the main topic, which is “what makes an Android app successful”. Thus, we chose to design the final website as a simple mobile phone that contains all our results. More precisely, it will be a smartphone with apps displayed on it like a real Android smartphone. This will make the final product very user-friendly since the users that are interested in this topic are most likely smartphone users as well. The mobile phone will be clickable and you can interact with it either with the buttons or with the apps. We can see on the SKETCH that it contains three buttons. Their functions are not completely defined yet, but some of the possible usages are: returning to the home screen, returning to the previous screen, changing the orientation… 
-Let’s now talk about the apps. As previously said, the user can also interact with them with a click, which will open the app exactly as on a real smartphone. The interesting part is that each app will have its own design, which will make the visualization much more diverse. See for example two of the designed apps which look like Facebook (SCREEN) and Whatsapp (SCREEN). It can also make the user want to discover all the different app designs that could be found, and thus not miss any of the results we obtained. Indeed, the apps will not only be a tool for visualization, but also a way to separate all the different categories of results we obtained. Then, the app by itself will represent the second layer of depth, containing sub-categories of results. So the users will also be able to navigate inside the app through tabs for example like on the top of SCREEN.
-
-For now, we thought of a welcoming text like a dialog in android to explain the project, how the website work and how we found these results. Then the user will see 7 apps that will be organized as follow: (The app name following the title of each parts corresponds to the design idea we are thinking of)
-  
-RANKING (Facebook): In this part the user will explore which apps are the more successful in a global ranking and in each categories. We will also detailed how we derived this ranking and this will lead the user to wonder why these app are so successful.
-REPARTITION (Whatsapp): Here we will visualize the repartition of the paid/free app and the app containing ads or not among the Google Play Store. These repartitions will also be available for each categories and for the global top 500 which will show the user whether these criterion are a key to success. (In this part, depending on the results we will have we might also show information about the Size of the app)
-DEVELOPERS (EPFL campus) : It is also important to see who developed these best apps. To see who the best developers are, we will rely on the number of app they develops, how much they reply to comments in the Google Play Store and how many times their app are downloaded on average.
-REVIEWS (TBD): We will also show how the number of reviews changes over the last month. Then, for each app, we will plot how many stars they have. 
-DOWNLOADS (YOUTUBE): We will plot the number of downloads in an evolutive graph like the one of the youtube channel Data is beautiful. 
-COMMENTS (Twitter): We will highlight the most used word in the comments of the top apps and perhaps per category also if the results are relevant
-CONCLUSION (Wikipedia): Finally, we will conclude in a Wikipedia style.
-
-ELEMENTS DU COURS
-
-Extra bonus ideas for visualization
-whatsapp intéractif
-mini game 
-We also thought of some bonus elements that could improve the visualization but dropping them would not endanger the meaning of the project. For instance, we could make the Whatsapp app interactive by asking a question to the reader regarding what he would expect the result to be. The reader can then answer as he would using the real Whatsapp app.
-Another thing we thought of would be to make a kind of mini-game since the gaming category represents one of the most used ones.
-
-Functional prototype (working website)
-Link to the website
-
-
-
-
+**10% of the final grade**
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
