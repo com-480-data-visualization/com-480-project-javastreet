@@ -46,6 +46,10 @@ Moreover, as explained previously, the data will be displayed in the form of a s
 
 The Milestone 2 report can be found on the following file: [milestone2.pdf](milestone2.pdf)
 
+Useful links: 
+- Website: http://appoffame.github.io/
+- Website's repository: https://github.com/AppOfFame/AppOfFame.github.io
+
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 **80% of the final grade**
