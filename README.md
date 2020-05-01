@@ -44,7 +44,7 @@ Moreover, as explained previously, the data will be displayed in the form of a s
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
-**10% of the final grade**
+The Milestone 2 report can be found on the following file: [milestone2.pdf](milestone2.pdf)
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
