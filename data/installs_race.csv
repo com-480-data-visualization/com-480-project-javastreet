@@ -1,0 +1,3031 @@
+date,name,category,value
+2020-01-01,WhatsApp Messenger,Communication,5000000000
+2020-01-01,WhatsApp Messenger,Communication,5000000000
+2015-01-01,WhatsApp Messenger,Communication,1000000000
+2014-01-01,WhatsApp Messenger,Communication,500000000
+2013-01-01,WhatsApp Messenger,Communication,100000000
+2012-01-01,WhatsApp Messenger,Communication,50000000
+2012-01-01,WhatsApp Messenger,Communication,10000000
+2020-01-01,Maps - Navigate & Explore,Travel & Local,5000000000
+2019-01-01,Maps - Navigate & Explore,Travel & Local,5000000000
+2014-01-01,Maps - Navigate & Explore,Travel & Local,1000000000
+2013-01-01,Maps - Navigate & Explore,Travel & Local,500000000
+2012-01-01,Maps - Navigate & Explore,Travel & Local,100000000
+2020-01-01,Facebook,Social,5000000000
+2020-01-01,Facebook,Social,5000000000
+2015-01-01,Facebook,Social,1000000000
+2014-01-01,Facebook,Social,500000000
+2012-01-01,Facebook,Social,100000000
+2020-01-01,YouTube,Video Players,5000000000
+2019-01-01,YouTube,Video Players,5000000000
+2015-01-01,YouTube,Video Players,1000000000
+2014-01-01,YouTube,Video Players,500000000
+2012-01-01,YouTube,Video Players,100000000
+2020-01-01,Instagram,Social,1000000000
+2017-01-01,Instagram,Social,1000000000
+2015-01-01,Instagram,Social,500000000
+2013-01-01,Instagram,Social,100000000
+2013-01-01,Instagram,Social,50000000
+2012-01-01,Instagram,Social,10000000
+2020-01-01,Subway Surfers,Game Arcade,1000000000
+2018-01-01,Subway Surfers,Game Arcade,1000000000
+2016-01-01,Subway Surfers,Game Arcade,500000000
+2014-01-01,Subway Surfers,Game Arcade,100000000
+2013-01-01,Subway Surfers,Game Arcade,50000000
+2013-01-01,Subway Surfers,Game Arcade,10000000
+2013-01-01,Subway Surfers,Game Arcade,5000000
+2013-01-01,Subway Surfers,Game Arcade,500000
+2020-01-01,Microsoft OneDrive,Productivity,1000000000
+2020-01-01,Microsoft OneDrive,Productivity,1000000000
+2019-01-01,Microsoft OneDrive,Productivity,500000000
+2016-01-01,Microsoft OneDrive,Productivity,100000000
+2016-01-01,Microsoft OneDrive,Productivity,50000000
+2015-01-01,Microsoft OneDrive,Productivity,10000000
+2014-01-01,Microsoft OneDrive,Productivity,5000000
+2013-01-01,Microsoft OneDrive,Productivity,1000000
+2013-01-01,Microsoft OneDrive,Productivity,500000
+2013-01-01,Microsoft OneDrive,Productivity,100000
+2020-01-01,Messenger – Text and Video Chat for Free,Communication,1000000000
+2015-01-01,Messenger – Text and Video Chat for Free,Communication,1000000000
+2015-01-01,Messenger – Text and Video Chat for Free,Communication,500000000
+2013-01-01,Messenger – Text and Video Chat for Free,Communication,100000000
+2013-01-01,Messenger – Text and Video Chat for Free,Communication,50000000
+2012-01-01,Messenger – Text and Video Chat for Free,Communication,10000000
+2020-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,1000000000
+2020-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,1000000000
+2018-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,500000000
+2017-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,100000000
+2016-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,50000000
+2016-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,10000000
+2016-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,5000000
+2015-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,1000000
+2015-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,500000
+2015-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,100000
+2015-01-01,"Microsoft Word: Write, Edit & Share Docs on the Go",Productivity,50000
+2020-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,1000000000
+2020-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,1000000000
+2019-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,500000000
+2017-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,100000000
+2017-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,50000000
+2016-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,10000000
+2016-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,5000000
+2015-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,1000000
+2015-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,500000
+2015-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,100000
+2015-01-01,"Microsoft Excel: View, Edit, & Create Spreadsheets",Productivity,50000
+2020-01-01,Snapchat,Social,1000000000
+2020-01-01,Snapchat,Social,1000000000
+2017-01-01,Snapchat,Social,500000000
+2015-01-01,Snapchat,Social,100000000
+2014-01-01,Snapchat,Social,50000000
+2013-01-01,Snapchat,Social,10000000
+2013-01-01,Snapchat,Social,5000000
+2013-01-01,Snapchat,Social,1000000
+2013-01-01,Snapchat,Social,500000
+2020-01-01,SHAREit - Transfer & Share,Tools,1000000000
+2019-01-01,SHAREit - Transfer & Share,Tools,1000000000
+2018-01-01,SHAREit - Transfer & Share,Tools,500000000
+2016-01-01,SHAREit - Transfer & Share,Tools,100000000
+2016-01-01,SHAREit - Transfer & Share,Tools,50000000
+2015-01-01,SHAREit - Transfer & Share,Tools,10000000
+2015-01-01,SHAREit - Transfer & Share,Tools,5000000
+2014-01-01,SHAREit - Transfer & Share,Tools,1000000
+2014-01-01,SHAREit - Transfer & Share,Tools,500000
+2014-01-01,SHAREit - Transfer & Share,Tools,100000
+2014-01-01,SHAREit - Transfer & Share,Tools,50000
+2014-01-01,SHAREit - Transfer & Share,Tools,10000
+2020-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,1000000000
+2020-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,1000000000
+2019-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,500000000
+2017-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,100000000
+2017-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,50000000
+2016-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,10000000
+2016-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,5000000
+2015-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,1000000
+2015-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,500000
+2015-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,100000
+2015-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,50000
+2015-01-01,Microsoft PowerPoint: Slideshows and Presentations,Productivity,10000
+2020-01-01,Skype - free IM & video calls,Communication,1000000000
+2018-01-01,Skype - free IM & video calls,Communication,1000000000
+2015-01-01,Skype - free IM & video calls,Communication,500000000
+2013-01-01,Skype - free IM & video calls,Communication,100000000
+2012-01-01,Skype - free IM & video calls,Communication,50000000
+2020-01-01,Facebook Lite,Social,1000000000
+2019-01-01,Facebook Lite,Social,1000000000
+2018-01-01,Facebook Lite,Social,500000000
+2016-01-01,Facebook Lite,Social,100000000
+2016-01-01,Facebook Lite,Social,50000000
+2016-01-01,Facebook Lite,Social,10000000
+2015-01-01,Facebook Lite,Social,5000000
+2015-01-01,Facebook Lite,Social,1000000
+2015-01-01,Facebook Lite,Social,500000
+2015-01-01,Facebook Lite,Social,100000
+2015-01-01,Facebook Lite,Social,50000
+2015-01-01,Facebook Lite,Social,10000
+2020-01-01,Device Care,Tools,1000000000
+2020-01-01,Device Care,Tools,1000000000
+2019-01-01,Device Care,Tools,500000000
+2018-01-01,Device Care,Tools,100000000
+2018-01-01,Device Care,Tools,50000000
+2018-01-01,Device Care,Tools,10000000
+2017-01-01,Device Care,Tools,5000000
+2020-01-01,Hangouts,Communication,1000000000
+2015-01-01,Hangouts,Communication,1000000000
+2015-01-01,Hangouts,Communication,500000000
+2014-01-01,Hangouts,Communication,100000000
+2013-01-01,Hangouts,Communication,50000000
+2013-01-01,Hangouts,Communication,10000000
+2020-01-01,Cloud Print,Productivity,1000000000
+2019-01-01,Cloud Print,Productivity,1000000000
+2017-01-01,Cloud Print,Productivity,500000000
+2015-01-01,Cloud Print,Productivity,100000000
+2015-01-01,Cloud Print,Productivity,50000000
+2014-01-01,Cloud Print,Productivity,10000000
+2014-01-01,Cloud Print,Productivity,5000000
+2014-01-01,Cloud Print,Productivity,1000000
+2014-01-01,Cloud Print,Productivity,500000
+2013-01-01,Cloud Print,Productivity,100000
+2020-01-01,ANT+ Plugins Service,Tools,1000000000
+2020-01-01,ANT+ Plugins Service,Tools,1000000000
+2019-01-01,ANT+ Plugins Service,Tools,500000000
+2015-01-01,ANT+ Plugins Service,Tools,100000000
+2015-01-01,ANT+ Plugins Service,Tools,50000000
+2015-01-01,ANT+ Plugins Service,Tools,10000000
+2014-01-01,ANT+ Plugins Service,Tools,5000000
+2014-01-01,ANT+ Plugins Service,Tools,1000000
+2020-01-01,ANT Radio Service,Communication,1000000000
+2020-01-01,ANT Radio Service,Communication,1000000000
+2019-01-01,ANT Radio Service,Communication,500000000
+2015-01-01,ANT Radio Service,Communication,100000000
+2015-01-01,ANT Radio Service,Communication,50000000
+2014-01-01,ANT Radio Service,Communication,10000000
+2013-01-01,ANT Radio Service,Communication,5000000
+2012-01-01,ANT Radio Service,Communication,1000000
+2012-01-01,ANT Radio Service,Communication,100000
+2020-01-01,Clash of Clans,Game Strategy,500000000
+2019-01-01,Clash of Clans,Game Strategy,500000000
+2015-01-01,Clash of Clans,Game Strategy,100000000
+2014-01-01,Clash of Clans,Game Strategy,50000000
+2014-01-01,Clash of Clans,Game Strategy,10000000
+2014-01-01,Clash of Clans,Game Strategy,5000000
+2020-01-01,Candy Crush Saga,Game Casual,1000000000
+2020-01-01,Candy Crush Saga,Game Casual,1000000000
+2016-01-01,Candy Crush Saga,Game Casual,500000000
+2014-01-01,Candy Crush Saga,Game Casual,100000000
+2013-01-01,Candy Crush Saga,Game Casual,50000000
+2013-01-01,Candy Crush Saga,Game Casual,10000000
+2013-01-01,Candy Crush Saga,Game Casual,5000000
+2013-01-01,Candy Crush Saga,Game Casual,1000000
+2013-01-01,Candy Crush Saga,Game Casual,100000
+2020-01-01,Garena Free Fire: Wonderland,Game Action,500000000
+2020-01-01,Garena Free Fire: Wonderland,Game Action,500000000
+2019-01-01,Garena Free Fire: Wonderland,Game Action,100000000
+2018-01-01,Garena Free Fire: Wonderland,Game Action,50000000
+2018-01-01,Garena Free Fire: Wonderland,Game Action,10000000
+2020-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,500000000
+2019-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,500000000
+2016-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,100000000
+2015-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,50000000
+2014-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,10000000
+2014-01-01,"Spotify: Listen to new music, podcasts, and songs",Music & Audio,5000000
+2020-01-01,TikTok - Make Your Day,Social,1000000000
+2020-01-01,TikTok - Make Your Day,Social,1000000000
+2019-01-01,TikTok - Make Your Day,Social,500000000
+2018-01-01,TikTok - Make Your Day,Social,100000000
+2017-01-01,TikTok - Make Your Day,Social,50000000
+2016-01-01,TikTok - Make Your Day,Social,10000000
+2016-01-01,TikTok - Make Your Day,Social,5000000
+2016-01-01,TikTok - Make Your Day,Social,1000000
+2016-01-01,TikTok - Make Your Day,Social,500000
+2016-01-01,TikTok - Make Your Day,Social,100000
+2020-01-01,Twitter,News & Magazines,500000000
+2016-01-01,Twitter,News & Magazines,500000000
+2013-01-01,Twitter,News & Magazines,100000000
+2012-01-01,Twitter,News & Magazines,50000000
+2020-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,500000000
+2020-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,500000000
+2016-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,100000000
+2015-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,50000000
+2013-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,10000000
+2013-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,5000000
+2013-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,1000000
+2013-01-01,"Truecaller: Caller ID, block robocalls & spam SMS",Communication,500000
+2020-01-01,8 Ball Pool,Game Sports,500000000
+2019-01-01,8 Ball Pool,Game Sports,500000000
+2015-01-01,8 Ball Pool,Game Sports,100000000
+2015-01-01,8 Ball Pool,Game Sports,50000000
+2014-01-01,8 Ball Pool,Game Sports,10000000
+2013-01-01,8 Ball Pool,Game Sports,5000000
+2013-01-01,8 Ball Pool,Game Sports,1000000
+2013-01-01,8 Ball Pool,Game Sports,500000
+2013-01-01,8 Ball Pool,Game Sports,100000
+2013-01-01,8 Ball Pool,Game Sports,50000
+2020-01-01,My Talking Tom,Game Casual,500000000
+2018-01-01,My Talking Tom,Game Casual,500000000
+2015-01-01,My Talking Tom,Game Casual,100000000
+2014-01-01,My Talking Tom,Game Casual,50000000
+2014-01-01,My Talking Tom,Game Casual,10000000
+2014-01-01,My Talking Tom,Game Casual,5000000
+2014-01-01,My Talking Tom,Game Casual,1000000
+2020-01-01,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",Productivity,500000000
+2020-01-01,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",Productivity,500000000
+2013-01-01,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",Productivity,100000000
+2012-01-01,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",Productivity,50000000
+2012-01-01,"Adobe Acrobat Reader: PDF Viewer, Editor & Creator",Productivity,10000000
+2020-01-01,Messages,Communication,500000000
+2019-01-01,Messages,Communication,500000000
+2018-01-01,Messages,Communication,100000000
+2017-01-01,Messages,Communication,50000000
+2016-01-01,Messages,Communication,10000000
+2015-01-01,Messages,Communication,5000000
+2015-01-01,Messages,Communication,1000000
+2015-01-01,Messages,Communication,500000
+2020-01-01,Netflix,Entertainment,500000000
+2019-01-01,Netflix,Entertainment,500000000
+2015-01-01,Netflix,Entertainment,100000000
+2014-01-01,Netflix,Entertainment,50000000
+2012-01-01,Netflix,Entertainment,10000000
+2020-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,500000000
+2019-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,500000000
+2017-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,100000000
+2016-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,50000000
+2015-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,10000000
+2015-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,5000000
+2013-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,1000000
+2012-01-01,Microsoft OneNote: Save Ideas and Organize Notes,Productivity,500000
+2020-01-01,HP Print Service Plugin,Productivity,500000000
+2016-01-01,HP Print Service Plugin,Productivity,500000000
+2014-01-01,HP Print Service Plugin,Productivity,100000000
+2014-01-01,HP Print Service Plugin,Productivity,50000000
+2014-01-01,HP Print Service Plugin,Productivity,10000000
+2013-01-01,HP Print Service Plugin,Productivity,5000000
+2013-01-01,HP Print Service Plugin,Productivity,1000000
+2020-01-01,Hill Climb Racing,Game Racing,500000000
+2019-01-01,Hill Climb Racing,Game Racing,500000000
+2014-01-01,Hill Climb Racing,Game Racing,100000000
+2013-01-01,Hill Climb Racing,Game Racing,50000000
+2013-01-01,Hill Climb Racing,Game Racing,10000000
+2013-01-01,Hill Climb Racing,Game Racing,5000000
+2013-01-01,Hill Climb Racing,Game Racing,1000000
+2013-01-01,Hill Climb Racing,Game Racing,10000
+2020-01-01,MX Player,Video Players,500000000
+2019-01-01,MX Player,Video Players,500000000
+2014-01-01,MX Player,Video Players,100000000
+2013-01-01,MX Player,Video Players,50000000
+2012-01-01,MX Player,Video Players,10000000
+2020-01-01,"Viber Messenger - Messages, Group Chats & Calls",Communication,500000000
+2016-01-01,"Viber Messenger - Messages, Group Chats & Calls",Communication,500000000
+2013-01-01,"Viber Messenger - Messages, Group Chats & Calls",Communication,100000000
+2013-01-01,"Viber Messenger - Messages, Group Chats & Calls",Communication,50000000
+2012-01-01,"Viber Messenger - Messages, Group Chats & Calls",Communication,10000000
+2020-01-01,Pou,Game Casual,500000000
+2017-01-01,Pou,Game Casual,500000000
+2014-01-01,Pou,Game Casual,100000000
+2013-01-01,Pou,Game Casual,50000000
+2013-01-01,Pou,Game Casual,10000000
+2013-01-01,Pou,Game Casual,5000000
+2013-01-01,Pou,Game Casual,1000000
+2013-01-01,Pou,Game Casual,500000
+2013-01-01,Pou,Game Casual,100000
+2013-01-01,Pou,Game Casual,10000
+2013-01-01,Pou,Game Casual,5000
+2020-01-01,SwiftKey Keyboard,Productivity,500000000
+2020-01-01,SwiftKey Keyboard,Productivity,500000000
+2017-01-01,SwiftKey Keyboard,Productivity,100000000
+2016-01-01,SwiftKey Keyboard,Productivity,50000000
+2015-01-01,SwiftKey Keyboard,Productivity,10000000
+2014-01-01,SwiftKey Keyboard,Productivity,5000000
+2012-01-01,SwiftKey Keyboard,Productivity,1000000
+2012-01-01,SwiftKey Keyboard,Productivity,500000
+2020-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,500000000
+2018-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,500000000
+2015-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,100000000
+2015-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,50000000
+2013-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,10000000
+2013-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,5000000
+2013-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,1000000
+2012-01-01,"UC Browser- Free & Fast Video Downloader, News App",Communication,500000
+2020-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,500000000
+2019-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,500000000
+2014-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,100000000
+2013-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,50000000
+2012-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,10000000
+2012-01-01,"PicsArt Photo Editor: Pic, Video & Collage Maker",Photography,5000000
+2020-01-01,B612 - Beauty & Filter Camera,Photography,500000000
+2020-01-01,B612 - Beauty & Filter Camera,Photography,500000000
+2016-01-01,B612 - Beauty & Filter Camera,Photography,100000000
+2016-01-01,B612 - Beauty & Filter Camera,Photography,50000000
+2015-01-01,B612 - Beauty & Filter Camera,Photography,10000000
+2015-01-01,B612 - Beauty & Filter Camera,Photography,5000000
+2015-01-01,B612 - Beauty & Filter Camera,Photography,1000000
+2020-01-01,Calculator,Tools,500000000
+2020-01-01,Calculator,Tools,500000000
+2018-01-01,Calculator,Tools,100000000
+2018-01-01,Calculator,Tools,50000000
+2017-01-01,Calculator,Tools,10000000
+2017-01-01,Calculator,Tools,5000000
+2016-01-01,Calculator,Tools,1000000
+2020-01-01,Carrier Services,Communication,500000000
+2020-01-01,Carrier Services,Communication,500000000
+2019-01-01,Carrier Services,Communication,100000000
+2018-01-01,Carrier Services,Communication,50000000
+2017-01-01,Carrier Services,Communication,10000000
+2020-01-01,Temple Run 2,Game Action,500000000
+2018-01-01,Temple Run 2,Game Action,500000000
+2014-01-01,Temple Run 2,Game Action,100000000
+2013-01-01,Temple Run 2,Game Action,50000000
+2013-01-01,Temple Run 2,Game Action,10000000
+2013-01-01,Temple Run 2,Game Action,5000000
+2020-01-01,My Talking Angela,Game Casual,500000000
+2020-01-01,My Talking Angela,Game Casual,500000000
+2016-01-01,My Talking Angela,Game Casual,100000000
+2015-01-01,My Talking Angela,Game Casual,50000000
+2015-01-01,My Talking Angela,Game Casual,10000000
+2015-01-01,My Talking Angela,Game Casual,5000000
+2020-01-01,imo free video calls and chat,Communication,500000000
+2018-01-01,imo free video calls and chat,Communication,500000000
+2016-01-01,imo free video calls and chat,Communication,100000000
+2015-01-01,imo free video calls and chat,Communication,50000000
+2015-01-01,imo free video calls and chat,Communication,10000000
+2014-01-01,imo free video calls and chat,Communication,5000000
+2012-01-01,imo free video calls and chat,Communication,1000000
+2020-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,500000000
+2020-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,500000000
+2018-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,100000000
+2016-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,50000000
+2013-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,10000000
+2012-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,5000000
+2012-01-01,"LinkedIn: Jobs, Business News & Social Networking",Business,1000000
+2020-01-01,Messenger Lite: Free Calls & Messages,Communication,500000000
+2020-01-01,Messenger Lite: Free Calls & Messages,Communication,500000000
+2018-01-01,Messenger Lite: Free Calls & Messages,Communication,100000000
+2018-01-01,Messenger Lite: Free Calls & Messages,Communication,50000000
+2017-01-01,Messenger Lite: Free Calls & Messages,Communication,10000000
+2017-01-01,Messenger Lite: Free Calls & Messages,Communication,5000000
+2017-01-01,Messenger Lite: Free Calls & Messages,Communication,1000000
+2017-01-01,Messenger Lite: Free Calls & Messages,Communication,500000
+2017-01-01,Messenger Lite: Free Calls & Messages,Communication,100000
+2020-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,500000000
+2017-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,500000000
+2014-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,100000000
+2014-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,50000000
+2013-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,10000000
+2013-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,5000000
+2013-01-01,"Flipboard - Latest News, Top Stories & Lifestyle",News & Magazines,1000000
+2020-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,500000000
+2016-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,500000000
+2014-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,100000000
+2013-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,50000000
+2012-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,10000000
+2012-01-01,"Dropbox: Cloud Storage to Backup, Sync, File Share",Productivity,5000000
+2020-01-01,Secure Folder,Business,500000000
+2020-01-01,Secure Folder,Business,500000000
+2019-01-01,Secure Folder,Business,100000000
+2019-01-01,Secure Folder,Business,50000000
+2018-01-01,Secure Folder,Business,10000000
+2017-01-01,Secure Folder,Business,5000000
+2020-01-01,LINE: Free Calls & Messages,Communication,500000000
+2016-01-01,LINE: Free Calls & Messages,Communication,500000000
+2014-01-01,LINE: Free Calls & Messages,Communication,100000000
+2013-01-01,LINE: Free Calls & Messages,Communication,50000000
+2012-01-01,LINE: Free Calls & Messages,Communication,10000000
+2020-01-01,Briefing,News & Magazines,500000000
+2019-01-01,Briefing,News & Magazines,500000000
+2017-01-01,Briefing,News & Magazines,100000000
+2016-01-01,Briefing,News & Magazines,50000000
+2015-01-01,Briefing,News & Magazines,10000000
+2020-01-01,Uber,Maps & Navigation,500000000
+2020-01-01,Uber,Maps & Navigation,500000000
+2017-01-01,Uber,Maps & Navigation,100000000
+2016-01-01,Uber,Maps & Navigation,50000000
+2015-01-01,Uber,Maps & Navigation,10000000
+2015-01-01,Uber,Maps & Navigation,5000000
+2014-01-01,Uber,Maps & Navigation,1000000
+2014-01-01,Uber,Maps & Navigation,500000
+2013-01-01,Uber,Maps & Navigation,100000
+2012-01-01,Uber,Maps & Navigation,50000
+2020-01-01,Clock,Tools,500000000
+2020-01-01,Clock,Tools,500000000
+2016-01-01,Clock,Tools,100000000
+2016-01-01,Clock,Tools,50000000
+2015-01-01,Clock,Tools,10000000
+2020-01-01,PUBG MOBILE - 2nd Anniversary,Game Action,100000000
+2019-01-01,PUBG MOBILE - 2nd Anniversary,Game Action,100000000
+2018-01-01,PUBG MOBILE - 2nd Anniversary,Game Action,50000000
+2018-01-01,PUBG MOBILE - 2nd Anniversary,Game Action,10000000
+2020-01-01,Clash Royale,Game Strategy,100000000
+2017-01-01,Clash Royale,Game Strategy,100000000
+2016-01-01,Clash Royale,Game Strategy,50000000
+2016-01-01,Clash Royale,Game Strategy,10000000
+2016-01-01,Clash Royale,Game Strategy,100000
+2020-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,100000000
+2015-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,100000000
+2015-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,50000000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,10000000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,5000000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,1000000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,500000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,100000
+2014-01-01,"Safe Security -  Antivirus, Booster, Phone Cleaner",Tools,50000
+2020-01-01,Shadow Fight 2,Game Action,100000000
+2017-01-01,Shadow Fight 2,Game Action,100000000
+2016-01-01,Shadow Fight 2,Game Action,50000000
+2015-01-01,Shadow Fight 2,Game Action,10000000
+2015-01-01,Shadow Fight 2,Game Action,5000000
+2014-01-01,Shadow Fight 2,Game Action,1000000
+2014-01-01,Shadow Fight 2,Game Action,500000
+2014-01-01,Shadow Fight 2,Game Action,100000
+2014-01-01,Shadow Fight 2,Game Action,50000
+2014-01-01,Shadow Fight 2,Game Action,10000
+2020-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,100000000
+2018-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,100000000
+2016-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,50000000
+2013-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,10000000
+2013-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,5000000
+2012-01-01,Period Tracker - Period Calendar Ovulation Tracker,Health & Fitness,1000000
+2020-01-01,Mercado Libre: compra fácil y rápido,Shopping,100000000
+2019-01-01,Mercado Libre: compra fácil y rápido,Shopping,100000000
+2017-01-01,Mercado Libre: compra fácil y rápido,Shopping,50000000
+2014-01-01,Mercado Libre: compra fácil y rápido,Shopping,10000000
+2014-01-01,Mercado Libre: compra fácil y rápido,Shopping,5000000
+2012-01-01,Mercado Libre: compra fácil y rápido,Shopping,1000000
+2012-01-01,Mercado Libre: compra fácil y rápido,Shopping,500000
+2020-01-01,Duolingo: Learn Languages Free,Education,100000000
+2018-01-01,Duolingo: Learn Languages Free,Education,100000000
+2016-01-01,Duolingo: Learn Languages Free,Education,50000000
+2014-01-01,Duolingo: Learn Languages Free,Education,10000000
+2014-01-01,Duolingo: Learn Languages Free,Education,5000000
+2014-01-01,Duolingo: Learn Languages Free,Education,1000000
+2013-01-01,Duolingo: Learn Languages Free,Education,500000
+2013-01-01,Duolingo: Learn Languages Free,Education,100000
+2020-01-01,Mobile Legends: Bang Bang,Game Action,100000000
+2018-01-01,Mobile Legends: Bang Bang,Game Action,100000000
+2018-01-01,Mobile Legends: Bang Bang,Game Action,50000000
+2017-01-01,Mobile Legends: Bang Bang,Game Action,10000000
+2017-01-01,Mobile Legends: Bang Bang,Game Action,5000000
+2017-01-01,Mobile Legends: Bang Bang,Game Action,1000000
+2017-01-01,Mobile Legends: Bang Bang,Game Action,500000
+2017-01-01,Mobile Legends: Bang Bang,Game Action,100000
+2020-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,100000000
+2017-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,100000000
+2016-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,50000000
+2015-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,10000000
+2015-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,5000000
+2014-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,1000000
+2014-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,500000
+2013-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,100000
+2013-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,50000
+2013-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,10000
+2013-01-01,"AliExpress - Smarter Shopping, Better Living",Shopping,5000
+2020-01-01,Сбербанк Онлайн,Finance,100000000
+2020-01-01,Сбербанк Онлайн,Finance,100000000
+2018-01-01,Сбербанк Онлайн,Finance,50000000
+2016-01-01,Сбербанк Онлайн,Finance,10000000
+2015-01-01,Сбербанк Онлайн,Finance,5000000
+2014-01-01,Сбербанк Онлайн,Finance,1000000
+2013-01-01,Сбербанк Онлайн,Finance,500000
+2013-01-01,Сбербанк Онлайн,Finance,100000
+2013-01-01,Сбербанк Онлайн,Finance,50000
+2020-01-01,Video Editor & Video Maker - VivaVideo,Video Players,100000000
+2016-01-01,Video Editor & Video Maker - VivaVideo,Video Players,100000000
+2016-01-01,Video Editor & Video Maker - VivaVideo,Video Players,50000000
+2015-01-01,Video Editor & Video Maker - VivaVideo,Video Players,10000000
+2015-01-01,Video Editor & Video Maker - VivaVideo,Video Players,5000000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,1000000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,500000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,100000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,50000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,10000
+2014-01-01,Video Editor & Video Maker - VivaVideo,Video Players,5000
+2020-01-01,Dream League Soccer,Game Sports,100000000
+2018-01-01,Dream League Soccer,Game Sports,100000000
+2017-01-01,Dream League Soccer,Game Sports,50000000
+2016-01-01,Dream League Soccer,Game Sports,10000000
+2016-01-01,Dream League Soccer,Game Sports,5000000
+2016-01-01,Dream League Soccer,Game Sports,1000000
+2020-01-01,Video Editor & Video Maker - InShot,Photography,100000000
+2019-01-01,Video Editor & Video Maker - InShot,Photography,100000000
+2017-01-01,Video Editor & Video Maker - InShot,Photography,50000000
+2016-01-01,Video Editor & Video Maker - InShot,Photography,10000000
+2015-01-01,Video Editor & Video Maker - InShot,Photography,5000000
+2015-01-01,Video Editor & Video Maker - InShot,Photography,1000000
+2015-01-01,Video Editor & Video Maker - InShot,Photography,500000
+2014-01-01,Video Editor & Video Maker - InShot,Photography,100000
+2014-01-01,Video Editor & Video Maker - InShot,Photography,50000
+2014-01-01,Video Editor & Video Maker - InShot,Photography,10000
+2014-01-01,Video Editor & Video Maker - InShot,Photography,5000
+2020-01-01,Flipkart Online Shopping App,Shopping,100000000
+2018-01-01,Flipkart Online Shopping App,Shopping,100000000
+2016-01-01,Flipkart Online Shopping App,Shopping,50000000
+2015-01-01,Flipkart Online Shopping App,Shopping,10000000
+2014-01-01,Flipkart Online Shopping App,Shopping,5000000
+2014-01-01,Flipkart Online Shopping App,Shopping,1000000
+2013-01-01,Flipkart Online Shopping App,Shopping,500000
+2013-01-01,Flipkart Online Shopping App,Shopping,100000
+2012-01-01,Flipkart Online Shopping App,Shopping,50000
+2020-01-01,"AVG AntiVirus Free & Mobile Security, Photo Vault",Tools,100000000
+2014-01-01,"AVG AntiVirus Free & Mobile Security, Photo Vault",Tools,100000000
+2013-01-01,"AVG AntiVirus Free & Mobile Security, Photo Vault",Tools,50000000
+2012-01-01,"AVG AntiVirus Free & Mobile Security, Photo Vault",Tools,10000000
+2020-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,100000000
+2017-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,100000000
+2016-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,50000000
+2015-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,10000000
+2015-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,5000000
+2015-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,1000000
+2015-01-01,Sniper 3D: Fun Offline Gun Shooting Games Free,Game Action,500000
+2020-01-01,Hay Day,Game Casual,100000000
+2016-01-01,Hay Day,Game Casual,100000000
+2014-01-01,Hay Day,Game Casual,50000000
+2014-01-01,Hay Day,Game Casual,10000000
+2014-01-01,Hay Day,Game Casual,5000000
+2014-01-01,Hay Day,Game Casual,1000000
+2014-01-01,Hay Day,Game Casual,500000
+2020-01-01,Farm Heroes Saga,Game Casual,100000000
+2015-01-01,Farm Heroes Saga,Game Casual,100000000
+2014-01-01,Farm Heroes Saga,Game Casual,50000000
+2014-01-01,Farm Heroes Saga,Game Casual,10000000
+2014-01-01,Farm Heroes Saga,Game Casual,5000000
+2014-01-01,Farm Heroes Saga,Game Casual,500000
+2014-01-01,Farm Heroes Saga,Game Casual,100000
+2020-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,100000000
+2015-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,100000000
+2014-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,50000000
+2013-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,10000000
+2012-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,5000000
+2012-01-01,"Avast Antivirus – Scan & Remove Virus, Cleaner",Tools,1000000
+2020-01-01,Roblox,Game Adventure,100000000
+2018-01-01,Roblox,Game Adventure,100000000
+2017-01-01,Roblox,Game Adventure,50000000
+2016-01-01,Roblox,Game Adventure,10000000
+2016-01-01,Roblox,Game Adventure,5000000
+2015-01-01,Roblox,Game Adventure,1000000
+2015-01-01,Roblox,Game Adventure,500000
+2015-01-01,Roblox,Game Adventure,100000
+2015-01-01,Roblox,Game Adventure,10000
+2014-01-01,Roblox,Game Adventure,1000
+2020-01-01,File Manager : free and easily,Tools,100000000
+2019-01-01,File Manager : free and easily,Tools,100000000
+2019-01-01,File Manager : free and easily,Tools,50000000
+2018-01-01,File Manager : free and easily,Tools,10000000
+2018-01-01,File Manager : free and easily,Tools,5000000
+2018-01-01,File Manager : free and easily,Tools,1000000
+2018-01-01,File Manager : free and easily,Tools,500000
+2018-01-01,File Manager : free and easily,Tools,100000
+2018-01-01,File Manager : free and easily,Tools,50000
+2018-01-01,File Manager : free and easily,Tools,10000
+2020-01-01,Minion Rush: Despicable Me Official Game,Game Casual,100000000
+2014-01-01,Minion Rush: Despicable Me Official Game,Game Casual,100000000
+2014-01-01,Minion Rush: Despicable Me Official Game,Game Casual,50000000
+2013-01-01,Minion Rush: Despicable Me Official Game,Game Casual,10000000
+2013-01-01,Minion Rush: Despicable Me Official Game,Game Casual,5000000
+2013-01-01,Minion Rush: Despicable Me Official Game,Game Casual,1000000
+2020-01-01,Candy Crush Soda Saga,Game Casual,100000000
+2015-01-01,Candy Crush Soda Saga,Game Casual,100000000
+2015-01-01,Candy Crush Soda Saga,Game Casual,50000000
+2015-01-01,Candy Crush Soda Saga,Game Casual,10000000
+2015-01-01,Candy Crush Soda Saga,Game Casual,1000000
+2015-01-01,Candy Crush Soda Saga,Game Casual,500000
+2014-01-01,Candy Crush Soda Saga,Game Casual,100000
+2014-01-01,Candy Crush Soda Saga,Game Casual,5000
+2020-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,100000000
+2018-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,100000000
+2016-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,50000000
+2014-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,10000000
+2014-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,5000000
+2014-01-01,"Dragon City - Collect, Evolve & Build your Island",Game Simulation,1000000
+2020-01-01,ColorNote Notepad Notes,Productivity,100000000
+2016-01-01,ColorNote Notepad Notes,Productivity,100000000
+2014-01-01,ColorNote Notepad Notes,Productivity,50000000
+2012-01-01,ColorNote Notepad Notes,Productivity,10000000
+2020-01-01,Pinterest,Lifestyle,100000000
+2016-01-01,Pinterest,Lifestyle,100000000
+2015-01-01,Pinterest,Lifestyle,50000000
+2013-01-01,Pinterest,Lifestyle,10000000
+2013-01-01,Pinterest,Lifestyle,5000000
+2013-01-01,Pinterest,Lifestyle,1000000
+2013-01-01,Pinterest,Lifestyle,500000
+2020-01-01,"The Bible App Free + Audio, Daily Verse, Offline",Books & Reference,100000000
+2017-01-01,"The Bible App Free + Audio, Daily Verse, Offline",Books & Reference,100000000
+2014-01-01,"The Bible App Free + Audio, Daily Verse, Offline",Books & Reference,50000000
+2012-01-01,"The Bible App Free + Audio, Daily Verse, Offline",Books & Reference,10000000
+2020-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,100000000
+2018-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,100000000
+2017-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,50000000
+2014-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,10000000
+2013-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,5000000
+2012-01-01,"Booking.com: Hotels, Apartments & Accommodation",Travel & Local,1000000
+2020-01-01,BBM - No longer available,Communication,100000000
+2015-01-01,BBM - No longer available,Communication,100000000
+2014-01-01,BBM - No longer available,Communication,50000000
+2014-01-01,BBM - No longer available,Communication,10000000
+2020-01-01,CamScanner - Scanner to scan PDF,Productivity,100000000
+2018-01-01,CamScanner - Scanner to scan PDF,Productivity,100000000
+2016-01-01,CamScanner - Scanner to scan PDF,Productivity,50000000
+2012-01-01,CamScanner - Scanner to scan PDF,Productivity,10000000
+2012-01-01,CamScanner - Scanner to scan PDF,Productivity,5000000
+2020-01-01,ZEDGE™ Wallpapers & Ringtones,Personalization,100000000
+2015-01-01,ZEDGE™ Wallpapers & Ringtones,Personalization,100000000
+2013-01-01,ZEDGE™ Wallpapers & Ringtones,Personalization,50000000
+2012-01-01,ZEDGE™ Wallpapers & Ringtones,Personalization,10000000
+2020-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,100000000
+2017-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,100000000
+2016-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,50000000
+2014-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,10000000
+2014-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,5000000
+2014-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,1000000
+2014-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,500000
+2014-01-01,Asphalt 8: Airborne - Fun Real Car Racing Game,Game Racing,100000
+2020-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,100000000
+2018-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,100000000
+2016-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,50000000
+2015-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,10000000
+2014-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,5000000
+2014-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,1000000
+2014-01-01,"VideoShow Video Editor, Video Maker, Photo Editor",Video Players,500000
+2020-01-01,µTorrent®- Torrent Downloader,Video Players,100000000
+2017-01-01,µTorrent®- Torrent Downloader,Video Players,100000000
+2015-01-01,µTorrent®- Torrent Downloader,Video Players,50000000
+2013-01-01,µTorrent®- Torrent Downloader,Video Players,10000000
+2013-01-01,µTorrent®- Torrent Downloader,Video Players,5000000
+2013-01-01,µTorrent®- Torrent Downloader,Video Players,1000000
+2013-01-01,µTorrent®- Torrent Downloader,Video Players,500000
+2020-01-01,Traffic Racer,Game Racing,100000000
+2016-01-01,Traffic Racer,Game Racing,100000000
+2015-01-01,Traffic Racer,Game Racing,50000000
+2014-01-01,Traffic Racer,Game Racing,10000000
+2014-01-01,Traffic Racer,Game Racing,5000000
+2014-01-01,Traffic Racer,Game Racing,1000000
+2014-01-01,Traffic Racer,Game Racing,500000
+2020-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,100000000
+2017-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,100000000
+2016-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,50000000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,10000000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,5000000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,1000000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,500000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,100000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,50000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,10000
+2014-01-01,"dfndr security: antivirus, anti-hacking & cleaner",Tools,1000
+2020-01-01,Sonic Dash,Game Arcade,100000000
+2016-01-01,Sonic Dash,Game Arcade,100000000
+2015-01-01,Sonic Dash,Game Arcade,50000000
+2014-01-01,Sonic Dash,Game Arcade,10000000
+2014-01-01,Sonic Dash,Game Arcade,5000000
+2014-01-01,Sonic Dash,Game Arcade,1000000
+2014-01-01,Sonic Dash,Game Arcade,100000
+2014-01-01,Sonic Dash,Game Arcade,10000
+2020-01-01,GO Launcher - 3D parallax Themes & HD Wallpapers,Personalization,100000000
+2014-01-01,GO Launcher - 3D parallax Themes & HD Wallpapers,Personalization,100000000
+2013-01-01,GO Launcher - 3D parallax Themes & HD Wallpapers,Personalization,50000000
+2012-01-01,GO Launcher - 3D parallax Themes & HD Wallpapers,Personalization,10000000
+2020-01-01,Traffic Rider,Game Racing,100000000
+2017-01-01,Traffic Rider,Game Racing,100000000
+2016-01-01,Traffic Rider,Game Racing,50000000
+2016-01-01,Traffic Rider,Game Racing,10000000
+2020-01-01,Angry Birds 2,Game Casual,100000000
+2018-01-01,Angry Birds 2,Game Casual,100000000
+2017-01-01,Angry Birds 2,Game Casual,50000000
+2016-01-01,Angry Birds 2,Game Casual,10000000
+2016-01-01,Angry Birds 2,Game Casual,5000000
+2016-01-01,Angry Birds 2,Game Casual,1000000
+2020-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,100000000
+2019-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,100000000
+2018-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,50000000
+2016-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,10000000
+2016-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,5000000
+2015-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,1000000
+2014-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,500000
+2014-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,100000
+2014-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,50000
+2014-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,10000
+2014-01-01,"Grab - Transport, Food Delivery, Payments",Maps & Navigation,5000
+2020-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,100000000
+2018-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,100000000
+2017-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,50000000
+2015-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,10000000
+2014-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,5000000
+2013-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,1000000
+2013-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,500000
+2013-01-01,"Paytm - BHIM UPI, Money Transfer & Mobile Recharge",Shopping,100000
+2020-01-01,"Joom. Easy shopping, fast shipping",Shopping,100000000
+2019-01-01,"Joom. Easy shopping, fast shipping",Shopping,100000000
+2018-01-01,"Joom. Easy shopping, fast shipping",Shopping,50000000
+2018-01-01,"Joom. Easy shopping, fast shipping",Shopping,10000000
+2017-01-01,"Joom. Easy shopping, fast shipping",Shopping,5000000
+2017-01-01,"Joom. Easy shopping, fast shipping",Shopping,1000000
+2017-01-01,"Joom. Easy shopping, fast shipping",Shopping,500000
+2017-01-01,"Joom. Easy shopping, fast shipping",Shopping,100000
+2016-01-01,"Joom. Easy shopping, fast shipping",Shopping,50000
+2020-01-01,Criminal Case,Game Adventure,100000000
+2017-01-01,Criminal Case,Game Adventure,100000000
+2016-01-01,Criminal Case,Game Adventure,50000000
+2015-01-01,Criminal Case,Game Adventure,10000000
+2015-01-01,Criminal Case,Game Adventure,5000000
+2015-01-01,Criminal Case,Game Adventure,1000000
+2015-01-01,Criminal Case,Game Adventure,50000
+2015-01-01,Criminal Case,Game Adventure,10000
+2020-01-01,Pet Rescue Saga,Game Casual,100000000
+2015-01-01,Pet Rescue Saga,Game Casual,100000000
+2014-01-01,Pet Rescue Saga,Game Casual,50000000
+2014-01-01,Pet Rescue Saga,Game Casual,10000000
+2014-01-01,Pet Rescue Saga,Game Casual,5000000
+2013-01-01,Pet Rescue Saga,Game Casual,1000000
+2013-01-01,Pet Rescue Saga,Game Casual,50000
+2020-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,100000000
+2016-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,100000000
+2016-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,50000000
+2015-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,10000000
+2015-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,5000000
+2015-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,1000000
+2015-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,500000
+2015-01-01,YouCam Makeup-Magic Selfie Cam & Virtual Makeovers,Photography,100000
+2020-01-01,Crossy Road,Game Action,100000000
+2018-01-01,Crossy Road,Game Action,100000000
+2016-01-01,Crossy Road,Game Action,50000000
+2015-01-01,Crossy Road,Game Action,10000000
+2015-01-01,Crossy Road,Game Action,5000000
+2015-01-01,Crossy Road,Game Action,1000000
+2015-01-01,Crossy Road,Game Action,500000
+2020-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,100000000
+2020-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,100000000
+2019-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,50000000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,10000000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,5000000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,1000000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,500000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,100000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,50000
+2017-01-01,Turbo VPN- Free VPN Proxy Server & Secure Service,Tools,10000
+2020-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,100000000
+2020-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,100000000
+2019-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,50000000
+2018-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,10000000
+2017-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,5000000
+2017-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,1000000
+2017-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,500000
+2017-01-01,Lark Player - Free MP3 Music & Youtube Player,Music & Audio,100000
+2020-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,100000000
+2019-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,100000000
+2019-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,50000000
+2018-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,10000000
+2017-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,5000000
+2017-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,1000000
+2017-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,500000
+2016-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,100000
+2016-01-01,"Quik – Free Video Editor for photos, clips, music",Video Players,50000
+2020-01-01,ShareMe (MiDrop) - Transfer files without internet,Tools,100000000
+2019-01-01,ShareMe (MiDrop) - Transfer files without internet,Tools,100000000
+2018-01-01,ShareMe (MiDrop) - Transfer files without internet,Tools,50000000
+2018-01-01,ShareMe (MiDrop) - Transfer files without internet,Tools,10000000
+2020-01-01,Parallel Space - Multiple accounts & Two face,Personalization,100000000
+2018-01-01,Parallel Space - Multiple accounts & Two face,Personalization,100000000
+2017-01-01,Parallel Space - Multiple accounts & Two face,Personalization,50000000
+2016-01-01,Parallel Space - Multiple accounts & Two face,Personalization,10000000
+2016-01-01,Parallel Space - Multiple accounts & Two face,Personalization,5000000
+2016-01-01,Parallel Space - Multiple accounts & Two face,Personalization,1000000
+2016-01-01,Parallel Space - Multiple accounts & Two face,Personalization,500000
+2016-01-01,Parallel Space - Multiple accounts & Two face,Personalization,100000
+2020-01-01,Lazada - Online Shopping & Deals,Shopping,100000000
+2019-01-01,Lazada - Online Shopping & Deals,Shopping,100000000
+2017-01-01,Lazada - Online Shopping & Deals,Shopping,50000000
+2016-01-01,Lazada - Online Shopping & Deals,Shopping,10000000
+2015-01-01,Lazada - Online Shopping & Deals,Shopping,5000000
+2014-01-01,Lazada - Online Shopping & Deals,Shopping,1000000
+2014-01-01,Lazada - Online Shopping & Deals,Shopping,500000
+2014-01-01,Lazada - Online Shopping & Deals,Shopping,100000
+2014-01-01,Lazada - Online Shopping & Deals,Shopping,50000
+2020-01-01,Hungry Shark Evolution,Game Arcade,100000000
+2016-01-01,Hungry Shark Evolution,Game Arcade,100000000
+2015-01-01,Hungry Shark Evolution,Game Arcade,50000000
+2013-01-01,Hungry Shark Evolution,Game Arcade,10000000
+2013-01-01,Hungry Shark Evolution,Game Arcade,5000000
+2013-01-01,Hungry Shark Evolution,Game Arcade,1000000
+2013-01-01,Hungry Shark Evolution,Game Arcade,100000
+2013-01-01,Hungry Shark Evolution,Game Arcade,10000
+2020-01-01,Banana Kong,Game Action,100000000
+2017-01-01,Banana Kong,Game Action,100000000
+2015-01-01,Banana Kong,Game Action,50000000
+2014-01-01,Banana Kong,Game Action,10000000
+2014-01-01,Banana Kong,Game Action,5000000
+2014-01-01,Banana Kong,Game Action,1000000
+2014-01-01,Banana Kong,Game Action,100000
+2014-01-01,Banana Kong,Game Action,10000
+2014-01-01,Banana Kong,Game Action,5000
+2020-01-01,Wish - Shopping Made Fun,Shopping,100000000
+2017-01-01,Wish - Shopping Made Fun,Shopping,100000000
+2016-01-01,Wish - Shopping Made Fun,Shopping,50000000
+2014-01-01,Wish - Shopping Made Fun,Shopping,10000000
+2014-01-01,Wish - Shopping Made Fun,Shopping,5000000
+2013-01-01,Wish - Shopping Made Fun,Shopping,1000000
+2013-01-01,Wish - Shopping Made Fun,Shopping,500000
+2013-01-01,Wish - Shopping Made Fun,Shopping,100000
+2020-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,100000000
+2016-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,100000000
+2015-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,50000000
+2015-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,10000000
+2015-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,5000000
+2015-01-01,"GO Keyboard - Cute Emojis, Themes and GIFs",Tools,1000000
+2020-01-01,Township,Game Casual,100000000
+2019-01-01,Township,Game Casual,100000000
+2017-01-01,Township,Game Casual,50000000
+2016-01-01,Township,Game Casual,10000000
+2015-01-01,Township,Game Casual,5000000
+2014-01-01,Township,Game Casual,1000000
+2014-01-01,Township,Game Casual,500000
+2014-01-01,Township,Game Casual,100000
+2014-01-01,Township,Game Casual,10000
+2014-01-01,Township,Game Casual,5000
+2014-01-01,Township,Game Casual,1000
+2020-01-01,Brawl Stars,Game Action,100000000
+2020-01-01,Brawl Stars,Game Action,100000000
+2019-01-01,Brawl Stars,Game Action,50000000
+2019-01-01,Brawl Stars,Game Action,10000000
+2019-01-01,Brawl Stars,Game Action,1000000
+2020-01-01,App Vault,Tools,100000000
+2020-01-01,App Vault,Tools,100000000
+2020-01-01,App Vault,Tools,50000000
+2020-01-01,App Vault,Tools,10000000
+2020-01-01,App Vault,Tools,1000000
+2020-01-01,Pokémon GO,Game Adventure,100000000
+2017-01-01,Pokémon GO,Game Adventure,100000000
+2017-01-01,Pokémon GO,Game Adventure,50000000
+2017-01-01,Pokémon GO,Game Adventure,10000000
+2017-01-01,Pokémon GO,Game Adventure,1000000
+2020-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,100000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,100000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,50000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,10000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,5000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,1000000
+2015-01-01,"APUS Launcher - Theme, Wallpaper, Hide Apps",Personalization,500000
+2020-01-01,Jetpack Joyride,Game Arcade,100000000
+2015-01-01,Jetpack Joyride,Game Arcade,100000000
+2014-01-01,Jetpack Joyride,Game Arcade,50000000
+2013-01-01,Jetpack Joyride,Game Arcade,10000000
+2013-01-01,Jetpack Joyride,Game Arcade,5000000
+2020-01-01,Opera browser with free VPN,Communication,100000000
+2016-01-01,Opera browser with free VPN,Communication,100000000
+2014-01-01,Opera browser with free VPN,Communication,50000000
+2012-01-01,Opera browser with free VPN,Communication,10000000
+2012-01-01,Opera browser with free VPN,Communication,5000000
+2020-01-01,Yahoo Mail – Organized Email,Communication,100000000
+2015-01-01,Yahoo Mail – Organized Email,Communication,100000000
+2013-01-01,Yahoo Mail – Organized Email,Communication,50000000
+2012-01-01,Yahoo Mail – Organized Email,Communication,10000000
+2020-01-01,Smash Hit,Game Arcade,100000000
+2018-01-01,Smash Hit,Game Arcade,100000000
+2015-01-01,Smash Hit,Game Arcade,50000000
+2014-01-01,Smash Hit,Game Arcade,10000000
+2014-01-01,Smash Hit,Game Arcade,5000000
+2014-01-01,Smash Hit,Game Arcade,1000000
+2014-01-01,Smash Hit,Game Arcade,500000
+2020-01-01,MyJio: For Everything Jio,Productivity,100000000
+2018-01-01,MyJio: For Everything Jio,Productivity,100000000
+2017-01-01,MyJio: For Everything Jio,Productivity,50000000
+2017-01-01,MyJio: For Everything Jio,Productivity,10000000
+2017-01-01,MyJio: For Everything Jio,Productivity,5000000
+2017-01-01,MyJio: For Everything Jio,Productivity,1000000
+2017-01-01,MyJio: For Everything Jio,Productivity,500000
+2016-01-01,MyJio: For Everything Jio,Productivity,100000
+2020-01-01,SoundCloud - Music & Audio,Music & Audio,100000000
+2016-01-01,SoundCloud - Music & Audio,Music & Audio,100000000
+2015-01-01,SoundCloud - Music & Audio,Music & Audio,50000000
+2014-01-01,SoundCloud - Music & Audio,Music & Audio,10000000
+2013-01-01,SoundCloud - Music & Audio,Music & Audio,5000000
+2012-01-01,SoundCloud - Music & Audio,Music & Audio,1000000
+2020-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,100000000
+2016-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,100000000
+2015-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,50000000
+2013-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,10000000
+2013-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,5000000
+2012-01-01,"Deezer Music Player: Songs, Playlists & Podcasts",Music & Audio,1000000
+2020-01-01,Cut the Rope 2,Game Puzzle,100000000
+2019-01-01,Cut the Rope 2,Game Puzzle,100000000
+2015-01-01,Cut the Rope 2,Game Puzzle,50000000
+2014-01-01,Cut the Rope 2,Game Puzzle,10000000
+2014-01-01,Cut the Rope 2,Game Puzzle,5000000
+2014-01-01,Cut the Rope 2,Game Puzzle,500000
+2020-01-01,Bitmoji,Entertainment,100000000
+2018-01-01,Bitmoji,Entertainment,100000000
+2017-01-01,Bitmoji,Entertainment,50000000
+2017-01-01,Bitmoji,Entertainment,10000000
+2016-01-01,Bitmoji,Entertainment,5000000
+2015-01-01,Bitmoji,Entertainment,1000000
+2015-01-01,Bitmoji,Entertainment,500000
+2015-01-01,Bitmoji,Entertainment,100000
+2015-01-01,Bitmoji,Entertainment,10000
+2015-01-01,Bitmoji,Entertainment,1000
+2020-01-01,Real Racing  3,Game Racing,100000000
+2016-01-01,Real Racing  3,Game Racing,100000000
+2015-01-01,Real Racing  3,Game Racing,50000000
+2020-01-01,Likee - Formerly LIKE Video,Video Players,500000000
+2020-01-01,Likee - Formerly LIKE Video,Video Players,500000000
+2019-01-01,Likee - Formerly LIKE Video,Video Players,100000000
+2019-01-01,Likee - Formerly LIKE Video,Video Players,50000000
+2018-01-01,Likee - Formerly LIKE Video,Video Players,10000000
+2018-01-01,Likee - Formerly LIKE Video,Video Players,5000000
+2018-01-01,Likee - Formerly LIKE Video,Video Players,1000000
+2018-01-01,Likee - Formerly LIKE Video,Video Players,100000
+2018-01-01,Likee - Formerly LIKE Video,Video Players,10000
+2020-01-01,Opera Mini - fast web browser,Communication,100000000
+2017-01-01,Opera Mini - fast web browser,Communication,100000000
+2016-01-01,Opera Mini - fast web browser,Communication,50000000
+2015-01-01,Opera Mini - fast web browser,Communication,10000000
+2015-01-01,Opera Mini - fast web browser,Communication,5000000
+2015-01-01,Opera Mini - fast web browser,Communication,1000000
+2015-01-01,Opera Mini - fast web browser,Communication,500000
+2015-01-01,Opera Mini - fast web browser,Communication,100000
+2015-01-01,Opera Mini - fast web browser,Communication,50000
+2015-01-01,Opera Mini - fast web browser,Communication,10000
+2015-01-01,Opera Mini - fast web browser,Communication,10
+2020-01-01,TikTok,Video Players,100000000
+2019-01-01,TikTok,Video Players,100000000
+2018-01-01,TikTok,Video Players,50000000
+2018-01-01,TikTok,Video Players,10000000
+2018-01-01,TikTok,Video Players,5000000
+2018-01-01,TikTok,Video Players,1000000
+2018-01-01,TikTok,Video Players,500000
+2018-01-01,TikTok,Video Players,100000
+2020-01-01,Tiny Flashlight + LED,Tools,100000000
+2013-01-01,Tiny Flashlight + LED,Tools,100000000
+2012-01-01,Tiny Flashlight + LED,Tools,50000000
+2012-01-01,Tiny Flashlight + LED,Tools,10000000
+2020-01-01,Cut the Rope FULL FREE,Game Puzzle,100000000
+2016-01-01,Cut the Rope FULL FREE,Game Puzzle,100000000
+2014-01-01,Cut the Rope FULL FREE,Game Puzzle,50000000
+2013-01-01,Cut the Rope FULL FREE,Game Puzzle,10000000
+2013-01-01,Cut the Rope FULL FREE,Game Puzzle,5000000
+2012-01-01,Cut the Rope FULL FREE,Game Puzzle,1000000
+2020-01-01,Telegram,Communication,100000000
+2016-01-01,Telegram,Communication,100000000
+2015-01-01,Telegram,Communication,50000000
+2014-01-01,Telegram,Communication,10000000
+2014-01-01,Telegram,Communication,5000000
+2014-01-01,Telegram,Communication,1000000
+2014-01-01,Telegram,Communication,500000
+2014-01-01,Telegram,Communication,100000
+2020-01-01,Bowmasters,Game Action,100000000
+2020-01-01,Bowmasters,Game Action,100000000
+2018-01-01,Bowmasters,Game Action,50000000
+2017-01-01,Bowmasters,Game Action,10000000
+2017-01-01,Bowmasters,Game Action,5000000
+2017-01-01,Bowmasters,Game Action,1000000
+2020-01-01,Weather News & Radar Maps - The Weather Channel,Weather,100000000
+2019-01-01,Weather News & Radar Maps - The Weather Channel,Weather,100000000
+2014-01-01,Weather News & Radar Maps - The Weather Channel,Weather,50000000
+2012-01-01,Weather News & Radar Maps - The Weather Channel,Weather,10000000
+2020-01-01,JOOX Music,Music & Audio,100000000
+2019-01-01,JOOX Music,Music & Audio,100000000
+2018-01-01,JOOX Music,Music & Audio,50000000
+2016-01-01,JOOX Music,Music & Audio,10000000
+2016-01-01,JOOX Music,Music & Audio,5000000
+2016-01-01,JOOX Music,Music & Audio,1000000
+2016-01-01,JOOX Music,Music & Audio,500000
+2015-01-01,JOOX Music,Music & Audio,100000
+2015-01-01,JOOX Music,Music & Audio,50000
+2015-01-01,JOOX Music,Music & Audio,10000
+2015-01-01,JOOX Music,Music & Audio,1000
+2020-01-01,Bubble Witch 2 Saga,Game Casual,100000000
+2017-01-01,Bubble Witch 2 Saga,Game Casual,100000000
+2015-01-01,Bubble Witch 2 Saga,Game Casual,50000000
+2015-01-01,Bubble Witch 2 Saga,Game Casual,10000000
+2014-01-01,Bubble Witch 2 Saga,Game Casual,5000000
+2014-01-01,Bubble Witch 2 Saga,Game Casual,1000000
+2014-01-01,Bubble Witch 2 Saga,Game Casual,100000
+2014-01-01,Bubble Witch 2 Saga,Game Casual,50000
+2020-01-01,Plants vs Zombies™ 2 Free,Game Casual,100000000
+2017-01-01,Plants vs Zombies™ 2 Free,Game Casual,100000000
+2015-01-01,Plants vs Zombies™ 2 Free,Game Casual,50000000
+2020-01-01,FaceApp,Photography,100000000
+2020-01-01,FaceApp,Photography,100000000
+2019-01-01,FaceApp,Photography,50000000
+2017-01-01,FaceApp,Photography,10000000
+2017-01-01,FaceApp,Photography,5000000
+2017-01-01,FaceApp,Photography,1000000
+2017-01-01,FaceApp,Photography,500000
+2020-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,100000000
+2015-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,100000000
+2014-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,50000000
+2013-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,10000000
+2013-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,5000000
+2012-01-01,"Cymera Camera - Collage, Selfie Camera, Pic Editor",Photography,1000000
+2020-01-01,Angry Birds Classic,Game Arcade,100000000
+2013-01-01,Angry Birds Classic,Game Arcade,100000000
+2012-01-01,Angry Birds Classic,Game Arcade,50000000
+2020-01-01,Homescapes,Game Casual,100000000
+2019-01-01,Homescapes,Game Casual,100000000
+2019-01-01,Homescapes,Game Casual,50000000
+2018-01-01,Homescapes,Game Casual,10000000
+2020-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,100000000
+2016-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,100000000
+2015-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,50000000
+2013-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,10000000
+2012-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,5000000
+2012-01-01,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",Maps & Navigation,1000000
+2020-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,100000000
+2019-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,100000000
+2018-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,50000000
+2015-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,10000000
+2015-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,5000000
+2014-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,1000000
+2013-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,500000
+2013-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,100000
+2013-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,50000
+2013-01-01,Gaana Music - Hindi Tamil Telugu MP3 Songs App,Music & Audio,10000
+2020-01-01,Camera360: Selfie Photo Editor with Funny Sticker,Photography,100000000
+2015-01-01,Camera360: Selfie Photo Editor with Funny Sticker,Photography,100000000
+2014-01-01,Camera360: Selfie Photo Editor with Funny Sticker,Photography,50000000
+2013-01-01,Camera360: Selfie Photo Editor with Funny Sticker,Photography,10000000
+2012-01-01,Camera360: Selfie Photo Editor with Funny Sticker,Photography,5000000
+2020-01-01,Geometry Dash Lite,Game Arcade,100000000
+2016-01-01,Geometry Dash Lite,Game Arcade,100000000
+2015-01-01,Geometry Dash Lite,Game Arcade,50000000
+2014-01-01,Geometry Dash Lite,Game Arcade,10000000
+2014-01-01,Geometry Dash Lite,Game Arcade,5000000
+2014-01-01,Geometry Dash Lite,Game Arcade,1000000
+2020-01-01,Swamp Attack,Game Action,100000000
+2020-01-01,Swamp Attack,Game Action,100000000
+2017-01-01,Swamp Attack,Game Action,50000000
+2015-01-01,Swamp Attack,Game Action,10000000
+2015-01-01,Swamp Attack,Game Action,5000000
+2015-01-01,Swamp Attack,Game Action,1000000
+2020-01-01,Calculator - unit converter,Productivity,100000000
+2020-01-01,Calculator - unit converter,Productivity,100000000
+2018-01-01,Calculator - unit converter,Productivity,50000000
+2016-01-01,Calculator - unit converter,Productivity,10000000
+2015-01-01,Calculator - unit converter,Productivity,5000000
+2015-01-01,Calculator - unit converter,Productivity,1000000
+2015-01-01,Calculator - unit converter,Productivity,500000
+2015-01-01,Calculator - unit converter,Productivity,100000
+2020-01-01,Zombie Tsunami,Game Arcade,100000000
+2016-01-01,Zombie Tsunami,Game Arcade,100000000
+2015-01-01,Zombie Tsunami,Game Arcade,50000000
+2014-01-01,Zombie Tsunami,Game Arcade,10000000
+2014-01-01,Zombie Tsunami,Game Arcade,5000000
+2020-01-01,"IMDb Movies & TV Shows: Trailers, Reviews, Tickets",Entertainment,100000000
+2017-01-01,"IMDb Movies & TV Shows: Trailers, Reviews, Tickets",Entertainment,100000000
+2014-01-01,"IMDb Movies & TV Shows: Trailers, Reviews, Tickets",Entertainment,50000000
+2012-01-01,"IMDb Movies & TV Shows: Trailers, Reviews, Tickets",Entertainment,10000000
+2020-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,100000000
+2020-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,100000000
+2019-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,50000000
+2018-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,10000000
+2018-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,5000000
+2017-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,1000000
+2017-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,500000
+2016-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,100000
+2016-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,50000
+2016-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,10000
+2016-01-01,Where is my Train : Indian Railway Train Status,Travel & Local,5000
+2020-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,100000000
+2017-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,100000000
+2016-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,50000000
+2015-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,10000000
+2014-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,5000000
+2014-01-01,BeautyPlus - Easy Photo Editor & Selfie Camera,Photography,1000000
+2020-01-01,Backgrounds HD (Wallpapers),Personalization,100000000
+2017-01-01,Backgrounds HD (Wallpapers),Personalization,100000000
+2015-01-01,Backgrounds HD (Wallpapers),Personalization,50000000
+2013-01-01,Backgrounds HD (Wallpapers),Personalization,10000000
+2013-01-01,Backgrounds HD (Wallpapers),Personalization,5000000
+2013-01-01,Backgrounds HD (Wallpapers),Personalization,1000000
+2013-01-01,Backgrounds HD (Wallpapers),Personalization,500000
+2012-01-01,Backgrounds HD (Wallpapers),Personalization,100000
+2020-01-01,MP3 Video Converter,Music & Audio,100000000
+2016-01-01,MP3 Video Converter,Music & Audio,100000000
+2015-01-01,MP3 Video Converter,Music & Audio,50000000
+2014-01-01,MP3 Video Converter,Music & Audio,10000000
+2014-01-01,MP3 Video Converter,Music & Audio,5000000
+2014-01-01,MP3 Video Converter,Music & Audio,1000000
+2014-01-01,MP3 Video Converter,Music & Audio,500000
+2020-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,100000000
+2019-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,100000000
+2018-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,50000000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,10000000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,5000000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,1000000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,500000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,100000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,50000
+2017-01-01,"PhonePe – UPI Payments, Recharges & Money Transfer",Finance,10000
+2020-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,100000000
+2018-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,100000000
+2017-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,50000000
+2017-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,10000000
+2017-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,5000000
+2016-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,1000000
+2016-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,500000
+2016-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,100000
+2016-01-01,"BIGO LIVE–Live Stream, Video Chat, Make Friends",Social,10000
+2020-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,100000000
+2018-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,100000000
+2017-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,50000000
+2016-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,10000000
+2016-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,5000000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,1000000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,500000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,100000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,50000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,10000
+2015-01-01,"Z Camera - Photo Editor, Beauty Selfie, Collage",Photography,1000
+2020-01-01,Retrica - The Original Filter Camera,Photography,100000000
+2015-01-01,Retrica - The Original Filter Camera,Photography,100000000
+2015-01-01,Retrica - The Original Filter Camera,Photography,50000000
+2014-01-01,Retrica - The Original Filter Camera,Photography,10000000
+2020-01-01,SoundHound - Music Discovery & Lyrics,Music & Audio,100000000
+2019-01-01,SoundHound - Music Discovery & Lyrics,Music & Audio,100000000
+2014-01-01,SoundHound - Music Discovery & Lyrics,Music & Audio,50000000
+2012-01-01,SoundHound - Music Discovery & Lyrics,Music & Audio,10000000
+2020-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,100000000
+2020-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,100000000
+2019-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,50000000
+2018-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,10000000
+2018-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,5000000
+2017-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,1000000
+2017-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,500000
+2017-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,100000
+2017-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,50000
+2017-01-01,"Phoenix Browser -Video Download, Private & Fast",Communication,10000
+2020-01-01,Adobe Photoshop Express:Photo Editor Collage Maker,Photography,100000000
+2019-01-01,Adobe Photoshop Express:Photo Editor Collage Maker,Photography,100000000
+2016-01-01,Adobe Photoshop Express:Photo Editor Collage Maker,Photography,50000000
+2012-01-01,Adobe Photoshop Express:Photo Editor Collage Maker,Photography,10000000
+2020-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,100000000
+2018-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,100000000
+2016-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,50000000
+2013-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,10000000
+2013-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,5000000
+2012-01-01,Audible Audiobooks: Stories & Audio Entertainment,Books & Reference,1000000
+2020-01-01,Anti-virus Dr.Web Light,Tools,100000000
+2018-01-01,Anti-virus Dr.Web Light,Tools,100000000
+2015-01-01,Anti-virus Dr.Web Light,Tools,50000000
+2013-01-01,Anti-virus Dr.Web Light,Tools,10000000
+2012-01-01,Anti-virus Dr.Web Light,Tools,5000000
+2012-01-01,Anti-virus Dr.Web Light,Tools,1000000
+2020-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,100000000
+2017-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,100000000
+2017-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,50000000
+2015-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,10000000
+2015-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,5000000
+2015-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,1000000
+2014-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,500000
+2014-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,100000
+2014-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,50000
+2014-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,10000
+2014-01-01,"Xender - Share Music&Video,Status Saver,Transfer",Tools,5000
+2020-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,100000000
+2018-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,100000000
+2017-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,50000000
+2015-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,10000000
+2015-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,5000000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,1000000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,500000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,100000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,50000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,10000
+2014-01-01,YouCam Perfect - Best Selfie Camera & Photo Editor,Photography,1000
+2020-01-01,Snapseed,Photography,100000000
+2019-01-01,Snapseed,Photography,100000000
+2018-01-01,Snapseed,Photography,50000000
+2015-01-01,Snapseed,Photography,10000000
+2014-01-01,Snapseed,Photography,5000000
+2013-01-01,Snapseed,Photography,1000000
+2013-01-01,Snapseed,Photography,500000
+2020-01-01,Fruit Ninja®,Game Arcade,100000000
+2013-01-01,Fruit Ninja®,Game Arcade,100000000
+2013-01-01,Fruit Ninja®,Game Arcade,50000000
+2012-01-01,Fruit Ninja®,Game Arcade,10000000
+2020-01-01,"Helo - Discover, Share & Communicate",Social,100000000
+2019-01-01,"Helo - Discover, Share & Communicate",Social,100000000
+2019-01-01,"Helo - Discover, Share & Communicate",Social,50000000
+2019-01-01,"Helo - Discover, Share & Communicate",Social,10000000
+2019-01-01,"Helo - Discover, Share & Communicate",Social,5000000
+2020-01-01,Kwai - Short Video Maker & Community,Video Players,100000000
+2020-01-01,Kwai - Short Video Maker & Community,Video Players,100000000
+2019-01-01,Kwai - Short Video Maker & Community,Video Players,50000000
+2018-01-01,Kwai - Short Video Maker & Community,Video Players,10000000
+2018-01-01,Kwai - Short Video Maker & Community,Video Players,5000000
+2018-01-01,Kwai - Short Video Maker & Community,Video Players,1000000
+2018-01-01,Kwai - Short Video Maker & Community,Video Players,100000
+2020-01-01,Vector,Game Arcade,100000000
+2017-01-01,Vector,Game Arcade,100000000
+2015-01-01,Vector,Game Arcade,50000000
+2013-01-01,Vector,Game Arcade,10000000
+2013-01-01,Vector,Game Arcade,5000000
+2013-01-01,Vector,Game Arcade,1000000
+2013-01-01,Vector,Game Arcade,100000
+2020-01-01,Candy Crush Jelly Saga,Game Puzzle,100000000
+2019-01-01,Candy Crush Jelly Saga,Game Puzzle,100000000
+2016-01-01,Candy Crush Jelly Saga,Game Puzzle,50000000
+2016-01-01,Candy Crush Jelly Saga,Game Puzzle,10000000
+2016-01-01,Candy Crush Jelly Saga,Game Puzzle,1000000
+2016-01-01,Candy Crush Jelly Saga,Game Puzzle,500000
+2016-01-01,Candy Crush Jelly Saga,Game Puzzle,100000
+2020-01-01,Angry Birds Seasons,Game Arcade,100000000
+2014-01-01,Angry Birds Seasons,Game Arcade,100000000
+2012-01-01,Angry Birds Seasons,Game Arcade,50000000
+2012-01-01,Angry Birds Seasons,Game Arcade,10000000
+2020-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,100000000
+2016-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,100000000
+2015-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,50000000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,10000000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,5000000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,1000000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,100000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,50000
+2014-01-01,"Candy Camera - selfie, beauty camera, photo editor",Photography,10000
+2020-01-01,Talking Tom & Ben News,Entertainment,100000000
+2017-01-01,Talking Tom & Ben News,Entertainment,100000000
+2014-01-01,Talking Tom & Ben News,Entertainment,50000000
+2013-01-01,Talking Tom & Ben News,Entertainment,10000000
+2012-01-01,Talking Tom & Ben News,Entertainment,5000000
+2020-01-01,Hill Climb Racing 2,Game Racing,100000000
+2018-01-01,Hill Climb Racing 2,Game Racing,100000000
+2017-01-01,Hill Climb Racing 2,Game Racing,50000000
+2017-01-01,Hill Climb Racing 2,Game Racing,10000000
+2017-01-01,Hill Climb Racing 2,Game Racing,500000
+2017-01-01,Hill Climb Racing 2,Game Racing,100000
+2017-01-01,Hill Climb Racing 2,Game Racing,50000
+2017-01-01,Hill Climb Racing 2,Game Racing,5000000
+2020-01-01,"Photo Lab Picture Editor: face effects, art frames",Photography,100000000
+2019-01-01,"Photo Lab Picture Editor: face effects, art frames",Photography,100000000
+2017-01-01,"Photo Lab Picture Editor: face effects, art frames",Photography,50000000
+2013-01-01,"Photo Lab Picture Editor: face effects, art frames",Photography,10000000
+2012-01-01,"Photo Lab Picture Editor: face effects, art frames",Photography,5000000
+2020-01-01,"TuneIn Radio: Live Sports, News, Music & Podcasts",Music & Audio,100000000
+2015-01-01,"TuneIn Radio: Live Sports, News, Music & Podcasts",Music & Audio,100000000
+2013-01-01,"TuneIn Radio: Live Sports, News, Music & Podcasts",Music & Audio,50000000
+2012-01-01,"TuneIn Radio: Live Sports, News, Music & Podcasts",Music & Audio,10000000
+2020-01-01,Solitaire,Game Card,100000000
+2016-01-01,Solitaire,Game Card,100000000
+2014-01-01,Solitaire,Game Card,50000000
+2012-01-01,Solitaire,Game Card,10000000
+2012-01-01,Solitaire,Game Card,5000000
+2020-01-01,"GO SMS Pro - Messenger, Free Themes, Emoji",Communication,100000000
+2016-01-01,"GO SMS Pro - Messenger, Free Themes, Emoji",Communication,100000000
+2013-01-01,"GO SMS Pro - Messenger, Free Themes, Emoji",Communication,50000000
+2012-01-01,"GO SMS Pro - Messenger, Free Themes, Emoji",Communication,10000000
+2020-01-01,Verizon Cloud,Productivity,100000000
+2020-01-01,Verizon Cloud,Productivity,100000000
+2017-01-01,Verizon Cloud,Productivity,50000000
+2012-01-01,Verizon Cloud,Productivity,10000000
+2020-01-01,Indeed Job Search,Business,100000000
+2019-01-01,Indeed Job Search,Business,100000000
+2017-01-01,Indeed Job Search,Business,50000000
+2014-01-01,Indeed Job Search,Business,10000000
+2013-01-01,Indeed Job Search,Business,5000000
+2012-01-01,Indeed Job Search,Business,1000000
+2020-01-01,eBay Online Shopping - Buy and sell on the go,Shopping,100000000
+2015-01-01,eBay Online Shopping - Buy and sell on the go,Shopping,100000000
+2014-01-01,eBay Online Shopping - Buy and sell on the go,Shopping,50000000
+2012-01-01,eBay Online Shopping - Buy and sell on the go,Shopping,10000000
+2020-01-01,DEER HUNTER CLASSIC,Game Action,100000000
+2020-01-01,DEER HUNTER CLASSIC,Game Action,100000000
+2015-01-01,DEER HUNTER CLASSIC,Game Action,50000000
+2014-01-01,DEER HUNTER CLASSIC,Game Action,10000000
+2020-01-01,Mi Music,Music & Audio,100000000
+2019-01-01,Mi Music,Music & Audio,100000000
+2020-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,100000000
+2018-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,100000000
+2016-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,50000000
+2015-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,10000000
+2015-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,5000000
+2015-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,1000000
+2015-01-01,Microsoft Outlook: Organize Your Email & Calendar,Productivity,100000
+2020-01-01,Talking Tom Cat 2,Entertainment,100000000
+2014-01-01,Talking Tom Cat 2,Entertainment,100000000
+2013-01-01,Talking Tom Cat 2,Entertainment,50000000
+2012-01-01,Talking Tom Cat 2,Entertainment,10000000
+2020-01-01,Plants vs. Zombies FREE,Game Strategy,100000000
+2016-01-01,Plants vs. Zombies FREE,Game Strategy,100000000
+2016-01-01,Plants vs. Zombies FREE,Game Strategy,50000000
+2015-01-01,Plants vs. Zombies FREE,Game Strategy,10000000
+2020-01-01,SimSimi,Entertainment,100000000
+2018-01-01,SimSimi,Entertainment,100000000
+2016-01-01,SimSimi,Entertainment,50000000
+2013-01-01,SimSimi,Entertainment,10000000
+2012-01-01,SimSimi,Entertainment,5000000
+2020-01-01,Layout from Instagram: Collage,Photography,100000000
+2017-01-01,Layout from Instagram: Collage,Photography,100000000
+2016-01-01,Layout from Instagram: Collage,Photography,50000000
+2016-01-01,Layout from Instagram: Collage,Photography,10000000
+2015-01-01,Layout from Instagram: Collage,Photography,5000000
+2015-01-01,Layout from Instagram: Collage,Photography,1000000
+2015-01-01,Layout from Instagram: Collage,Photography,100000
+2020-01-01,Tango - Live Video Broadcasts,Social,100000000
+2014-01-01,Tango - Live Video Broadcasts,Social,100000000
+2013-01-01,Tango - Live Video Broadcasts,Social,50000000
+2012-01-01,Tango - Live Video Broadcasts,Social,10000000
+2020-01-01,Cooking Fever,Game Arcade,100000000
+2018-01-01,Cooking Fever,Game Arcade,100000000
+2017-01-01,Cooking Fever,Game Arcade,50000000
+2015-01-01,Cooking Fever,Game Arcade,10000000
+2015-01-01,Cooking Fever,Game Arcade,5000000
+2015-01-01,Cooking Fever,Game Arcade,1000000
+2015-01-01,Cooking Fever,Game Arcade,100000
+2015-01-01,Cooking Fever,Game Arcade,50000
+2015-01-01,Cooking Fever,Game Arcade,10000
+2020-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,100000000
+2018-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,100000000
+2017-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,50000000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,10000000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,5000000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,1000000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,500000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,100000
+2015-01-01,"Amazon Shopping, UPI, Money Transfer, Bill Payment",Shopping,50000
+2020-01-01,"GO Keyboard Lite - Emoji keyboard, Free Theme, GIF",Personalization,100000000
+2016-01-01,"GO Keyboard Lite - Emoji keyboard, Free Theme, GIF",Personalization,100000000
+2015-01-01,"GO Keyboard Lite - Emoji keyboard, Free Theme, GIF",Personalization,50000000
+2013-01-01,"GO Keyboard Lite - Emoji keyboard, Free Theme, GIF",Personalization,10000000
+2012-01-01,"GO Keyboard Lite - Emoji keyboard, Free Theme, GIF",Personalization,5000000
+2020-01-01,Angry Birds Star Wars,Game Arcade,100000000
+2017-01-01,Angry Birds Star Wars,Game Arcade,100000000
+2014-01-01,Angry Birds Star Wars,Game Arcade,50000000
+2013-01-01,Angry Birds Star Wars,Game Arcade,10000000
+2013-01-01,Angry Birds Star Wars,Game Arcade,5000000
+2013-01-01,Angry Birds Star Wars,Game Arcade,1000000
+2020-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,100000000
+2018-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,100000000
+2017-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,50000000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,10000000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,5000000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,1000000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,500000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,100000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,50000
+2016-01-01,Sweet Selfie - Beauty Camera & Best Photo Editor,Photography,10000
+2020-01-01,Voice changer with effects,Entertainment,100000000
+2020-01-01,Voice changer with effects,Entertainment,100000000
+2016-01-01,Voice changer with effects,Entertainment,50000000
+2015-01-01,Voice changer with effects,Entertainment,10000000
+2015-01-01,Voice changer with effects,Entertainment,5000000
+2015-01-01,Voice changer with effects,Entertainment,1000000
+2014-01-01,Voice changer with effects,Entertainment,100000
+2014-01-01,Voice changer with effects,Entertainment,10000
+2020-01-01,"Firefox Browser: fast, private & safe web browser",Communication,100000000
+2015-01-01,"Firefox Browser: fast, private & safe web browser",Communication,100000000
+2014-01-01,"Firefox Browser: fast, private & safe web browser",Communication,50000000
+2012-01-01,"Firefox Browser: fast, private & safe web browser",Communication,10000000
+2012-01-01,"Firefox Browser: fast, private & safe web browser",Communication,5000000
+2020-01-01,Drag Racing,Game Racing,100000000
+2014-01-01,Drag Racing,Game Racing,100000000
+2013-01-01,Drag Racing,Game Racing,50000000
+2012-01-01,Drag Racing,Game Racing,10000000
+2020-01-01,Score! Hero,Game Sports,100000000
+2018-01-01,Score! Hero,Game Sports,100000000
+2017-01-01,Score! Hero,Game Sports,50000000
+2016-01-01,Score! Hero,Game Sports,10000000
+2016-01-01,Score! Hero,Game Sports,5000000
+2016-01-01,Score! Hero,Game Sports,1000000
+2020-01-01,Angry Birds Space,Game Arcade,100000000
+2016-01-01,Angry Birds Space,Game Arcade,100000000
+2013-01-01,Angry Birds Space,Game Arcade,50000000
+2012-01-01,Angry Birds Space,Game Arcade,10000000
+2020-01-01,Gardenscapes,Game Casual,100000000
+2019-01-01,Gardenscapes,Game Casual,100000000
+2018-01-01,Gardenscapes,Game Casual,50000000
+2017-01-01,Gardenscapes,Game Casual,10000000
+2017-01-01,Gardenscapes,Game Casual,5000000
+2020-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,100000000
+2019-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,100000000
+2018-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,50000000
+2016-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,10000000
+2016-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,5000000
+2016-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,1000000
+2016-01-01,YouTube Music - Stream Songs & Music Videos,Music & Audio,500000
+2020-01-01,LINE Camera - Photo editor,Photography,100000000
+2017-01-01,LINE Camera - Photo editor,Photography,100000000
+2014-01-01,LINE Camera - Photo editor,Photography,50000000
+2013-01-01,LINE Camera - Photo editor,Photography,10000000
+2013-01-01,LINE Camera - Photo editor,Photography,5000000
+2012-01-01,LINE Camera - Photo editor,Photography,1000000
+2020-01-01,WiFi Master - by wifi.com,Tools,100000000
+2017-01-01,WiFi Master - by wifi.com,Tools,100000000
+2016-01-01,WiFi Master - by wifi.com,Tools,50000000
+2016-01-01,WiFi Master - by wifi.com,Tools,10000000
+2016-01-01,WiFi Master - by wifi.com,Tools,5000000
+2015-01-01,WiFi Master - by wifi.com,Tools,1000000
+2014-01-01,WiFi Master - by wifi.com,Tools,500000
+2014-01-01,WiFi Master - by wifi.com,Tools,100000
+2020-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,100000000
+2019-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,100000000
+2016-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,50000000
+2015-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,10000000
+2015-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,5000000
+2015-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,1000000
+2015-01-01,"❤️Emoji keyboard - Cute Emoticons, GIF, Stickers",Tools,100000
+2020-01-01,Yandex Browser with Protect,Personalization,100000000
+2019-01-01,Yandex Browser with Protect,Personalization,100000000
+2018-01-01,Yandex Browser with Protect,Personalization,50000000
+2015-01-01,Yandex Browser with Protect,Personalization,10000000
+2015-01-01,Yandex Browser with Protect,Personalization,5000000
+2014-01-01,Yandex Browser with Protect,Personalization,1000000
+2014-01-01,Yandex Browser with Protect,Personalization,500000
+2013-01-01,Yandex Browser with Protect,Personalization,100000
+2013-01-01,Yandex Browser with Protect,Personalization,50000
+2020-01-01,Flow Free,Game Puzzle,100000000
+2016-01-01,Flow Free,Game Puzzle,100000000
+2014-01-01,Flow Free,Game Puzzle,50000000
+2013-01-01,Flow Free,Game Puzzle,10000000
+2013-01-01,Flow Free,Game Puzzle,5000000
+2013-01-01,Flow Free,Game Puzzle,1000000
+2013-01-01,Flow Free,Game Puzzle,500000
+2013-01-01,Flow Free,Game Puzzle,100000
+2020-01-01,Talking Tom Gold Run,Game Action,100000000
+2018-01-01,Talking Tom Gold Run,Game Action,100000000
+2017-01-01,Talking Tom Gold Run,Game Action,50000000
+2017-01-01,Talking Tom Gold Run,Game Action,10000000
+2017-01-01,Talking Tom Gold Run,Game Action,1000000
+2016-01-01,Talking Tom Gold Run,Game Action,500000
+2020-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,100000000
+2018-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,100000000
+2017-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,50000000
+2017-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,10000000
+2017-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,5000000
+2017-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,1000000
+2017-01-01,"S Photo Editor - Collage Maker, Photo Collage",Photography,500000
+2020-01-01,3D Bowling,Game Sports,100000000
+2015-01-01,3D Bowling,Game Sports,100000000
+2013-01-01,3D Bowling,Game Sports,50000000
+2012-01-01,3D Bowling,Game Sports,10000000
+2020-01-01,Shazam - Discover songs & lyrics in seconds,Music & Audio,100000000
+2014-01-01,Shazam - Discover songs & lyrics in seconds,Music & Audio,100000000
+2013-01-01,Shazam - Discover songs & lyrics in seconds,Music & Audio,50000000
+2012-01-01,Shazam - Discover songs & lyrics in seconds,Music & Audio,10000000
+2020-01-01,"KineMaster - Video Editor, Video Maker",Video Players,100000000
+2019-01-01,"KineMaster - Video Editor, Video Maker",Video Players,100000000
+2019-01-01,"KineMaster - Video Editor, Video Maker",Video Players,50000000
+2017-01-01,"KineMaster - Video Editor, Video Maker",Video Players,10000000
+2016-01-01,"KineMaster - Video Editor, Video Maker",Video Players,5000000
+2015-01-01,"KineMaster - Video Editor, Video Maker",Video Players,1000000
+2015-01-01,"KineMaster - Video Editor, Video Maker",Video Players,500000
+2014-01-01,"KineMaster - Video Editor, Video Maker",Video Players,100000
+2014-01-01,"KineMaster - Video Editor, Video Maker",Video Players,50000
+2014-01-01,"KineMaster - Video Editor, Video Maker",Video Players,10000
+2020-01-01,Hike News & Content,Social,100000000
+2019-01-01,Hike News & Content,Social,100000000
+2016-01-01,Hike News & Content,Social,50000000
+2014-01-01,Hike News & Content,Social,10000000
+2014-01-01,Hike News & Content,Social,5000000
+2013-01-01,Hike News & Content,Social,1000000
+2013-01-01,Hike News & Content,Social,500000
+2013-01-01,Hike News & Content,Social,100000
+2020-01-01,SuperVPN Free VPN Client,Tools,100000000
+2020-01-01,SuperVPN Free VPN Client,Tools,100000000
+2018-01-01,SuperVPN Free VPN Client,Tools,50000000
+2015-01-01,SuperVPN Free VPN Client,Tools,10000000
+2015-01-01,SuperVPN Free VPN Client,Tools,5000000
+2014-01-01,SuperVPN Free VPN Client,Tools,1000000
+2014-01-01,SuperVPN Free VPN Client,Tools,500000
+2014-01-01,SuperVPN Free VPN Client,Tools,100000
+2014-01-01,SuperVPN Free VPN Client,Tools,50000
+2014-01-01,SuperVPN Free VPN Client,Tools,10000
+2014-01-01,SuperVPN Free VPN Client,Tools,1000
+2020-01-01,Shoot Bubble Deluxe,Game Puzzle,100000000
+2014-01-01,Shoot Bubble Deluxe,Game Puzzle,100000000
+2013-01-01,Shoot Bubble Deluxe,Game Puzzle,50000000
+2012-01-01,Shoot Bubble Deluxe,Game Puzzle,10000000
+2020-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,100000000
+2015-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,100000000
+2014-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,50000000
+2013-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,10000000
+2012-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,5000000
+2012-01-01,"Tripadvisor Hotel, Flight & Restaurant Bookings",Travel & Local,1000000
+2020-01-01,Dr. Driving,Game Racing,100000000
+2016-01-01,Dr. Driving,Game Racing,100000000
+2015-01-01,Dr. Driving,Game Racing,50000000
+2014-01-01,Dr. Driving,Game Racing,10000000
+2014-01-01,Dr. Driving,Game Racing,5000000
+2014-01-01,Dr. Driving,Game Racing,1000000
+2013-01-01,Dr. Driving,Game Racing,100000
+2013-01-01,Dr. Driving,Game Racing,10000
+2020-01-01,Boomerang from Instagram,Photography,100000000
+2019-01-01,Boomerang from Instagram,Photography,100000000
+2017-01-01,Boomerang from Instagram,Photography,50000000
+2016-01-01,Boomerang from Instagram,Photography,10000000
+2016-01-01,Boomerang from Instagram,Photography,5000000
+2016-01-01,Boomerang from Instagram,Photography,1000000
+2016-01-01,Boomerang from Instagram,Photography,100000
+2020-01-01,Angry Birds Rio,Game Arcade,100000000
+2014-01-01,Angry Birds Rio,Game Arcade,100000000
+2012-01-01,Angry Birds Rio,Game Arcade,50000000
+2012-01-01,Angry Birds Rio,Game Arcade,10000000
+2020-01-01,QR & Barcode Scanner,Tools,100000000
+2020-01-01,QR & Barcode Scanner,Tools,100000000
+2018-01-01,QR & Barcode Scanner,Tools,50000000
+2016-01-01,QR & Barcode Scanner,Tools,10000000
+2016-01-01,QR & Barcode Scanner,Tools,5000000
+2016-01-01,QR & Barcode Scanner,Tools,1000000
+2015-01-01,QR & Barcode Scanner,Tools,500000
+2015-01-01,QR & Barcode Scanner,Tools,100000
+2015-01-01,QR & Barcode Scanner,Tools,50000
+2015-01-01,QR & Barcode Scanner,Tools,10000
+2020-01-01,Beach Buggy Racing,Game Racing,100000000
+2020-01-01,Beach Buggy Racing,Game Racing,100000000
+2018-01-01,Beach Buggy Racing,Game Racing,50000000
+2015-01-01,Beach Buggy Racing,Game Racing,10000000
+2015-01-01,Beach Buggy Racing,Game Racing,5000000
+2015-01-01,Beach Buggy Racing,Game Racing,1000000
+2015-01-01,Beach Buggy Racing,Game Racing,100000
+2015-01-01,Beach Buggy Racing,Game Racing,10000
+2020-01-01,HAGO - Play With New Friends,Social,100000000
+2020-01-01,HAGO - Play With New Friends,Social,100000000
+2019-01-01,HAGO - Play With New Friends,Social,50000000
+2019-01-01,HAGO - Play With New Friends,Social,10000000
+2020-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,100000000
+2017-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,100000000
+2017-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,50000000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,10000000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,5000000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,1000000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,500000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,100000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,50000
+2016-01-01,Photo Editor & Photo Collage Maker: Picture Editor,Photography,500
+2020-01-01,Red Ball 4,Game Arcade,100000000
+2020-01-01,Red Ball 4,Game Arcade,100000000
+2018-01-01,Red Ball 4,Game Arcade,50000000
+2015-01-01,Red Ball 4,Game Arcade,10000000
+2015-01-01,Red Ball 4,Game Arcade,5000000
+2015-01-01,Red Ball 4,Game Arcade,1000000
+2015-01-01,Red Ball 4,Game Arcade,500000
+2015-01-01,Red Ball 4,Game Arcade,100000
+2015-01-01,Red Ball 4,Game Arcade,50000
+2015-01-01,Red Ball 4,Game Arcade,5000
+2015-01-01,Red Ball 4,Game Arcade,1000
+2020-01-01,Mi Calculator,Tools,100000000
+2019-01-01,Mi Calculator,Tools,100000000
+2019-01-01,Mi Calculator,Tools,50000000
+2018-01-01,Mi Calculator,Tools,10000000
+2018-01-01,Mi Calculator,Tools,5000000
+2020-01-01,Trivia Crack,Game Trivia,100000000
+2016-01-01,Trivia Crack,Game Trivia,100000000
+2015-01-01,Trivia Crack,Game Trivia,50000000
+2014-01-01,Trivia Crack,Game Trivia,10000000
+2014-01-01,Trivia Crack,Game Trivia,5000000
+2014-01-01,Trivia Crack,Game Trivia,1000000
+2014-01-01,Trivia Crack,Game Trivia,500000
+2014-01-01,Trivia Crack,Game Trivia,100000
+2020-01-01,Amazon Music: Stream Trending Songs & New Beats,Music & Audio,100000000
+2017-01-01,Amazon Music: Stream Trending Songs & New Beats,Music & Audio,100000000
+2014-01-01,Amazon Music: Stream Trending Songs & New Beats,Music & Audio,50000000
+2012-01-01,Amazon Music: Stream Trending Songs & New Beats,Music & Audio,10000000
+2020-01-01,Pooking - Billiards City,Game Sports,100000000
+2019-01-01,Pooking - Billiards City,Game Sports,100000000
+2019-01-01,Pooking - Billiards City,Game Sports,50000000
+2018-01-01,Pooking - Billiards City,Game Sports,10000000
+2018-01-01,Pooking - Billiards City,Game Sports,5000000
+2018-01-01,Pooking - Billiards City,Game Sports,1000000
+2018-01-01,Pooking - Billiards City,Game Sports,500000
+2020-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,100000000
+2020-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,100000000
+2018-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,50000000
+2013-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,10000000
+2012-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,5000000
+2012-01-01,PayPal Mobile Cash: Send and Request Money Fast,Finance,1000000
+2020-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,100000000
+2016-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,100000000
+2015-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,50000000
+2013-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,10000000
+2013-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,5000000
+2012-01-01,"Badoo — Dating App to Chat, Date & Meet New People",Social,1000000
+2020-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,100000000
+2017-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,100000000
+2015-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,50000000
+2013-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,10000000
+2013-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,5000000
+2013-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,1000000
+2013-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,500000
+2013-01-01,Bike Race Free - Top Motorcycle Racing Games,Game Racing,100000
+2020-01-01,Skater Boy,Game Arcade,100000000
+2018-01-01,Skater Boy,Game Arcade,100000000
+2014-01-01,Skater Boy,Game Arcade,50000000
+2012-01-01,Skater Boy,Game Arcade,10000000
+2012-01-01,Skater Boy,Game Arcade,5000000
+2020-01-01,Fast Racing 3D,Game Racing,100000000
+2016-01-01,Fast Racing 3D,Game Racing,100000000
+2014-01-01,Fast Racing 3D,Game Racing,50000000
+2014-01-01,Fast Racing 3D,Game Racing,10000000
+2014-01-01,Fast Racing 3D,Game Racing,5000000
+2014-01-01,Fast Racing 3D,Game Racing,1000000
+2020-01-01,Amazon Prime Video,Entertainment,100000000
+2019-01-01,Amazon Prime Video,Entertainment,100000000
+2018-01-01,Amazon Prime Video,Entertainment,50000000
+2017-01-01,Amazon Prime Video,Entertainment,10000000
+2017-01-01,Amazon Prime Video,Entertainment,5000000
+2016-01-01,Amazon Prime Video,Entertainment,1000000
+2016-01-01,Amazon Prime Video,Entertainment,500000
+2016-01-01,Amazon Prime Video,Entertainment,100000
+2016-01-01,Amazon Prime Video,Entertainment,50000
+2016-01-01,Amazon Prime Video,Entertainment,10000
+2020-01-01,Talking Ben the Dog,Entertainment,100000000
+2016-01-01,Talking Ben the Dog,Entertainment,100000000
+2014-01-01,Talking Ben the Dog,Entertainment,50000000
+2012-01-01,Talking Ben the Dog,Entertainment,10000000
+2020-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,100000000
+2020-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,100000000
+2019-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,50000000
+2018-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,10000000
+2018-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,5000000
+2018-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,1000000
+2018-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,100000
+2018-01-01,Dual Space - Multiple Accounts & App Cloner,Tools,50000
+2020-01-01,PUBG MOBILE LITE,Game Action,100000000
+2020-01-01,PUBG MOBILE LITE,Game Action,100000000
+2020-01-01,PUBG MOBILE LITE,Game Action,50000000
+2020-01-01,PUBG MOBILE LITE,Game Action,10000000
+2019-01-01,PUBG MOBILE LITE,Game Action,5000000
+2019-01-01,PUBG MOBILE LITE,Game Action,1000000
+2020-01-01,Marvel Contest of Champions,Game Action,100000000
+2020-01-01,Marvel Contest of Champions,Game Action,100000000
+2017-01-01,Marvel Contest of Champions,Game Action,50000000
+2015-01-01,Marvel Contest of Champions,Game Action,10000000
+2015-01-01,Marvel Contest of Champions,Game Action,5000000
+2015-01-01,Marvel Contest of Champions,Game Action,1000000
+2015-01-01,Marvel Contest of Champions,Game Action,10000
+2015-01-01,Marvel Contest of Champions,Game Action,1000
+2020-01-01,Video MP3 Converter,Music & Audio,100000000
+2019-01-01,Video MP3 Converter,Music & Audio,100000000
+2018-01-01,Video MP3 Converter,Music & Audio,50000000
+2017-01-01,Video MP3 Converter,Music & Audio,10000000
+2017-01-01,Video MP3 Converter,Music & Audio,5000000
+2017-01-01,Video MP3 Converter,Music & Audio,1000000
+2020-01-01,Crowd City,Game Arcade,100000000
+2020-01-01,Crowd City,Game Arcade,100000000
+2020-01-01,Crowd City,Game Arcade,50000000
+2019-01-01,Crowd City,Game Arcade,10000000
+2019-01-01,Crowd City,Game Arcade,5000000
+2019-01-01,Crowd City,Game Arcade,1000000
+2019-01-01,Crowd City,Game Arcade,500000
+2020-01-01,Speedtest by Ookla,Tools,100000000
+2018-01-01,Speedtest by Ookla,Tools,100000000
+2015-01-01,Speedtest by Ookla,Tools,50000000
+2012-01-01,Speedtest by Ookla,Tools,10000000
+2012-01-01,Speedtest by Ookla,Tools,5000000
+2020-01-01,Where's My Water? 2,Game Puzzle,100000000
+2017-01-01,Where's My Water? 2,Game Puzzle,100000000
+2015-01-01,Where's My Water? 2,Game Puzzle,50000000
+2020-01-01,File Commander - File Manager & Free Cloud,Business,100000000
+2018-01-01,File Commander - File Manager & Free Cloud,Business,100000000
+2016-01-01,File Commander - File Manager & Free Cloud,Business,50000000
+2015-01-01,File Commander - File Manager & Free Cloud,Business,10000000
+2014-01-01,File Commander - File Manager & Free Cloud,Business,5000000
+2014-01-01,File Commander - File Manager & Free Cloud,Business,1000000
+2014-01-01,File Commander - File Manager & Free Cloud,Business,500000
+2013-01-01,File Commander - File Manager & Free Cloud,Business,100000
+2013-01-01,File Commander - File Manager & Free Cloud,Business,50000
+2013-01-01,File Commander - File Manager & Free Cloud,Business,10000
+2020-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,100000000
+2019-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,100000000
+2017-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,50000000
+2016-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,10000000
+2016-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,5000000
+2016-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,1000000
+2015-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,500000
+2015-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,100000
+2015-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,50000
+2015-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,10000
+2015-01-01,Photo Collage Maker - Photo Editor & Photo Collage,Photography,5000
+2020-01-01,My Talking Tom 2,Game Casual,100000000
+2019-01-01,My Talking Tom 2,Game Casual,100000000
+2019-01-01,My Talking Tom 2,Game Casual,50000000
+2019-01-01,My Talking Tom 2,Game Casual,10000000
+2020-01-01,Pool Billiards Pro,Game Sports,100000000
+2014-01-01,Pool Billiards Pro,Game Sports,100000000
+2013-01-01,Pool Billiards Pro,Game Sports,50000000
+2012-01-01,Pool Billiards Pro,Game Sports,10000000
+2020-01-01,RAR,Tools,100000000
+2020-01-01,RAR,Tools,100000000
+2017-01-01,RAR,Tools,50000000
+2015-01-01,RAR,Tools,10000000
+2015-01-01,RAR,Tools,5000000
+2014-01-01,RAR,Tools,1000000
+2014-01-01,RAR,Tools,500000
+2014-01-01,RAR,Tools,100000
+2014-01-01,RAR,Tools,10000
+2014-01-01,RAR,Tools,5000
+2020-01-01,Moto Display,Tools,100000000
+2019-01-01,Moto Display,Tools,100000000
+2019-01-01,Moto Display,Tools,50000000
+2017-01-01,Moto Display,Tools,10000000
+2017-01-01,Moto Display,Tools,5000000
+2017-01-01,Moto Display,Tools,1000000
+2015-01-01,Moto Display,Tools,500000
+2015-01-01,Moto Display,Tools,100000
+2015-01-01,Moto Display,Tools,50000
+2020-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,100000000
+2019-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,100000000
+2019-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,50000000
+2018-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,10000000
+2017-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,5000000
+2017-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,1000000
+2016-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,500000
+2016-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,100000
+2016-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,50000
+2016-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,10000
+2016-01-01,"ShareChat - Make Friends, WhatsApp Status & Videos",Social,1000
+2020-01-01,Angry Birds Go!,Game Racing,100000000
+2019-01-01,Angry Birds Go!,Game Racing,100000000
+2015-01-01,Angry Birds Go!,Game Racing,50000000
+2014-01-01,Angry Birds Go!,Game Racing,10000000
+2014-01-01,Angry Birds Go!,Game Racing,1000000
+2014-01-01,Angry Birds Go!,Game Racing,5
+2020-01-01,Cricbuzz - Live Cricket Scores & News,Sports,100000000
+2019-01-01,Cricbuzz - Live Cricket Scores & News,Sports,100000000
+2018-01-01,Cricbuzz - Live Cricket Scores & News,Sports,50000000
+2015-01-01,Cricbuzz - Live Cricket Scores & News,Sports,10000000
+2014-01-01,Cricbuzz - Live Cricket Scores & News,Sports,5000000
+2013-01-01,Cricbuzz - Live Cricket Scores & News,Sports,1000000
+2012-01-01,Cricbuzz - Live Cricket Scores & News,Sports,500000
+2020-01-01,SmartThings,Lifestyle,100000000
+2018-01-01,SmartThings,Lifestyle,100000000
+2018-01-01,SmartThings,Lifestyle,50000000
+2017-01-01,SmartThings,Lifestyle,10000000
+2020-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,100000000
+2020-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,100000000
+2019-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,50000000
+2018-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,10000000
+2018-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,5000000
+2018-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,1000000
+2018-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,500000
+2018-01-01,Sweet Face Camera - Selfie Camera & Beauty Filter,Photography,100000
+2020-01-01,Talking Pierre the Parrot,Entertainment,100000000
+2018-01-01,Talking Pierre the Parrot,Entertainment,100000000
+2015-01-01,Talking Pierre the Parrot,Entertainment,50000000
+2012-01-01,Talking Pierre the Parrot,Entertainment,10000000
+2012-01-01,Talking Pierre the Parrot,Entertainment,5000000
+2020-01-01,Wattpad - Read & Write Stories,Books & Reference,100000000
+2018-01-01,Wattpad - Read & Write Stories,Books & Reference,100000000
+2016-01-01,Wattpad - Read & Write Stories,Books & Reference,50000000
+2013-01-01,Wattpad - Read & Write Stories,Books & Reference,10000000
+2012-01-01,Wattpad - Read & Write Stories,Books & Reference,5000000
+2012-01-01,Wattpad - Read & Write Stories,Books & Reference,1000000
+2020-01-01,Football Strike - Multiplayer Soccer,Game Sports,100000000
+2020-01-01,Football Strike - Multiplayer Soccer,Game Sports,100000000
+2019-01-01,Football Strike - Multiplayer Soccer,Game Sports,50000000
+2018-01-01,Football Strike - Multiplayer Soccer,Game Sports,10000000
+2018-01-01,Football Strike - Multiplayer Soccer,Game Sports,5000000
+2018-01-01,Football Strike - Multiplayer Soccer,Game Sports,1000000
+2020-01-01,"Microsoft Office: Word, Excel, PowerPoint & More",Productivity,100000000
+2020-01-01,"Microsoft Office: Word, Excel, PowerPoint & More",Productivity,100000000
+2020-01-01,"Microsoft Office: Word, Excel, PowerPoint & More",Productivity,50000000
+2020-01-01,Hotstar,Entertainment,100000000
+2017-01-01,Hotstar,Entertainment,100000000
+2017-01-01,Hotstar,Entertainment,50000000
+2015-01-01,Hotstar,Entertainment,10000000
+2015-01-01,Hotstar,Entertainment,5000000
+2015-01-01,Hotstar,Entertainment,1000000
+2015-01-01,Hotstar,Entertainment,100000
+2015-01-01,Hotstar,Entertainment,50000
+2015-01-01,Hotstar,Entertainment,10000
+2020-01-01,SNOW,Photography,100000000
+2020-01-01,SNOW,Photography,100000000
+2017-01-01,SNOW,Photography,50000000
+2016-01-01,SNOW,Photography,10000000
+2016-01-01,SNOW,Photography,5000000
+2016-01-01,SNOW,Photography,1000000
+2016-01-01,SNOW,Photography,500000
+2016-01-01,SNOW,Photography,100000
+2016-01-01,SNOW,Photography,50000
+2020-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,100000000
+2016-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,100000000
+2015-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,50000000
+2015-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,10000000
+2015-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,5000000
+2014-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,1000000
+2014-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,500000
+2013-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,100000
+2013-01-01,"Solo Launcher-Clean,Smooth,DIY",Personalization,50000
+2020-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,100000000
+2017-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,100000000
+2015-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,50000000
+2013-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,10000000
+2013-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,5000000
+2012-01-01,"WPS Office - Free Office Suite for Word,PDF,Excel",Productivity,1000000
+2020-01-01,The Simpsons™:  Tapped Out,Game Casual,100000000
+2017-01-01,The Simpsons™:  Tapped Out,Game Casual,100000000
+2015-01-01,The Simpsons™:  Tapped Out,Game Casual,50000000
+2020-01-01,"Discord - Friends, Communities, & Gaming",Communication,100000000
+2020-01-01,"Discord - Friends, Communities, & Gaming",Communication,100000000
+2019-01-01,"Discord - Friends, Communities, & Gaming",Communication,50000000
+2018-01-01,"Discord - Friends, Communities, & Gaming",Communication,10000000
+2017-01-01,"Discord - Friends, Communities, & Gaming",Communication,5000000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,1000000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,500000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,100000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,50000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,10000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,5000
+2016-01-01,"Discord - Friends, Communities, & Gaming",Communication,1000
+2020-01-01,Ultra data saving,Tools,100000000
+2020-01-01,Ultra data saving,Tools,100000000
+2020-01-01,Huawei Backup,Tools,100000000
+2018-01-01,Huawei Backup,Tools,100000000
+2017-01-01,Huawei Backup,Tools,50000000
+2017-01-01,Huawei Backup,Tools,10000000
+2016-01-01,Huawei Backup,Tools,5000000
+2016-01-01,Huawei Backup,Tools,1000000
+2020-01-01,OK,Social,100000000
+2017-01-01,OK,Social,100000000
+2016-01-01,OK,Social,50000000
+2014-01-01,OK,Social,10000000
+2013-01-01,OK,Social,5000000
+2013-01-01,OK,Social,1000000
+2012-01-01,OK,Social,500000
+2020-01-01,File Manager,Tools,100000000
+2019-01-01,File Manager,Tools,100000000
+2017-01-01,File Manager,Tools,50000000
+2016-01-01,File Manager,Tools,10000000
+2015-01-01,File Manager,Tools,5000000
+2015-01-01,File Manager,Tools,1000000
+2015-01-01,File Manager,Tools,100000
+2020-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,100000000
+2019-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,100000000
+2018-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,50000000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,10000000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,5000000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,1000000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,500000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,100000
+2015-01-01,OLX: Buy & Sell Near You with Online Classifieds,Shopping,50000
+2020-01-01,Street Racing 3D,Game Racing,100000000
+2019-01-01,Street Racing 3D,Game Racing,100000000
+2019-01-01,Street Racing 3D,Game Racing,50000000
+2018-01-01,Street Racing 3D,Game Racing,10000000
+2018-01-01,Street Racing 3D,Game Racing,5000000
+2018-01-01,Street Racing 3D,Game Racing,1000000
+2018-01-01,Street Racing 3D,Game Racing,100000
+2020-01-01,Ludo King™,Game Board,100000000
+2018-01-01,Ludo King™,Game Board,100000000
+2018-01-01,Ludo King™,Game Board,50000000
+2017-01-01,Ludo King™,Game Board,10000000
+2017-01-01,Ludo King™,Game Board,5000000
+2017-01-01,Ludo King™,Game Board,1000000
+2017-01-01,Ludo King™,Game Board,500000
+2017-01-01,Ludo King™,Game Board,100000
+2020-01-01,Chess,Game Board,100000000
+2019-01-01,Chess,Game Board,100000000
+2018-01-01,Chess,Game Board,50000000
+2017-01-01,Chess,Game Board,10000000
+2017-01-01,Chess,Game Board,5000000
+2017-01-01,Chess,Game Board,1000000
+2016-01-01,Chess,Game Board,500000
+2016-01-01,Chess,Game Board,100000
+2016-01-01,Chess,Game Board,50000
+2016-01-01,Chess,Game Board,10000
+2016-01-01,Chess,Game Board,5000
+2020-01-01,"Pandora - Streaming Music, Radio & Podcasts",Music & Audio,100000000
+2014-01-01,"Pandora - Streaming Music, Radio & Podcasts",Music & Audio,100000000
+2012-01-01,"Pandora - Streaming Music, Radio & Podcasts",Music & Audio,50000000
+2020-01-01,Bus Rush,Game Action,100000000
+2019-01-01,Bus Rush,Game Action,100000000
+2016-01-01,Bus Rush,Game Action,50000000
+2016-01-01,Bus Rush,Game Action,10000000
+2015-01-01,Bus Rush,Game Action,5000000
+2015-01-01,Bus Rush,Game Action,1000000
+2015-01-01,Bus Rush,Game Action,500000
+2015-01-01,Bus Rush,Game Action,100000
+2020-01-01,UC Mini-Download Video Status & Movies,Communication,100000000
+2017-01-01,UC Mini-Download Video Status & Movies,Communication,100000000
+2016-01-01,UC Mini-Download Video Status & Movies,Communication,50000000
+2014-01-01,UC Mini-Download Video Status & Movies,Communication,10000000
+2014-01-01,UC Mini-Download Video Status & Movies,Communication,5000000
+2013-01-01,UC Mini-Download Video Status & Movies,Communication,1000000
+2013-01-01,UC Mini-Download Video Status & Movies,Communication,500000
+2013-01-01,UC Mini-Download Video Status & Movies,Communication,100000
+2020-01-01,Akinator,Entertainment,100000000
+2019-01-01,Akinator,Entertainment,100000000
+2017-01-01,Akinator,Entertainment,50000000
+2014-01-01,Akinator,Entertainment,10000000
+2014-01-01,Akinator,Entertainment,5000000
+2013-01-01,Akinator,Entertainment,1000000
+2013-01-01,Akinator,Entertainment,500000
+2012-01-01,Akinator,Entertainment,100000
+2020-01-01,slither.io,Game Action,100000000
+2017-01-01,slither.io,Game Action,100000000
+2016-01-01,slither.io,Game Action,50000000
+2016-01-01,slither.io,Game Action,10000000
+2016-01-01,slither.io,Game Action,5000000
+2016-01-01,slither.io,Game Action,500000
+2020-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,100000000
+2020-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,100000000
+2018-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,50000000
+2015-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,10000000
+2015-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,5000000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,1000000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,500000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,100000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,50000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,10000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,5000
+2014-01-01,MP3 Cutter and Ringtone Maker♫,Music & Audio,1000
+2020-01-01,Roll the Ball® - slide puzzle,Game Puzzle,100000000
+2018-01-01,Roll the Ball® - slide puzzle,Game Puzzle,100000000
+2017-01-01,Roll the Ball® - slide puzzle,Game Puzzle,50000000
+2016-01-01,Roll the Ball® - slide puzzle,Game Puzzle,10000000
+2016-01-01,Roll the Ball® - slide puzzle,Game Puzzle,5000000
+2016-01-01,Roll the Ball® - slide puzzle,Game Puzzle,1000000
+2015-01-01,Roll the Ball® - slide puzzle,Game Puzzle,500000
+2015-01-01,Roll the Ball® - slide puzzle,Game Puzzle,100000
+2015-01-01,Roll the Ball® - slide puzzle,Game Puzzle,10000
+2020-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,100000000
+2020-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,100000000
+2019-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,50000000
+2017-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,10000000
+2016-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,5000000
+2014-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,1000000
+2014-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,500000
+2013-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,100000
+2012-01-01,Zomato - Restaurant Finder and Food Delivery App,Food & Drink,50000
+2020-01-01,Dubsmash - Create & Watch Videos,Video Players,100000000
+2016-01-01,Dubsmash - Create & Watch Videos,Video Players,100000000
+2015-01-01,Dubsmash - Create & Watch Videos,Video Players,50000000
+2015-01-01,Dubsmash - Create & Watch Videos,Video Players,10000000
+2015-01-01,Dubsmash - Create & Watch Videos,Video Players,5000000
+2015-01-01,Dubsmash - Create & Watch Videos,Video Players,1000000
+2020-01-01,YouTube Kids,Entertainment,100000000
+2019-01-01,YouTube Kids,Entertainment,100000000
+2019-01-01,YouTube Kids,Entertainment,50000000
+2017-01-01,YouTube Kids,Entertainment,10000000
+2016-01-01,YouTube Kids,Entertainment,5000000
+2015-01-01,YouTube Kids,Entertainment,1000000
+2015-01-01,YouTube Kids,Entertainment,500000
+2015-01-01,YouTube Kids,Entertainment,100000
+2020-01-01,ORG 2020,Music & Audio,100000000
+2020-01-01,ORG 2020,Music & Audio,100000000
+2019-01-01,ORG 2020,Music & Audio,50000000
+2018-01-01,ORG 2020,Music & Audio,10000000
+2017-01-01,ORG 2020,Music & Audio,5000000
+2017-01-01,ORG 2020,Music & Audio,1000000
+2017-01-01,ORG 2020,Music & Audio,500000
+2017-01-01,ORG 2020,Music & Audio,100000
+2017-01-01,ORG 2020,Music & Audio,50000
+2017-01-01,ORG 2020,Music & Audio,10000
+2020-01-01,Lords Mobile: Kingdom Wars,Game Strategy,100000000
+2019-01-01,Lords Mobile: Kingdom Wars,Game Strategy,100000000
+2018-01-01,Lords Mobile: Kingdom Wars,Game Strategy,50000000
+2017-01-01,Lords Mobile: Kingdom Wars,Game Strategy,10000000
+2016-01-01,Lords Mobile: Kingdom Wars,Game Strategy,5000000
+2016-01-01,Lords Mobile: Kingdom Wars,Game Strategy,1000000
+2016-01-01,Lords Mobile: Kingdom Wars,Game Strategy,500000
+2020-01-01,Archery Master 3D,Game Sports,100000000
+2019-01-01,Archery Master 3D,Game Sports,100000000
+2016-01-01,Archery Master 3D,Game Sports,50000000
+2015-01-01,Archery Master 3D,Game Sports,10000000
+2015-01-01,Archery Master 3D,Game Sports,5000000
+2015-01-01,Archery Master 3D,Game Sports,1000000
+2020-01-01,Block Puzzle Jewel,Game Puzzle,100000000
+2019-01-01,Block Puzzle Jewel,Game Puzzle,100000000
+2018-01-01,Block Puzzle Jewel,Game Puzzle,50000000
+2017-01-01,Block Puzzle Jewel,Game Puzzle,10000000
+2017-01-01,Block Puzzle Jewel,Game Puzzle,5000000
+2016-01-01,Block Puzzle Jewel,Game Puzzle,1000000
+2016-01-01,Block Puzzle Jewel,Game Puzzle,500000
+2016-01-01,Block Puzzle Jewel,Game Puzzle,100000
+2020-01-01,Temple Run,Game Arcade,500000000
+2020-01-01,Temple Run,Game Arcade,500000000
+2014-01-01,Temple Run,Game Arcade,100000000
+2013-01-01,Temple Run,Game Arcade,50000000
+2012-01-01,Temple Run,Game Arcade,10000000
+2020-01-01,Lep's World 2 🍀🍀,Game Arcade,100000000
+2018-01-01,Lep's World 2 🍀🍀,Game Arcade,100000000
+2017-01-01,Lep's World 2 🍀🍀,Game Arcade,50000000
+2014-01-01,Lep's World 2 🍀🍀,Game Arcade,10000000
+2013-01-01,Lep's World 2 🍀🍀,Game Arcade,5000000
+2013-01-01,Lep's World 2 🍀🍀,Game Arcade,1000000
+2013-01-01,Lep's World 2 🍀🍀,Game Arcade,500000
+2013-01-01,Lep's World 2 🍀🍀,Game Arcade,100000
+2020-01-01,Palco MP3,Music & Audio,100000000
+2017-01-01,Palco MP3,Music & Audio,100000000
+2015-01-01,Palco MP3,Music & Audio,50000000
+2014-01-01,Palco MP3,Music & Audio,10000000
+2014-01-01,Palco MP3,Music & Audio,5000000
+2013-01-01,Palco MP3,Music & Audio,1000000
+2012-01-01,Palco MP3,Music & Audio,500000
+2012-01-01,Palco MP3,Music & Audio,50000
+2020-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,100000000
+2020-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,100000000
+2018-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,50000000
+2016-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,10000000
+2015-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,5000000
+2015-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,1000000
+2015-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,500000
+2015-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,100000
+2015-01-01,"Wynk Music - Download & Play Songs, MP3, HelloTune",Music & Audio,50000
+2020-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,100000000
+2018-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,100000000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,50000000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,10000000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,5000000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,1000000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,500000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,100000
+2017-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,50000
+2016-01-01,"UC News - Latest News, Cricket News, Viral Video",News & Magazines,10000
+2020-01-01,VMate,Video Players,100000000
+2019-01-01,VMate,Video Players,100000000
+2018-01-01,VMate,Video Players,50000000
+2017-01-01,VMate,Video Players,10000000
+2017-01-01,VMate,Video Players,5000000
+2017-01-01,VMate,Video Players,1000000
+2017-01-01,VMate,Video Players,500000
+2020-01-01,Account Manager,Tools,100000000
+2017-01-01,Account Manager,Tools,100000000
+2015-01-01,Account Manager,Tools,50000000
+2014-01-01,Account Manager,Tools,10000000
+2014-01-01,Account Manager,Tools,5000000
+2013-01-01,Account Manager,Tools,1000000
+2013-01-01,Account Manager,Tools,100000
+2020-01-01,Yandex,Tools,100000000
+2019-01-01,Yandex,Tools,100000000
+2018-01-01,Yandex,Tools,50000000
+2015-01-01,Yandex,Tools,10000000
+2014-01-01,Yandex,Tools,5000000
+2013-01-01,Yandex,Tools,1000000
+2012-01-01,Yandex,Tools,500000
+2020-01-01,Contacts,Communication,100000000
+2019-01-01,Contacts,Communication,100000000
+2019-01-01,Contacts,Communication,50000000
+2017-01-01,Contacts,Communication,10000000
+2016-01-01,Contacts,Communication,5000000
+2016-01-01,Contacts,Communication,1000000
+2020-01-01,WhatsApp Business,Communication,100000000
+2020-01-01,WhatsApp Business,Communication,100000000
+2019-01-01,WhatsApp Business,Communication,50000000
+2018-01-01,WhatsApp Business,Communication,10000000
+2018-01-01,WhatsApp Business,Communication,5000000
+2018-01-01,WhatsApp Business,Communication,1000000
+2020-01-01,Bike Racing 3D,Game Racing,100000000
+2019-01-01,Bike Racing 3D,Game Racing,100000000
+2016-01-01,Bike Racing 3D,Game Racing,50000000
+2015-01-01,Bike Racing 3D,Game Racing,10000000
+2015-01-01,Bike Racing 3D,Game Racing,5000000
+2015-01-01,Bike Racing 3D,Game Racing,1000000
+2015-01-01,Bike Racing 3D,Game Racing,500000
+2015-01-01,Bike Racing 3D,Game Racing,100000
+2020-01-01,Photo Collage Editor,Photography,100000000
+2018-01-01,Photo Collage Editor,Photography,100000000
+2016-01-01,Photo Collage Editor,Photography,50000000
+2015-01-01,Photo Collage Editor,Photography,10000000
+2015-01-01,Photo Collage Editor,Photography,5000000
+2014-01-01,Photo Collage Editor,Photography,1000000
+2014-01-01,Photo Collage Editor,Photography,500000
+2014-01-01,Photo Collage Editor,Photography,100000
+2020-01-01,HiCare,Tools,100000000
+2019-01-01,HiCare,Tools,100000000
+2018-01-01,HiCare,Tools,50000000
+2017-01-01,HiCare,Tools,10000000
+2016-01-01,HiCare,Tools,5000000
+2016-01-01,HiCare,Tools,1000000
+2020-01-01,Phone Clone,Tools,100000000
+2019-01-01,Phone Clone,Tools,100000000
+2019-01-01,Phone Clone,Tools,50000000
+2018-01-01,Phone Clone,Tools,10000000
+2018-01-01,Phone Clone,Tools,1000000
+2017-01-01,Phone Clone,Tools,500000
+2017-01-01,Phone Clone,Tools,100000
+2017-01-01,Phone Clone,Tools,50000
+2017-01-01,Phone Clone,Tools,10000
+2017-01-01,Phone Clone,Tools,5000
+2020-01-01,My Talking Hank,Game Casual,100000000
+2020-01-01,My Talking Hank,Game Casual,100000000
+2018-01-01,My Talking Hank,Game Casual,50000000
+2017-01-01,My Talking Hank,Game Casual,10000000
+2017-01-01,My Talking Hank,Game Casual,5000000
+2017-01-01,My Talking Hank,Game Casual,500000
+2017-01-01,My Talking Hank,Game Casual,100000
+2020-01-01,Extreme Car Driving Simulator,Game Racing,100000000
+2017-01-01,Extreme Car Driving Simulator,Game Racing,100000000
+2016-01-01,Extreme Car Driving Simulator,Game Racing,50000000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,10000000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,5000000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,1000000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,500000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,100000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,50000
+2015-01-01,Extreme Car Driving Simulator,Game Racing,10000
+2020-01-01,Photo Editor Pro,Photography,100000000
+2016-01-01,Photo Editor Pro,Photography,100000000
+2015-01-01,Photo Editor Pro,Photography,50000000
+2014-01-01,Photo Editor Pro,Photography,10000000
+2014-01-01,Photo Editor Pro,Photography,5000000
+2014-01-01,Photo Editor Pro,Photography,1000000
+2014-01-01,Photo Editor Pro,Photography,500000
+2014-01-01,Photo Editor Pro,Photography,100000
+2014-01-01,Photo Editor Pro,Photography,50000
+2014-01-01,Photo Editor Pro,Photography,10000
+2020-01-01,Lep's World 🍀,Game Arcade,100000000
+2020-01-01,Lep's World 🍀,Game Arcade,100000000
+2017-01-01,Lep's World 🍀,Game Arcade,50000000
+2013-01-01,Lep's World 🍀,Game Arcade,10000000
+2013-01-01,Lep's World 🍀,Game Arcade,5000000
+2012-01-01,Lep's World 🍀,Game Arcade,1000000
+2020-01-01,Modern Combat 5: eSports FPS,Game Action,100000000
+2018-01-01,Modern Combat 5: eSports FPS,Game Action,100000000
+2017-01-01,Modern Combat 5: eSports FPS,Game Action,50000000
+2016-01-01,Modern Combat 5: eSports FPS,Game Action,10000000
+2015-01-01,Modern Combat 5: eSports FPS,Game Action,5000000
+2015-01-01,Modern Combat 5: eSports FPS,Game Action,1000000
+2015-01-01,Modern Combat 5: eSports FPS,Game Action,500000
+2015-01-01,Modern Combat 5: eSports FPS,Game Action,100000
+2015-01-01,Modern Combat 5: eSports FPS,Game Action,50000
+2020-01-01,Downloader & Private Browser - Kode Browser,Tools,100000000
+2019-01-01,Downloader & Private Browser - Kode Browser,Tools,100000000
+2018-01-01,Downloader & Private Browser - Kode Browser,Tools,50000000
+2014-01-01,Downloader & Private Browser - Kode Browser,Tools,10000000
+2013-01-01,Downloader & Private Browser - Kode Browser,Tools,5000000
+2013-01-01,Downloader & Private Browser - Kode Browser,Tools,1000000
+2013-01-01,Downloader & Private Browser - Kode Browser,Tools,500000
+2013-01-01,Downloader & Private Browser - Kode Browser,Tools,100000
+2013-01-01,Downloader & Private Browser - Kode Browser,Tools,10000
+2020-01-01,Glow Hockey,Game Arcade,100000000
+2015-01-01,Glow Hockey,Game Arcade,100000000
+2014-01-01,Glow Hockey,Game Arcade,50000000
+2012-01-01,Glow Hockey,Game Arcade,10000000
+2020-01-01,Granny,Game Arcade,100000000
+2019-01-01,Granny,Game Arcade,100000000
+2019-01-01,Granny,Game Arcade,50000000
+2018-01-01,Granny,Game Arcade,10000000
+2018-01-01,Granny,Game Arcade,5000000
+2018-01-01,Granny,Game Arcade,1000000
+2018-01-01,Granny,Game Arcade,500000
+2018-01-01,Granny,Game Arcade,100000
+2018-01-01,Granny,Game Arcade,5000
+2020-01-01,Smart diagnosis,Tools,100000000
+2019-01-01,Smart diagnosis,Tools,100000000
+2019-01-01,Smart diagnosis,Tools,50000000
+2020-01-01,Anger of stick 5 : zombie,Game Action,100000000
+2020-01-01,Anger of stick 5 : zombie,Game Action,100000000
+2018-01-01,Anger of stick 5 : zombie,Game Action,50000000
+2017-01-01,Anger of stick 5 : zombie,Game Action,10000000
+2017-01-01,Anger of stick 5 : zombie,Game Action,5000000
+2017-01-01,Anger of stick 5 : zombie,Game Action,1000000
+2017-01-01,Anger of stick 5 : zombie,Game Action,500000
+2016-01-01,Anger of stick 5 : zombie,Game Action,100000
+2016-01-01,Anger of stick 5 : zombie,Game Action,10000
+2020-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,100000000
+2020-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,100000000
+2017-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,50000000
+2015-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,10000000
+2015-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,5000000
+2014-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,1000000
+2014-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,500000
+2013-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,100000
+2013-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,50000
+2012-01-01,Snapdeal Online Shopping App - Shop Online India,Shopping,10000
+2020-01-01,Vigo Video - Funny Short Video,Social,100000000
+2019-01-01,Vigo Video - Funny Short Video,Social,100000000
+2018-01-01,Vigo Video - Funny Short Video,Social,50000000
+2018-01-01,Vigo Video - Funny Short Video,Social,10000000
+2018-01-01,Vigo Video - Funny Short Video,Social,5000000
+2018-01-01,Vigo Video - Funny Short Video,Social,1000000
+2018-01-01,Vigo Video - Funny Short Video,Social,500000
+2018-01-01,Vigo Video - Funny Short Video,Social,100000
+2020-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,100000000
+2020-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,100000000
+2018-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,50000000
+2016-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,10000000
+2016-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,5000000
+2015-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,1000000
+2014-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,500000
+2013-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,100000
+2013-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,50000
+2012-01-01,"Mobizen Screen Recorder - Record, Capture, Edit",Productivity,10000
+2020-01-01,WhatsApp Wallpaper,Personalization,100000000
+2015-01-01,WhatsApp Wallpaper,Personalization,100000000
+2014-01-01,WhatsApp Wallpaper,Personalization,50000000
+2013-01-01,WhatsApp Wallpaper,Personalization,10000000
+2012-01-01,WhatsApp Wallpaper,Personalization,5000000
+2012-01-01,WhatsApp Wallpaper,Personalization,1000000
+2020-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,100000000
+2019-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,100000000
+2018-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,50000000
+2015-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,10000000
+2014-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,5000000
+2013-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,1000000
+2013-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,500000
+2012-01-01,"Dailyhunt (Newshunt)-  News,Videos,Cricket",News & Magazines,100000
+2020-01-01,imo beta free calls and text,Communication,100000000
+2018-01-01,imo beta free calls and text,Communication,100000000
+2017-01-01,imo beta free calls and text,Communication,50000000
+2016-01-01,imo beta free calls and text,Communication,10000000
+2015-01-01,imo beta free calls and text,Communication,5000000
+2015-01-01,imo beta free calls and text,Communication,1000000
+2013-01-01,imo beta free calls and text,Communication,500000
+2012-01-01,imo beta free calls and text,Communication,100000
+2020-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,100000000
+2017-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,100000000
+2015-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,50000000
+2013-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,10000000
+2012-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,5000000
+2012-01-01,"OfficeSuite - Office, PDF, Word, Excel, PowerPoint",Business,500000
+2020-01-01,Moto,Personalization,100000000
+2020-01-01,Moto,Personalization,100000000
+2019-01-01,Moto,Personalization,50000000
+2016-01-01,Moto,Personalization,10000000
+2016-01-01,Moto,Personalization,5000000
+2016-01-01,Moto,Personalization,1000000
+2015-01-01,Moto,Personalization,500000
+2015-01-01,Moto,Personalization,100000
+2015-01-01,Moto,Personalization,50000
+2020-01-01,Hunter Assassin,Game Action,100000000
+2020-01-01,Hunter Assassin,Game Action,100000000
+2020-01-01,Hunter Assassin,Game Action,50000000
+2020-01-01,Hunter Assassin,Game Action,10000000
+2020-01-01,Hunter Assassin,Game Action,1000000
+2020-01-01,Hunter Assassin,Game Action,100000
+2020-01-01,Hunter Assassin,Game Action,50000
+2020-01-01,Need for Speed™ No Limits,Game Racing,100000000
+2020-01-01,Need for Speed™ No Limits,Game Racing,100000000
+2017-01-01,Need for Speed™ No Limits,Game Racing,50000000
+2016-01-01,Need for Speed™ No Limits,Game Racing,10000000
+2016-01-01,Need for Speed™ No Limits,Game Racing,5000000
+2015-01-01,Need for Speed™ No Limits,Game Racing,1000000
+2015-01-01,Need for Speed™ No Limits,Game Racing,500000
+2015-01-01,Need for Speed™ No Limits,Game Racing,100000
+2020-01-01,Moto Actions,Personalization,100000000
+2019-01-01,Moto Actions,Personalization,100000000
+2018-01-01,Moto Actions,Personalization,50000000
+2016-01-01,Moto Actions,Personalization,10000000
+2016-01-01,Moto Actions,Personalization,5000000
+2015-01-01,Moto Actions,Personalization,1000000
+2015-01-01,Moto Actions,Personalization,500000
+2015-01-01,Moto Actions,Personalization,100000
+2015-01-01,Moto Actions,Personalization,50000
+2020-01-01,World Soccer League,Game Sports,100000000
+2020-01-01,World Soccer League,Game Sports,100000000
+2019-01-01,World Soccer League,Game Sports,50000000
+2017-01-01,World Soccer League,Game Sports,10000000
+2016-01-01,World Soccer League,Game Sports,5000000
+2016-01-01,World Soccer League,Game Sports,1000000
+2016-01-01,World Soccer League,Game Sports,500000
+2016-01-01,World Soccer League,Game Sports,100000
+2016-01-01,World Soccer League,Game Sports,50000
+2016-01-01,World Soccer League,Game Sports,10000
+2020-01-01,All downloader 2019,Video Players,100000000
+2020-01-01,All downloader 2019,Video Players,100000000
+2019-01-01,All downloader 2019,Video Players,50000000
+2019-01-01,All downloader 2019,Video Players,10000000
+2019-01-01,All downloader 2019,Video Players,5000000
+2020-01-01,Evernote - Notes Organizer & Daily Planner,Productivity,100000000
+2015-01-01,Evernote - Notes Organizer & Daily Planner,Productivity,100000000
+2014-01-01,Evernote - Notes Organizer & Daily Planner,Productivity,50000000
+2012-01-01,Evernote - Notes Organizer & Daily Planner,Productivity,10000000
+2020-01-01,Tiles Hop: EDM Rush!,Game Music,100000000
+2020-01-01,Tiles Hop: EDM Rush!,Game Music,100000000
+2019-01-01,Tiles Hop: EDM Rush!,Game Music,50000000
+2019-01-01,Tiles Hop: EDM Rush!,Game Music,10000000
+2019-01-01,Tiles Hop: EDM Rush!,Game Music,5000000
+2019-01-01,Tiles Hop: EDM Rush!,Game Music,1000000
+2019-01-01,Tiles Hop: EDM Rush!,Game Music,500000
+2018-01-01,Tiles Hop: EDM Rush!,Game Music,100000
+2018-01-01,Tiles Hop: EDM Rush!,Game Music,50000
+2020-01-01,Album,Photography,100000000
+2019-01-01,Album,Photography,100000000
+2016-01-01,Album,Photography,50000000
+2015-01-01,Album,Photography,10000000
+2020-01-01,Talking Ginger 2,Entertainment,100000000
+2020-01-01,Talking Ginger 2,Entertainment,100000000
+2016-01-01,Talking Ginger 2,Entertainment,50000000
+2014-01-01,Talking Ginger 2,Entertainment,10000000
+2013-01-01,Talking Ginger 2,Entertainment,5000000
+2013-01-01,Talking Ginger 2,Entertainment,1000000
+2013-01-01,Talking Ginger 2,Entertainment,500000
+2020-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,100000000
+2018-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,100000000
+2017-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,50000000
+2017-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,10000000
+2017-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,5000000
+2017-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,1000000
+2017-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,500000
+2016-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,100000
+2016-01-01,"JioTV – Live TV, News, Movies, Entertainment",Entertainment,50000
+2020-01-01,Tomb of the Mask,Game Action,100000000
+2020-01-01,Tomb of the Mask,Game Action,100000000
+2019-01-01,Tomb of the Mask,Game Action,50000000
+2019-01-01,Tomb of the Mask,Game Action,10000000
+2019-01-01,Tomb of the Mask,Game Action,5000000
+2019-01-01,Tomb of the Mask,Game Action,1000000
+2020-01-01,Sand Balls,Game Puzzle,100000000
+2020-01-01,Sand Balls,Game Puzzle,100000000
+2020-01-01,Sand Balls,Game Puzzle,50000000
+2020-01-01,Sand Balls,Game Puzzle,10000000
+2020-01-01,Sand Balls,Game Puzzle,1000000
+2020-01-01,Motorola Gallery,Video Players,100000000
+2019-01-01,Motorola Gallery,Video Players,100000000
+2016-01-01,Motorola Gallery,Video Players,50000000
+2014-01-01,Motorola Gallery,Video Players,10000000
+2014-01-01,Motorola Gallery,Video Players,5000000
+2014-01-01,Motorola Gallery,Video Players,1000000
+2020-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,100000000
+2020-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,100000000
+2019-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,50000000
+2017-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,10000000
+2016-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,5000000
+2016-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,1000000
+2015-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,500000
+2015-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,100000
+2015-01-01,Adobe Lightroom - Photo Editor & Pro Camera,Photography,50000
+2020-01-01,Fun Race 3D,Game Racing,100000000
+2020-01-01,Fun Race 3D,Game Racing,100000000
+2020-01-01,Fun Race 3D,Game Racing,50000000
+2020-01-01,Fun Race 3D,Game Racing,10000000
+2019-01-01,Fun Race 3D,Game Racing,1000000
+2020-01-01,Zalo - Video Call,Communication,100000000
+2020-01-01,Zalo - Video Call,Communication,100000000
+2017-01-01,Zalo - Video Call,Communication,50000000
+2015-01-01,Zalo - Video Call,Communication,10000000
+2014-01-01,Zalo - Video Call,Communication,5000000
+2013-01-01,Zalo - Video Call,Communication,1000000
+2013-01-01,Zalo - Video Call,Communication,500000
+2013-01-01,Zalo - Video Call,Communication,100000
+2013-01-01,Zalo - Video Call,Communication,50000
+2013-01-01,Zalo - Video Call,Communication,10000
+2020-01-01,Facebook Pages Manager,Business,100000000
+2020-01-01,Facebook Pages Manager,Business,100000000
+2016-01-01,Facebook Pages Manager,Business,50000000
+2014-01-01,Facebook Pages Manager,Business,10000000
+2013-01-01,Facebook Pages Manager,Business,5000000
+2013-01-01,Facebook Pages Manager,Business,1000000
+2020-01-01,Helix Jump,Game Action,100000000
+2019-01-01,Helix Jump,Game Action,100000000
+2018-01-01,Helix Jump,Game Action,50000000
+2018-01-01,Helix Jump,Game Action,10000000
+2018-01-01,Helix Jump,Game Action,5000000
+2018-01-01,Helix Jump,Game Action,1000000
+2020-01-01,My Galaxy,Entertainment,100000000
+2020-01-01,My Galaxy,Entertainment,100000000
+2019-01-01,My Galaxy,Entertainment,50000000
+2017-01-01,My Galaxy,Entertainment,10000000
+2016-01-01,My Galaxy,Entertainment,5000000
+2016-01-01,My Galaxy,Entertainment,1000000
+2016-01-01,My Galaxy,Entertainment,500000
+2016-01-01,My Galaxy,Entertainment,100000
+2016-01-01,My Galaxy,Entertainment,10000
+2020-01-01,Bubble Shooter,Game Casual,100000000
+2019-01-01,Bubble Shooter,Game Casual,100000000
+2018-01-01,Bubble Shooter,Game Casual,50000000
+2017-01-01,Bubble Shooter,Game Casual,10000000
+2016-01-01,Bubble Shooter,Game Casual,5000000
+2014-01-01,Bubble Shooter,Game Casual,1000000
+2014-01-01,Bubble Shooter,Game Casual,500000
+2013-01-01,Bubble Shooter,Game Casual,100000
+2013-01-01,Bubble Shooter,Game Casual,50000
+2020-01-01,Device Help (previously Moto Help),Tools,100000000
+2018-01-01,Device Help (previously Moto Help),Tools,100000000
+2017-01-01,Device Help (previously Moto Help),Tools,50000000
+2015-01-01,Device Help (previously Moto Help),Tools,10000000
+2014-01-01,Device Help (previously Moto Help),Tools,5000000
+2014-01-01,Device Help (previously Moto Help),Tools,1000000
+2020-01-01,Agar.io,Game Action,100000000
+2018-01-01,Agar.io,Game Action,100000000
+2016-01-01,Agar.io,Game Action,50000000
+2016-01-01,Agar.io,Game Action,10000000
+2016-01-01,Agar.io,Game Action,5000000
+2016-01-01,Agar.io,Game Action,1000000
+2016-01-01,Agar.io,Game Action,5000
+2020-01-01,S bike mode,Auto & Vehicles,100000000
+2020-01-01,S bike mode,Auto & Vehicles,100000000
+2019-01-01,S bike mode,Auto & Vehicles,50000000
+2019-01-01,S bike mode,Auto & Vehicles,10000000
+2020-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,100000000
+2020-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,100000000
+2018-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,50000000
+2016-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,10000000
+2016-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,5000000
+2015-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,1000000
+2015-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,500000
+2015-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,100000
+2015-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,50000
+2014-01-01,Piano Free - Keyboard with Magic Tiles Music Games,Game Music,10000
+2020-01-01,Smule - The Social Singing App,Music & Audio,100000000
+2017-01-01,Smule - The Social Singing App,Music & Audio,100000000
+2016-01-01,Smule - The Social Singing App,Music & Audio,50000000
+2015-01-01,Smule - The Social Singing App,Music & Audio,10000000
+2015-01-01,Smule - The Social Singing App,Music & Audio,5000000
+2014-01-01,Smule - The Social Singing App,Music & Audio,1000000
+2014-01-01,Smule - The Social Singing App,Music & Audio,500000
+2013-01-01,Smule - The Social Singing App,Music & Audio,100000
+2013-01-01,Smule - The Social Singing App,Music & Audio,50000
+2013-01-01,Smule - The Social Singing App,Music & Audio,10000
+2020-01-01,Paper.io 2,Game Arcade,100000000
+2019-01-01,Paper.io 2,Game Arcade,100000000
+2019-01-01,Paper.io 2,Game Arcade,50000000
+2019-01-01,Paper.io 2,Game Arcade,10000000
+2019-01-01,Paper.io 2,Game Arcade,5000000
+2019-01-01,Paper.io 2,Game Arcade,1000000
+2020-01-01,Motorola Notifications,Productivity,100000000
+2020-01-01,Motorola Notifications,Productivity,100000000
+2020-01-01,Your Phone Companion - Link to Windows,Productivity,100000000
+2020-01-01,Your Phone Companion - Link to Windows,Productivity,100000000
+2020-01-01,Your Phone Companion - Link to Windows,Productivity,50000000
+2020-01-01,Your Phone Companion - Link to Windows,Productivity,10000000
+2018-01-01,Your Phone Companion - Link to Windows,Productivity,5000000
+2017-01-01,Your Phone Companion - Link to Windows,Productivity,1000000
+2017-01-01,Your Phone Companion - Link to Windows,Productivity,500000
+2016-01-01,Your Phone Companion - Link to Windows,Productivity,100000
+2016-01-01,Your Phone Companion - Link to Windows,Productivity,50000
+2016-01-01,Your Phone Companion - Link to Windows,Productivity,10000
+2020-01-01,LEGO® Juniors Create & Cruise,Game Educational,100000000
+2019-01-01,LEGO® Juniors Create & Cruise,Game Educational,100000000
+2017-01-01,LEGO® Juniors Create & Cruise,Game Educational,50000000
+2015-01-01,LEGO® Juniors Create & Cruise,Game Educational,10000000
+2014-01-01,LEGO® Juniors Create & Cruise,Game Educational,5000000
+2012-01-01,LEGO® Juniors Create & Cruise,Game Educational,1000000
+2012-01-01,LEGO® Juniors Create & Cruise,Game Educational,50000
+2020-01-01,Kik,Communication,100000000
+2016-01-01,Kik,Communication,100000000
+2014-01-01,Kik,Communication,50000000
+2013-01-01,Kik,Communication,10000000
+2012-01-01,Kik,Communication,5000000
+2012-01-01,Kik,Communication,1000000
+2020-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,100000000
+2020-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,100000000
+2017-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,50000000
+2014-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,10000000
+2013-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,5000000
+2013-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,1000000
+2013-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,500000
+2012-01-01,Hotspot Shield Free VPN Proxy & Secure VPN,Tools,100000
+2020-01-01,TikTok Lite,Video Players,100000000
+2020-01-01,TikTok Lite,Video Players,100000000
+2020-01-01,TikTok Lite,Video Players,50000000
+2019-01-01,TikTok Lite,Video Players,10000000
+2019-01-01,TikTok Lite,Video Players,5000000
+2019-01-01,TikTok Lite,Video Players,1000000
+2020-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,100000000
+2019-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,100000000
+2018-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,50000000
+2017-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,10000000
+2017-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,5000000
+2017-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,1000000
+2017-01-01,Block Craft 3D: Building Simulator Games For Free,Game Simulation,1000
+2020-01-01,HUAWEI Video,Entertainment,100000000
+2020-01-01,HUAWEI Video,Entertainment,100000000
+2020-01-01,Free Video Downloader,Video Players,100000000
+2020-01-01,Free Video Downloader,Video Players,100000000
+2019-01-01,Free Video Downloader,Video Players,50000000
+2019-01-01,Free Video Downloader,Video Players,10000000
+2019-01-01,Free Video Downloader,Video Players,5000000
+2019-01-01,Free Video Downloader,Video Players,1000000
+2019-01-01,Free Video Downloader,Video Players,500000
+2020-01-01,Talking Tom Cat,Game Casual,100000000
+2014-01-01,Talking Tom Cat,Game Casual,100000000
+2013-01-01,Talking Tom Cat,Game Casual,50000000
+2012-01-01,Talking Tom Cat,Game Casual,10000000
+2020-01-01,The Sims FreePlay,Game Simulation,100000000
+2016-01-01,The Sims FreePlay,Game Simulation,100000000
+2015-01-01,The Sims FreePlay,Game Simulation,50000000
+2013-01-01,The Sims FreePlay,Game Simulation,10000000
+2013-01-01,The Sims FreePlay,Game Simulation,5000000
+2012-01-01,The Sims FreePlay,Game Simulation,1000000
+2020-01-01,Magic Tiles 3,Game Music,100000000
+2019-01-01,Magic Tiles 3,Game Music,100000000
+2018-01-01,Magic Tiles 3,Game Music,50000000
+2018-01-01,Magic Tiles 3,Game Music,10000000
+2020-01-01,KakaoTalk: Free Calls & Text,Communication,100000000
+2014-01-01,KakaoTalk: Free Calls & Text,Communication,100000000
+2013-01-01,KakaoTalk: Free Calls & Text,Communication,50000000
+2012-01-01,KakaoTalk: Free Calls & Text,Communication,10000000
+2020-01-01,Tank Stars,Game Arcade,100000000
+2020-01-01,Tank Stars,Game Arcade,100000000
+2019-01-01,Tank Stars,Game Arcade,50000000
+2019-01-01,Tank Stars,Game Arcade,10000000
+2019-01-01,Tank Stars,Game Arcade,5000000
+2018-01-01,Tank Stars,Game Arcade,1000000
+2018-01-01,Tank Stars,Game Arcade,500000
+2020-01-01,Real Bike Racing,Game Racing,100000000
+2020-01-01,Real Bike Racing,Game Racing,100000000
+2019-01-01,Real Bike Racing,Game Racing,50000000
+2017-01-01,Real Bike Racing,Game Racing,10000000
+2017-01-01,Real Bike Racing,Game Racing,5000000
+2017-01-01,Real Bike Racing,Game Racing,1000000
+2017-01-01,Real Bike Racing,Game Racing,500000
+2020-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,100000000
+2019-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,100000000
+2018-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,50000000
+2017-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,10000000
+2017-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,5000000
+2017-01-01,"JioSaavn Music & Radio – JioTunes, Podcasts, Songs",Music & Audio,1000000
+2020-01-01,Ant Smasher,Game Arcade,100000000
+2015-01-01,Ant Smasher,Game Arcade,100000000
+2013-01-01,Ant Smasher,Game Arcade,50000000
+2012-01-01,Ant Smasher,Game Arcade,10000000
+2020-01-01,Club Factory - Online Shopping App,Shopping,100000000
+2020-01-01,Club Factory - Online Shopping App,Shopping,100000000
+2019-01-01,Club Factory - Online Shopping App,Shopping,50000000
+2018-01-01,Club Factory - Online Shopping App,Shopping,10000000
+2018-01-01,Club Factory - Online Shopping App,Shopping,5000000
+2017-01-01,Club Factory - Online Shopping App,Shopping,1000000
+2017-01-01,Club Factory - Online Shopping App,Shopping,500000
+2017-01-01,Club Factory - Online Shopping App,Shopping,100000
+2020-01-01,Barcode Scanner,Shopping,100000000
+2014-01-01,Barcode Scanner,Shopping,100000000
+2012-01-01,Barcode Scanner,Shopping,50000000
+2020-01-01,Subway Princess Runner,Game Arcade,100000000
+2020-01-01,Subway Princess Runner,Game Arcade,100000000
+2019-01-01,Subway Princess Runner,Game Arcade,50000000
+2018-01-01,Subway Princess Runner,Game Arcade,10000000
+2020-01-01,aquapark.io,Game Action,100000000
+2020-01-01,aquapark.io,Game Action,100000000
+2020-01-01,aquapark.io,Game Action,50000000
+2020-01-01,aquapark.io,Game Action,10000000
+2019-01-01,aquapark.io,Game Action,1000000
+2020-01-01,Talking Ginger,Entertainment,100000000
+2016-01-01,Talking Ginger,Entertainment,100000000
+2014-01-01,Talking Ginger,Entertainment,50000000
+2013-01-01,Talking Ginger,Entertainment,10000000
+2013-01-01,Talking Ginger,Entertainment,5000000
+2013-01-01,Talking Ginger,Entertainment,1000000
+2020-01-01,Stack Ball - Blast through platforms,Game Arcade,100000000
+2020-01-01,Stack Ball - Blast through platforms,Game Arcade,100000000
+2019-01-01,Stack Ball - Blast through platforms,Game Arcade,50000000
+2019-01-01,Stack Ball - Blast through platforms,Game Arcade,10000000
+2019-01-01,Stack Ball - Blast through platforms,Game Arcade,1000
+2020-01-01,Mini Militia - Doodle Army 2,Game Action,100000000
+2020-01-01,Mini Militia - Doodle Army 2,Game Action,100000000
+2018-01-01,Mini Militia - Doodle Army 2,Game Action,50000000
+2017-01-01,Mini Militia - Doodle Army 2,Game Action,10000000
+2016-01-01,Mini Militia - Doodle Army 2,Game Action,5000000
+2016-01-01,Mini Militia - Doodle Army 2,Game Action,1000000
+2016-01-01,Mini Militia - Doodle Army 2,Game Action,500000
+2015-01-01,Mini Militia - Doodle Army 2,Game Action,100000
+2015-01-01,Mini Militia - Doodle Army 2,Game Action,50000
+2015-01-01,Mini Militia - Doodle Army 2,Game Action,10000
+2015-01-01,Mini Militia - Doodle Army 2,Game Action,1000
+2020-01-01,Azar,Communication,100000000
+2019-01-01,Azar,Communication,100000000
+2017-01-01,Azar,Communication,50000000
+2015-01-01,Azar,Communication,10000000
+2015-01-01,Azar,Communication,5000000
+2014-01-01,Azar,Communication,1000000
+2014-01-01,Azar,Communication,500000
+2014-01-01,Azar,Communication,100000
+2014-01-01,Azar,Communication,50000
+2014-01-01,Azar,Communication,10000
+2020-01-01,Uber Eats: Order Food Delivery,Food & Drink,100000000
+2020-01-01,Uber Eats: Order Food Delivery,Food & Drink,100000000
+2019-01-01,Uber Eats: Order Food Delivery,Food & Drink,50000000
+2018-01-01,Uber Eats: Order Food Delivery,Food & Drink,10000000
+2017-01-01,Uber Eats: Order Food Delivery,Food & Drink,5000000
+2017-01-01,Uber Eats: Order Food Delivery,Food & Drink,1000000
+2016-01-01,Uber Eats: Order Food Delivery,Food & Drink,500000
+2016-01-01,Uber Eats: Order Food Delivery,Food & Drink,100000
+2016-01-01,Uber Eats: Order Food Delivery,Food & Drink,50000
+2016-01-01,Uber Eats: Order Food Delivery,Food & Drink,10000
+2020-01-01,YouTube Go,Video Players,100000000
+2019-01-01,YouTube Go,Video Players,100000000
+2018-01-01,YouTube Go,Video Players,50000000
+2018-01-01,YouTube Go,Video Players,10000000
+2020-01-01,FIFA Soccer,Game Sports,100000000
+2018-01-01,FIFA Soccer,Game Sports,100000000
+2017-01-01,FIFA Soccer,Game Sports,50000000
+2017-01-01,FIFA Soccer,Game Sports,10000000
+2017-01-01,FIFA Soccer,Game Sports,100000
+2017-01-01,FIFA Soccer,Game Sports,10000
+2020-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,100000000
+2017-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,100000000
+2016-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,50000000
+2015-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,10000000
+2015-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,5000000
+2015-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,1000000
+2015-01-01,"Amazon Shopping - Search, Find, Ship, and Save",Shopping,500000
+2020-01-01,Toca Kitchen 2,Game Educational,100000000
+2020-01-01,Toca Kitchen 2,Game Educational,100000000
+2018-01-01,Toca Kitchen 2,Game Educational,50000000
+2016-01-01,Toca Kitchen 2,Game Educational,10000000
+2016-01-01,Toca Kitchen 2,Game Educational,5000000
+2016-01-01,Toca Kitchen 2,Game Educational,1000000
+2015-01-01,Toca Kitchen 2,Game Educational,500000
+2015-01-01,Toca Kitchen 2,Game Educational,100000
+2020-01-01,Vegas Crime Simulator,Game Simulation,100000000
+2019-01-01,Vegas Crime Simulator,Game Simulation,100000000
+2018-01-01,Vegas Crime Simulator,Game Simulation,50000000
+2017-01-01,Vegas Crime Simulator,Game Simulation,10000000
+2016-01-01,Vegas Crime Simulator,Game Simulation,5000000
+2016-01-01,Vegas Crime Simulator,Game Simulation,1000000
+2016-01-01,Vegas Crime Simulator,Game Simulation,500000
+2015-01-01,Vegas Crime Simulator,Game Simulation,100000
+2015-01-01,Vegas Crime Simulator,Game Simulation,10000
+2020-01-01,Lookout Security & Antivirus,Tools,100000000
+2015-01-01,Lookout Security & Antivirus,Tools,100000000
+2014-01-01,Lookout Security & Antivirus,Tools,50000000
+2012-01-01,Lookout Security & Antivirus,Tools,10000000
+2020-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,100000000
+2020-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,100000000
+2018-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,50000000
+2018-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,10000000
+2017-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,5000000
+2016-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,1000000
+2016-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,500000
+2016-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,100000
+2016-01-01,"Airtel Xstream (Airtel TV): Live TV, Movies, Shows",Entertainment,50000
+2020-01-01,Dr. Parking 4,Game Racing,100000000
+2020-01-01,Dr. Parking 4,Game Racing,100000000
+2018-01-01,Dr. Parking 4,Game Racing,50000000
+2016-01-01,Dr. Parking 4,Game Racing,10000000
+2016-01-01,Dr. Parking 4,Game Racing,5000000
+2016-01-01,Dr. Parking 4,Game Racing,1000000
+2020-01-01,Tumblr,Social,100000000
+2018-01-01,Tumblr,Social,100000000
+2016-01-01,Tumblr,Social,50000000
+2013-01-01,Tumblr,Social,10000000
+2013-01-01,Tumblr,Social,5000000
+2012-01-01,Tumblr,Social,1000000
+2020-01-01,Write on PDF,Productivity,100000000
+2019-01-01,Write on PDF,Productivity,100000000
+2018-01-01,Write on PDF,Productivity,50000000
+2017-01-01,Write on PDF,Productivity,10000000
+2016-01-01,Write on PDF,Productivity,5000000
+2016-01-01,Write on PDF,Productivity,1000000
+2020-01-01,Amazon Kindle,Books & Reference,100000000
+2015-01-01,Amazon Kindle,Books & Reference,100000000
+2014-01-01,Amazon Kindle,Books & Reference,50000000
+2012-01-01,Amazon Kindle,Books & Reference,10000000
+2020-01-01,Kick the Buddy,Game Action,100000000
+2019-01-01,Kick the Buddy,Game Action,100000000
+2019-01-01,Kick the Buddy,Game Action,50000000
+2018-01-01,Kick the Buddy,Game Action,10000000
+2020-01-01,Wallpapers,Personalization,100000000
+2019-01-01,Wallpapers,Personalization,100000000
+2018-01-01,Wallpapers,Personalization,50000000
+2018-01-01,Wallpapers,Personalization,10000000
+2017-01-01,Wallpapers,Personalization,5000000
+2017-01-01,Wallpapers,Personalization,1000000
+2017-01-01,Wallpapers,Personalization,500000
+2017-01-01,Wallpapers,Personalization,100000
+2020-01-01,Hello Kitty Nail Salon,Game Casual,100000000
+2020-01-01,Hello Kitty Nail Salon,Game Casual,100000000
+2018-01-01,Hello Kitty Nail Salon,Game Casual,50000000
+2016-01-01,Hello Kitty Nail Salon,Game Casual,10000000
+2016-01-01,Hello Kitty Nail Salon,Game Casual,5000000
+2016-01-01,Hello Kitty Nail Salon,Game Casual,1000000
+2016-01-01,Hello Kitty Nail Salon,Game Casual,100000
+2020-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,100000000
+2020-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,100000000
+2018-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,50000000
+2016-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,10000000
+2015-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,5000000
+2014-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,1000000
+2013-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,500000
+2013-01-01,"Airtel Thanks - Recharge, Bill Pay, Bank, Live TV",Productivity,100000
+2020-01-01,PAC-MAN,Game Arcade,100000000
+2019-01-01,PAC-MAN,Game Arcade,100000000
+2018-01-01,PAC-MAN,Game Arcade,50000000
+2014-01-01,PAC-MAN,Game Arcade,10000000
+2014-01-01,PAC-MAN,Game Arcade,5000000
+2013-01-01,PAC-MAN,Game Arcade,1000000
+2013-01-01,PAC-MAN,Game Arcade,100000
+2013-01-01,PAC-MAN,Game Arcade,50000
+2020-01-01,Real Gangster Crime,Game Action,100000000
+2020-01-01,Real Gangster Crime,Game Action,100000000
+2019-01-01,Real Gangster Crime,Game Action,50000000
+2017-01-01,Real Gangster Crime,Game Action,10000000
+2017-01-01,Real Gangster Crime,Game Action,5000000
+2017-01-01,Real Gangster Crime,Game Action,1000000
+2016-01-01,Real Gangster Crime,Game Action,500000
+2016-01-01,Real Gangster Crime,Game Action,100000
+2016-01-01,Real Gangster Crime,Game Action,50000
+2016-01-01,Real Gangster Crime,Game Action,10000
+2016-01-01,Real Gangster Crime,Game Action,5000
+2020-01-01,Themes,Personalization,100000000
+2019-01-01,Themes,Personalization,100000000
+2020-01-01,Run Race 3D,Game Sports,100000000
+2020-01-01,Run Race 3D,Game Sports,100000000
+2019-01-01,Run Race 3D,Game Sports,50000000
+2019-01-01,Run Race 3D,Game Sports,10000000
+2019-01-01,Run Race 3D,Game Sports,10000
+2020-01-01,App vault,Tools,100000000
+2019-01-01,App vault,Tools,100000000
+2019-01-01,App vault,Tools,50000000
+2018-01-01,App vault,Tools,10000000
+2018-01-01,App vault,Tools,5000000
+2020-01-01,Happy Glass,Game Puzzle,100000000
+2019-01-01,Happy Glass,Game Puzzle,100000000
+2019-01-01,Happy Glass,Game Puzzle,50000000
+2019-01-01,Happy Glass,Game Puzzle,10000000
+2019-01-01,Happy Glass,Game Puzzle,1000000
+2020-01-01,Love Balls,Game Puzzle,100000000
+2019-01-01,Love Balls,Game Puzzle,100000000
+2018-01-01,Love Balls,Game Puzzle,50000000
+2018-01-01,Love Balls,Game Puzzle,10000000
+2018-01-01,Love Balls,Game Puzzle,1000000
+2018-01-01,Love Balls,Game Puzzle,10000
+2020-01-01,Storage Saver,Tools,100000000
+2020-01-01,Storage Saver,Tools,100000000
+2020-01-01,Smart Tutor for SAMSUNG Mobile,Tools,100000000
+2020-01-01,Smart Tutor for SAMSUNG Mobile,Tools,100000000
+2018-01-01,Smart Tutor for SAMSUNG Mobile,Tools,50000000
+2016-01-01,Smart Tutor for SAMSUNG Mobile,Tools,10000000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,5000000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,1000000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,500000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,100000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,50000
+2015-01-01,Smart Tutor for SAMSUNG Mobile,Tools,10000
+2020-01-01,DiskDigger photo recovery,Tools,100000000
+2020-01-01,DiskDigger photo recovery,Tools,100000000
+2018-01-01,DiskDigger photo recovery,Tools,50000000
+2017-01-01,DiskDigger photo recovery,Tools,10000000
+2016-01-01,DiskDigger photo recovery,Tools,5000000
+2014-01-01,DiskDigger photo recovery,Tools,1000000
+2014-01-01,DiskDigger photo recovery,Tools,500000
+2013-01-01,DiskDigger photo recovery,Tools,100000
+2013-01-01,DiskDigger photo recovery,Tools,50000
+2013-01-01,DiskDigger photo recovery,Tools,10000
+2020-01-01,Racing in Car 2,Game Racing,100000000
+2019-01-01,Racing in Car 2,Game Racing,100000000
+2019-01-01,Racing in Car 2,Game Racing,50000000
+2018-01-01,Racing in Car 2,Game Racing,10000000
+2017-01-01,Racing in Car 2,Game Racing,5000000
+2017-01-01,Racing in Car 2,Game Racing,500000
+2017-01-01,Racing in Car 2,Game Racing,1000000
+2020-01-01,WeChat,Communication,100000000
+2014-01-01,WeChat,Communication,100000000
+2014-01-01,WeChat,Communication,50000000
+2013-01-01,WeChat,Communication,10000000
+2013-01-01,WeChat,Communication,5000000
+2012-01-01,WeChat,Communication,1000000
+2020-01-01,Music,Music & Audio,100000000
+2017-01-01,Music,Music & Audio,100000000
+2016-01-01,Music,Music & Audio,50000000
+2015-01-01,Music,Music & Audio,10000000
+2020-01-01,Automatic Call Recorder,Tools,100000000
+2017-01-01,Automatic Call Recorder,Tools,100000000
+2016-01-01,Automatic Call Recorder,Tools,50000000
+2014-01-01,Automatic Call Recorder,Tools,10000000
+2013-01-01,Automatic Call Recorder,Tools,5000000
+2012-01-01,Automatic Call Recorder,Tools,1000000
+2012-01-01,Automatic Call Recorder,Tools,100000
+2020-01-01,Kiloblocks Lite,Game Adventure,100000000
+2017-01-01,Kiloblocks Lite,Game Adventure,100000000
+2016-01-01,Kiloblocks Lite,Game Adventure,50000000
+2015-01-01,Kiloblocks Lite,Game Adventure,10000000
+2015-01-01,Kiloblocks Lite,Game Adventure,5000000
+2015-01-01,Kiloblocks Lite,Game Adventure,1000000
+2014-01-01,Kiloblocks Lite,Game Adventure,10000
+2020-01-01,Huawei Mobile Services,Tools,100000000
+2019-01-01,Huawei Mobile Services,Tools,100000000
+2018-01-01,Huawei Mobile Services,Tools,50000000
+2017-01-01,Huawei Mobile Services,Tools,10000000
+2020-01-01,Flash Keyboard - Emoji & Theme,Tools,100000000
+2019-01-01,Flash Keyboard - Emoji & Theme,Tools,100000000
+2016-01-01,Flash Keyboard - Emoji & Theme,Tools,50000000
+2016-01-01,Flash Keyboard - Emoji & Theme,Tools,10000000
+2020-01-01,My Verizon,Tools,100000000
+2019-01-01,My Verizon,Tools,100000000
+2015-01-01,My Verizon,Tools,50000000
+2012-01-01,My Verizon,Tools,10000000
+2020-01-01,Rise Up,Game Arcade,100000000
+2019-01-01,Rise Up,Game Arcade,100000000
+2019-01-01,Rise Up,Game Arcade,50000000
+2019-01-01,Rise Up,Game Arcade,10000000
+2018-01-01,Rise Up,Game Arcade,5000000
+2018-01-01,Rise Up,Game Arcade,1000000
+2020-01-01,FM Radio,Music & Audio,100000000
+2018-01-01,FM Radio,Music & Audio,100000000
+2017-01-01,FM Radio,Music & Audio,50000000
+2015-01-01,FM Radio,Music & Audio,10000000
+2014-01-01,FM Radio,Music & Audio,5000000
+2014-01-01,FM Radio,Music & Audio,1000000
+2014-01-01,FM Radio,Music & Audio,500000
+2014-01-01,FM Radio,Music & Audio,100000
+2020-01-01,Tinder,Lifestyle,100000000
+2017-01-01,Tinder,Lifestyle,100000000
+2016-01-01,Tinder,Lifestyle,50000000
+2014-01-01,Tinder,Lifestyle,10000000
+2014-01-01,Tinder,Lifestyle,5000000
+2014-01-01,Tinder,Lifestyle,1000000
+2020-01-01,VK — live chatting & free calls,Social,100000000
+2016-01-01,VK — live chatting & free calls,Social,100000000
+2015-01-01,VK — live chatting & free calls,Social,50000000
+2013-01-01,VK — live chatting & free calls,Social,10000000
+2013-01-01,VK — live chatting & free calls,Social,5000000
+2012-01-01,VK — live chatting & free calls,Social,1000000
+2020-01-01,Color Bump 3D,Game Arcade,100000000
+2019-01-01,Color Bump 3D,Game Arcade,100000000
+2019-01-01,Color Bump 3D,Game Arcade,50000000
+2019-01-01,Color Bump 3D,Game Arcade,10000000
+2019-01-01,Color Bump 3D,Game Arcade,5000000
+2019-01-01,Color Bump 3D,Game Arcade,1000000
+2019-01-01,Color Bump 3D,Game Arcade,500000
+2020-01-01,Smart Connect,Tools,100000000
+2015-01-01,Smart Connect,Tools,100000000
+2014-01-01,Smart Connect,Tools,50000000
+2012-01-01,Smart Connect,Tools,10000000
+2012-01-01,Smart Connect,Tools,5000000
+2020-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,100000000
+2020-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,100000000
+2018-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,50000000
+2017-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,10000000
+2017-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,5000000
+2016-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,1000000
+2016-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,500000
+2016-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,100000
+2016-01-01,"Voot-Colors, MTV, International Shows & Originals",Entertainment,50000
+2020-01-01,Ola. Get rides on-demand,Maps & Navigation,100000000
+2020-01-01,Ola. Get rides on-demand,Maps & Navigation,100000000
+2018-01-01,Ola. Get rides on-demand,Maps & Navigation,50000000
+2016-01-01,Ola. Get rides on-demand,Maps & Navigation,10000000
+2015-01-01,Ola. Get rides on-demand,Maps & Navigation,5000000
+2015-01-01,Ola. Get rides on-demand,Maps & Navigation,1000000
+2015-01-01,Ola. Get rides on-demand,Maps & Navigation,500000
+2014-01-01,Ola. Get rides on-demand,Maps & Navigation,100000
+2014-01-01,Ola. Get rides on-demand,Maps & Navigation,50000
+2013-01-01,Ola. Get rides on-demand,Maps & Navigation,10000
+2020-01-01,AR effect,Photography,100000000
+2018-01-01,AR effect,Photography,100000000
+2016-01-01,AR effect,Photography,50000000
+2015-01-01,AR effect,Photography,10000000
+2014-01-01,AR effect,Photography,5000000
+2014-01-01,AR effect,Photography,1000000
+2014-01-01,AR effect,Photography,500000
+2020-01-01,Phone,Tools,100000000
+2019-01-01,Phone,Tools,100000000
+2019-01-01,Phone,Tools,50000000
+2017-01-01,Phone,Tools,10000000
+2016-01-01,Phone,Tools,5000000
+2016-01-01,Phone,Tools,1000000
+2020-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,100000000
+2020-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,100000000
+2019-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,50000000
+2016-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,10000000
+2015-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,5000000
+2014-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,1000000
+2014-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,500000
+2013-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,100000
+2013-01-01,"SonyLIV -TV Shows, Movies & Live Sports Online",Entertainment,50000
+2020-01-01,HUAWEI Video Player,Video Players,100000000
+2020-01-01,HUAWEI Video Player,Video Players,100000000
+2020-01-01,JioCall,Communication,100000000
+2019-01-01,JioCall,Communication,100000000
+2017-01-01,JioCall,Communication,50000000
+2017-01-01,JioCall,Communication,10000000
+2017-01-01,JioCall,Communication,5000000
+2017-01-01,JioCall,Communication,1000000
+2017-01-01,JioCall,Communication,500000
+2016-01-01,JioCall,Communication,100000
+2016-01-01,JioCall,Communication,50000
+2020-01-01,Super Mario Run,Game Action,100000000
+2018-01-01,Super Mario Run,Game Action,100000000
+2020-01-01,Timeshift burst,Photography,100000000
+2020-01-01,Timeshift burst,Photography,100000000
+2016-01-01,Timeshift burst,Photography,50000000
+2015-01-01,Timeshift burst,Photography,10000000
+2015-01-01,Timeshift burst,Photography,5000000
+2014-01-01,Timeshift burst,Photography,1000000
+2014-01-01,Timeshift burst,Photography,10000
+2020-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,100000000
+2020-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,100000000
+2019-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,50000000
+2018-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,10000000
+2017-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,5000000
+2016-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,1000000
+2015-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,500000
+2014-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,100000
+2013-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,50000
+2013-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,10000
+2012-01-01,"ZEE5 - Latest Movies, Originals & TV Shows",Entertainment,5000
+2020-01-01,Huawei Health,Health & Fitness,100000000
+2019-01-01,Huawei Health,Health & Fitness,100000000
+2018-01-01,Huawei Health,Health & Fitness,50000000
+2017-01-01,Huawei Health,Health & Fitness,10000000
+2017-01-01,Huawei Health,Health & Fitness,5000000
+2020-01-01,Talking Angela,Entertainment,100000000
+2017-01-01,Talking Angela,Entertainment,100000000
+2015-01-01,Talking Angela,Entertainment,50000000
+2013-01-01,Talking Angela,Entertainment,10000000
+2013-01-01,Talking Angela,Entertainment,5000000
+2013-01-01,Talking Angela,Entertainment,1000000
+2020-01-01,TubeMote,Entertainment,100000000
+2018-01-01,TubeMote,Entertainment,100000000
+2013-01-01,TubeMote,Entertainment,5000000
+2012-01-01,TubeMote,Entertainment,1000000
+2012-01-01,TubeMote,Entertainment,500000
+2020-01-01,Telcel,Entertainment,100000000
+2020-01-01,Telcel,Entertainment,100000000
+2018-01-01,Telcel,Entertainment,50000000
+2015-01-01,Telcel,Entertainment,10000000
+2015-01-01,Telcel,Entertainment,5000000
+2014-01-01,Telcel,Entertainment,1000000
+2014-01-01,Telcel,Entertainment,500000
+2020-01-01,Moto Camera,Photography,100000000
+2020-01-01,Moto Camera,Photography,100000000
+2019-01-01,Moto Camera,Photography,50000000
+2017-01-01,Moto Camera,Photography,10000000
+2017-01-01,Moto Camera,Photography,5000000
+2017-01-01,Moto Camera,Photography,1000000
+2017-01-01,Moto Camera,Photography,500000
+2016-01-01,Moto Camera,Photography,100000
+2016-01-01,Moto Camera,Photography,50000
+2020-01-01,Motorola Camera,Photography,100000000
+2019-01-01,Motorola Camera,Photography,100000000
+2016-01-01,Motorola Camera,Photography,50000000
+2014-01-01,Motorola Camera,Photography,10000000
+2014-01-01,Motorola Camera,Photography,5000000
+2014-01-01,Motorola Camera,Photography,1000000
+2014-01-01,Motorola Camera,Photography,500000
+2014-01-01,Motorola Camera,Photography,100000
+2020-01-01,App Box,Productivity,100000000
+2020-01-01,App Box,Productivity,100000000
+2019-01-01,App Box,Productivity,50000000
+2019-01-01,App Box,Productivity,10000000
+2017-01-01,App Box,Productivity,5000000
+2014-01-01,App Box,Productivity,1000000
+2014-01-01,App Box,Productivity,500000
+2014-01-01,App Box,Productivity,100000
+2014-01-01,App Box,Productivity,50000
+2020-01-01,Mi Telcel,Tools,100000000
+2020-01-01,Mi Telcel,Tools,100000000
+2019-01-01,Mi Telcel,Tools,50000000
+2016-01-01,Mi Telcel,Tools,10000000
+2015-01-01,Mi Telcel,Tools,5000000
+2014-01-01,Mi Telcel,Tools,1000000
+2014-01-01,Mi Telcel,Tools,500000
+2013-01-01,Mi Telcel,Tools,100000
+2013-01-01,Mi Telcel,Tools,50000
+2013-01-01,Mi Telcel,Tools,10000
+2020-01-01,Call of Duty®: Mobile,Game Action,100000000
+2020-01-01,Call of Duty®: Mobile,Game Action,100000000
+2020-01-01,Call of Duty®: Mobile,Game Action,50000000
+2020-01-01,Call of Duty®: Mobile,Game Action,10000000
+2020-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,50000000
+2018-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,50000000
+2015-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,10000000
+2014-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,5000000
+2013-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,1000000
+2012-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,500000
+2012-01-01,Kaspersky Mobile Antivirus: AppLock & Web Security,Tools,100000
+2020-01-01,Boom Beach,Game Strategy,50000000
+2016-01-01,Boom Beach,Game Strategy,50000000
+2015-01-01,Boom Beach,Game Strategy,10000000
+2015-01-01,Boom Beach,Game Strategy,5000000
+2014-01-01,Boom Beach,Game Strategy,1000000
+2014-01-01,Boom Beach,Game Strategy,100
+2020-01-01,Shopee Big Ramadhan Sale,Shopping,50000000
+2019-01-01,Shopee Big Ramadhan Sale,Shopping,50000000
+2017-01-01,Shopee Big Ramadhan Sale,Shopping,10000000
+2017-01-01,Shopee Big Ramadhan Sale,Shopping,5000000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,1000000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,500000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,100000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,50000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,10000
+2016-01-01,Shopee Big Ramadhan Sale,Shopping,5000
+2015-01-01,Shopee Big Ramadhan Sale,Shopping,1000
+2020-01-01,My Cafe — Restaurant game,Game Casual,50000000
+2020-01-01,My Cafe — Restaurant game,Game Casual,50000000
+2017-01-01,My Cafe — Restaurant game,Game Casual,10000000
+2017-01-01,My Cafe — Restaurant game,Game Casual,5000000
+2016-01-01,My Cafe — Restaurant game,Game Casual,1000000
+2016-01-01,My Cafe — Restaurant game,Game Casual,500000
+2016-01-01,My Cafe — Restaurant game,Game Casual,100000
+2015-01-01,My Cafe — Restaurant game,Game Casual,50000
+2015-01-01,My Cafe — Restaurant game,Game Casual,10000
+2015-01-01,My Cafe — Restaurant game,Game Casual,5000
+2015-01-01,My Cafe — Restaurant game,Game Casual,1000
+2020-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,50000000
+2019-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,50000000
+2016-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,10000000
+2015-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,5000000
+2014-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,1000000
+2014-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,500000
+2013-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,100000
+2013-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,50000
+2013-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,10000
+2013-01-01,GuitarTuna - Tuner for Guitar Ukulele Bass & more!,Tools,5000
+2020-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,50000000
+2019-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,50000000
+2018-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,10000000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,5000000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,1000000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,500000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,100000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,50000
+2017-01-01,Idle Miner Tycoon - Mine Manager Simulator,Game Simulation,10000
+2020-01-01,Home Workout - No Equipment,Health & Fitness,50000000
+2019-01-01,Home Workout - No Equipment,Health & Fitness,50000000
+2018-01-01,Home Workout - No Equipment,Health & Fitness,10000000
+2018-01-01,Home Workout - No Equipment,Health & Fitness,5000000
+2018-01-01,Home Workout - No Equipment,Health & Fitness,1000000
+2018-01-01,Home Workout - No Equipment,Health & Fitness,500000
+2018-01-01,Home Workout - No Equipment,Health & Fitness,1000
+2020-01-01,Toon Blast,Game Puzzle,50000000
+2019-01-01,Toon Blast,Game Puzzle,50000000
+2018-01-01,Toon Blast,Game Puzzle,10000000
+2018-01-01,Toon Blast,Game Puzzle,5000000
+2018-01-01,Toon Blast,Game Puzzle,1000000
+2018-01-01,Toon Blast,Game Puzzle,100000
+2020-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,50000000
+2020-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,50000000
+2018-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,10000000
+2017-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,5000000
+2017-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,1000000
+2017-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,500000
+2016-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,100000
+2016-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,50000
+2016-01-01,Video Downloader for Instagram - Repost Instagram,Video Players,10000
