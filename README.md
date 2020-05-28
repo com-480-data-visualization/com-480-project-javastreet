@@ -55,9 +55,8 @@ Useful links:
 Our Process Book can be found on the following file: [Javastreet_ProcessBook.pdf](Javastreet_ProcessBook.pdf)
 
 The other deliverables are available on the following links :
-- Screencast: 
+- Screencast: https://youtu.be/0txB_ZoGL5Y
 - Website: http://appoffame.github.io/ (designed to be viewed on Google Chrome)
 - Website's repository: https://github.com/AppOfFame/AppOfFame.github.io
 
-**80% of the final grade**
 
