@@ -52,5 +52,11 @@ Useful links:
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
+Our Process Book can be found on the following file: [Javastreet_ProcessBook.pdf](Javastreet_ProcessBook.pdf)
+
+Useful links: 
+- Website: http://appoffame.github.io/
+- Website's repository: https://github.com/AppOfFame/AppOfFame.github.io
+
 **80% of the final grade**
 
